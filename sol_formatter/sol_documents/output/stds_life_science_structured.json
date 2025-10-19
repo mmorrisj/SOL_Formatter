@@ -1,0 +1,498 @@
+{
+  "document_metadata": {
+    "title": "Science Standards of Learning for Public Schools",
+    "grade_level": "K-12",
+    "course_name": "Science",
+    "year": 2023
+  },
+  "introduction": "The Science Standards of Learning for Virginia Public Schools identify academic content for essential components of the science curriculum at different grade levels. The content of the standards, in conjunction with effective instruction, provide a platform for creating scientifically literate students. The Science Standards of Learning reflect a vertical progression of content and practices. The Standards of Learning contain content strands or topics that progress in complexity as they are studied at various grade levels in grades K-5 and are represented indirectly throughout the middle and high school courses. These strands are Scientific and Engineering Practices, Force, Motion, and Energy, Matter, Living Systems and Processes, Earth and Space Systems, Earth Resources. Six critical components for achieving science literacy are 1) Goals; 2) Investigate and Understand; 3) Nature of Science; 4) Science and Engineering Practices; 5) K-12 Safety; and 6) Instructional Technology. These six components support the Profile of a Virginia Graduate and an integrated instructional approach that incorporates science, technology, engineering, and mathematics (STEM). It is imperative to science instruction that the local curriculum consider and address how these components are incorporated in the design of the K-12 science program.",
+  "strands": [
+    {
+      "strand_code": "LS",
+      "strand_name": "Life Science",
+      "standards": [
+        {
+          "standard_id": "LS.1",
+          "standard_statement": "The student will demonstrate an understanding of scientific and engineering practices by asking questions and defining problems, planning and carrying out investigations, interpreting, analyzing, and evaluating data, constructing and critiquing conclusions and explanations, developing and using models, obtaining, evaluating, and communicating information.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "ask questions and develop hypotheses to determine relationships between independent and dependent variables",
+                "primary_action_verb": "ask",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "offer simple solutions to design problems",
+                "primary_action_verb": "offer",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "independently and collaboratively plan and conduct observational and experimental investigations; identify variables, constants, and controls where appropriate and include the safe use of chemicals and equipment",
+                "primary_action_verb": "plan",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "evaluate the accuracy of various methods for collecting data",
+                "primary_action_verb": "evaluate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "take metric measurements using appropriate tools and technologies including the use of microscopes",
+                "primary_action_verb": "take",
+                "examples": [
+                  "microscopes"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "identify, interpret, and evaluate patterns in data",
+                "primary_action_verb": "identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "construct, analyze, and interpret graphical displays of data",
+                "primary_action_verb": "construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "compare and contrast data collected by different groups and discuss similarities and differences in their findings",
+                "primary_action_verb": "compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "consider limitations of data analysis and/or seek to improve precision and accuracy of data",
+                "primary_action_verb": "consider",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "use data to evaluate and refine design solutions",
+                "primary_action_verb": "use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "construct explanations that include qualitative or quantitative relationships between variables",
+                "primary_action_verb": "construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "construct scientific explanations based on valid and reliable evidence obtained from sources (including the students’ own investigations)",
+                "primary_action_verb": "construct",
+                "examples": [
+                  "students’ own investigations"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "differentiate between a scientific hypothesis and theory",
+                "primary_action_verb": "differentiate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "construct and use models and simulations to illustrate, predict, and/or explain observable and unobservable phenomena, life processes, or mechanisms",
+                "primary_action_verb": "construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "evaluate limitations of models",
+                "primary_action_verb": "evaluate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "read scientific texts, including those adapted for classroom use, to obtain scientific and/or technical information",
+                "primary_action_verb": "read",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "gather, read, and synthesize information from multiple appropriate sources and assess the credibility, accuracy, and possible bias of each publication",
+                "primary_action_verb": "gather",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "construct, use, and/or present an argument supported by empirical evidence and scientific reasoning",
+                "primary_action_verb": "construct",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "LS.2",
+          "standard_statement": "The student will investigate and understand that all living things are composed of one or more cells that support life processes, as described by the cell theory.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "the development of the cell theory demonstrates the nature of science",
+                "primary_action_verb": "demonstrate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "cell structure and organelles support life processes",
+                "primary_action_verb": "support",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "similarities and differences between plant and animal cells determine how they support life processes",
+                "primary_action_verb": "determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "cell division is the mechanism for growth and reproduction",
+                "primary_action_verb": "is",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "cellular transport (osmosis and diffusion) is important for life processes",
+                "primary_action_verb": "is",
+                "examples": [
+                  "osmosis",
+                  "diffusion"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "LS.3",
+          "standard_statement": "The student will investigate and understand that there are levels of structural organization in living things.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "patterns of cellular organization support life processes",
+                "primary_action_verb": "support",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "unicellular and multicellular organisms have comparative structures",
+                "primary_action_verb": "have",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "similar characteristics determine the classification of organisms",
+                "primary_action_verb": "determine",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "LS.4",
+          "standard_statement": "The student will investigate and understand that there are chemical processes of energy transfer which are important for life.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "photosynthesis is the foundation of virtually all food webs",
+                "primary_action_verb": "is",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "photosynthesis and cellular respiration support life processes",
+                "primary_action_verb": "support",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "LS.5",
+          "standard_statement": "The student will investigate and understand that biotic and abiotic factors affect an ecosystem.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "matter moves through ecosystems via the carbon, water, and nitrogen cycles",
+                "primary_action_verb": "moves",
+                "examples": [
+                  "carbon",
+                  "water",
+                  "nitrogen"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "energy flow is represented by food webs and energy pyramids",
+                "primary_action_verb": "is",
+                "examples": [
+                  "food webs",
+                  "energy pyramids"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "relationships exist among producers, consumers, and decomposers",
+                "primary_action_verb": "exist",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "LS.6",
+          "standard_statement": "The student will investigate and understand that populations in a biological community interact and are interdependent.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "relationships exist between predators and prey and these relationships are modeled in food webs",
+                "primary_action_verb": "exist",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the availability and use of resources may lead to competition and cooperation",
+                "primary_action_verb": "lead",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "symbiotic relationships support the survival of different species",
+                "primary_action_verb": "support",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the niche of each organism supports survival",
+                "primary_action_verb": "supports",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "LS.7",
+          "standard_statement": "The student will investigate and understand that adaptations support an organism’s survival in an ecosystem.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "biotic and abiotic factors define land, marine, and freshwater ecosystems",
+                "primary_action_verb": "define",
+                "examples": [
+                  "land",
+                  "marine",
+                  "freshwater"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "physical and behavioral characteristics enable organisms to survive within a specific ecosystem",
+                "primary_action_verb": "enable",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "LS.8",
+          "standard_statement": "The student will investigate and understand that ecosystems, communities, populations, and organisms are dynamic and change over time.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "organisms respond to daily, seasonal, and long-term changes",
+                "primary_action_verb": "respond",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "changes in the environment may increase or decrease population size",
+                "primary_action_verb": "may",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "large-scale changes such as eutrophication, climate changes, and catastrophic disturbances affect ecosystems",
+                "primary_action_verb": "affect",
+                "examples": [
+                  "eutrophication",
+                  "climate changes",
+                  "catastrophic disturbances"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "LS.9",
+          "standard_statement": "The student will investigate and understand that relationships exist between ecosystem dynamics and human activity.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "changes in habitat can disturb populations",
+                "primary_action_verb": "disturb",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "disruptions in ecosystems can change species competition",
+                "primary_action_verb": "change",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "variations in biotic and abiotic factors can change ecosystems",
+                "primary_action_verb": "change",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "LS.10",
+          "standard_statement": "The student will investigate and understand that organisms reproduce and transmit genetic information to new generations.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "DNA has a role in making proteins that determine organism traits",
+                "primary_action_verb": "has",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the role of meiosis is to transfer traits to the next generation",
+                "primary_action_verb": "is",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Punnett squares are mathematical models used to predict the probability of traits in offspring",
+                "primary_action_verb": "are",
+                "examples": [
+                  "Punnett squares"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "LS.11",
+          "standard_statement": "The student will investigate and understand that populations of organisms can change over time.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "mutation, adaptation, natural selection, and extinction change populations",
+                "primary_action_verb": "change",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the fossil record, genetic information, and anatomical comparisons provide evidence for evolution",
+                "primary_action_verb": "provide",
+                "examples": [
+                  "fossil record",
+                  "genetic information",
+                  "anatomical comparisons"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "environmental factors and genetic variation influence survivability and diversity of organisms",
+                "primary_action_verb": "influence",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "science",
+    "life science",
+    "cell theory",
+    "ecosystems",
+    "energy transfer",
+    "adaptation",
+    "population dynamics",
+    "genetics"
+  ],
+  "cognitive_level": [
+    "remember",
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "suggested_question_types": {
+    "ask": [
+      "multiple_choice",
+      "short_answer"
+    ],
+    "offer": [
+      "short_answer"
+    ],
+    "plan": [
+      "problem_solving"
+    ],
+    "evaluate": [
+      "short_answer"
+    ],
+    "take": [
+      "problem_solving"
+    ],
+    "identify": [
+      "multiple_choice",
+      "short_answer"
+    ],
+    "construct": [
+      "short_answer",
+      "problem_solving"
+    ],
+    "read": [
+      "short_answer"
+    ],
+    "gather": [
+      "short_answer"
+    ],
+    "support": [
+      "short_answer"
+    ],
+    "determine": [
+      "short_answer"
+    ],
+    "respond": [
+      "short_answer"
+    ],
+    "change": [
+      "short_answer"
+    ],
+    "influence": [
+      "short_answer"
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "stds_life_science.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 7308,
+    "prompt_tokens": 3899,
+    "completion_tokens": 3409
+  }
+}

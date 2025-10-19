@@ -1,0 +1,548 @@
+{
+  "document": {
+    "metadata": {
+      "title": "Foundations for Reading Progression by Grade",
+      "grade_level": "Kindergarten to Grade 12",
+      "course_name": "English Standards of Learning",
+      "year": 2023
+    },
+    "introduction": "Teachers should reference Virginia’s Approach to Text Complexity located in the appendix of the 2024 English Standards of Learning for guidance in selecting relevant texts. The 2024 English Standards of Learning reflect grade level expectations for instruction.",
+    "strands": [
+      {
+        "code": "PC",
+        "name": "Print Concepts",
+        "standards": [
+          {
+            "id": "PC.1",
+            "statement": "Follow words from left to right and from top to bottom on a printed page, including the return sweep from line to line.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Follow words from left to right and from top to bottom on a printed page.",
+                  "primary_action_verb": "Follow",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PC.2",
+            "statement": "Demonstrate knowledge of a sentence, word, and letter.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Demonstrate knowledge of a sentence, word, and letter.",
+                  "primary_action_verb": "Demonstrate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PC.3",
+            "statement": "Demonstrate knowledge that spoken words are represented in print and separated by spaces.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Demonstrate knowledge that spoken words are represented in print.",
+                  "primary_action_verb": "Demonstrate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PC.4",
+            "statement": "Identify the author and illustrator of a text and define the role of each.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Identify the author and illustrator of a text.",
+                  "primary_action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PC.5",
+            "statement": "Identify the front cover, back cover, and title of a text.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Identify the front cover, back cover, and title of a text.",
+                  "primary_action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PC.6",
+            "statement": "Recognize the distinguishing features of a sentence (e.g., first word, capitalization, ending punctuation).",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Recognize the distinguishing features of a sentence.",
+                  "primary_action_verb": "Recognize",
+                  "examples": [
+                    "first word",
+                    "capitalization",
+                    "ending punctuation"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PA",
+        "name": "Phonological and Phonemic Awareness",
+        "standards": [
+          {
+            "id": "PA.1",
+            "statement": "Demonstrate ability to segment spoken words in sentences and syllables in words.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Demonstrate ability to segment spoken words.",
+                  "primary_action_verb": "Demonstrate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PA.2",
+            "statement": "Blend and segment one syllable words by onset and rime.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Blend and segment one syllable words.",
+                  "primary_action_verb": "Blend",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PA.3",
+            "statement": "Isolate the initial, medial, and final sounds in three phoneme (individual sound) words (excluding words ending with /l/, /r/, or /x/).",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Isolate the initial, medial, and final sounds in three phoneme words.",
+                  "primary_action_verb": "Isolate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PA.4",
+            "statement": "Isolate sounds in four and five phoneme words.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Isolate sounds in four and five phoneme words.",
+                  "primary_action_verb": "Isolate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PA.5",
+            "statement": "Demonstrate ability to segment and blend one syllable words with two, three, and four phonemes (including words with consonant digraphs th, sh, ch, wh).",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Demonstrate ability to segment and blend one syllable words.",
+                  "primary_action_verb": "Demonstrate",
+                  "examples": [
+                    "th",
+                    "sh",
+                    "ch",
+                    "wh"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PA.6",
+            "statement": "Demonstrate ability to blend words with four and five phonemes, including words with consonant digraphs (e.g., th, sh, ch, wh) and consonant blends (e.g., fr, st, bl).",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Demonstrate ability to blend words with four and five phonemes.",
+                  "primary_action_verb": "Demonstrate",
+                  "examples": [
+                    "th",
+                    "sh",
+                    "ch",
+                    "wh",
+                    "fr",
+                    "st",
+                    "bl"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PA.7",
+            "statement": "Demonstrate the ability to segment words with four and five phonemes, including words with consonant digraphs (e.g., th, sh, ch) and consonant blends (e.g., fr, st, bl).",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Demonstrate the ability to segment words with four and five phonemes.",
+                  "primary_action_verb": "Demonstrate",
+                  "examples": [
+                    "th",
+                    "sh",
+                    "ch",
+                    "fr",
+                    "st",
+                    "bl"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PW",
+        "name": "Phonics and Word Analysis",
+        "standards": [
+          {
+            "id": "PW.1",
+            "statement": "Identify capital and lowercase letters of the alphabet.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Identify capital and lowercase letters of the alphabet.",
+                  "primary_action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.2",
+            "statement": "Identify common letter-sound correspondences.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Identify common letter-sound correspondences.",
+                  "primary_action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.3",
+            "statement": "Discriminate between long and short sounds with common spellings for the five major vowels with open and closed syllables (e.g., short /e/ as in “pet”, long /e/ as in “he”).",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Discriminate between long and short sounds.",
+                  "primary_action_verb": "Discriminate",
+                  "examples": [
+                    "short /e/ as in 'pet'",
+                    "long /e/ as in 'he'"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.4",
+            "statement": "Demonstrate knowledge that every word has a vowel sound.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Demonstrate knowledge that every word has a vowel sound.",
+                  "primary_action_verb": "Demonstrate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.5",
+            "statement": "Identify the letter-sound correspondences for consonant digraphs (e.g., ch, sh, th, wh).",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Identify the letter-sound correspondences for consonant digraphs.",
+                  "primary_action_verb": "Identify",
+                  "examples": [
+                    "ch",
+                    "sh",
+                    "th",
+                    "wh"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.6",
+            "statement": "Demonstrate knowledge of letter-sound correspondences to blend CV, CVC, VC words.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Demonstrate knowledge of letter-sound correspondences to blend words.",
+                  "primary_action_verb": "Demonstrate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.7",
+            "statement": "Decode (read) and encode (spell) words with short vowels, including words beginning or ending in a digraph (e.g., ch, sh, th, wh).",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Decode and encode words with short vowels.",
+                  "primary_action_verb": "Decode",
+                  "examples": [
+                    "ch",
+                    "sh",
+                    "th",
+                    "wh"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.8",
+            "statement": "Decode and encode words with short vowels to include blends with digraphs, closed syllables (CVC, CCVC, CVCC, CCVCC).",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Decode and encode words with short vowels to include blends.",
+                  "primary_action_verb": "Decode",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.9",
+            "statement": "Decode and encode words with long vowels, open syllables, (CV, CCV) and vowel-consonant-e (CVCE, CCVCE).",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Decode and encode words with long vowels.",
+                  "primary_action_verb": "Decode",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.10",
+            "statement": "Use letter-sound correspondences to decode words containing common vowel teams and r-controlled vowels.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Use letter-sound correspondences to decode words.",
+                  "primary_action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.11",
+            "statement": "Decode and encode words with short vowels to include blends, digraphs, and trigraphs in closed syllables (CVCC, CCVC, CVCC, CCVCC, and CCVCCC) and open syllables (CV, CCV).",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Decode and encode words with short vowels to include blends.",
+                  "primary_action_verb": "Decode",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.12",
+            "statement": "Decode and encode words with vowel teams and r-controlled vowels.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Decode and encode words with vowel teams.",
+                  "primary_action_verb": "Decode",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.13",
+            "statement": "Decode multisyllabic words following basic patterns by breaking the words into syllables.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Decode multisyllabic words by breaking the words into syllables.",
+                  "primary_action_verb": "Decode",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.14",
+            "statement": "Use knowledge of syllabication and syllable types to decode words.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Use knowledge of syllabication and syllable types to decode words.",
+                  "primary_action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.15",
+            "statement": "Use knowledge of syllabication and syllable types to decode and encode words.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Use knowledge of syllabication and syllable types to decode and encode words.",
+                  "primary_action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.16",
+            "statement": "Use knowledge of affixes (e.g., suffixes, prefixes) to decode words.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Use knowledge of affixes to decode words.",
+                  "primary_action_verb": "Use",
+                  "examples": [
+                    "suffixes",
+                    "prefixes"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.17",
+            "statement": "Use knowledge of affixes (e.g., suffixes, prefixes) to decode and encode words.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Use knowledge of affixes to decode and encode words.",
+                  "primary_action_verb": "Use",
+                  "examples": [
+                    "suffixes",
+                    "prefixes"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.18",
+            "statement": "Use knowledge of morphology (suffixes, prefixes, root/base) to decode words.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Use knowledge of morphology to decode words.",
+                  "primary_action_verb": "Use",
+                  "examples": [
+                    "suffixes",
+                    "prefixes",
+                    "root/base"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.19",
+            "statement": "Use letter-sound correspondences to read grade-level high frequency words, including decodable and irregular words, with automaticity and accuracy.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Use letter-sound correspondences to read grade-level high frequency words.",
+                  "primary_action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PW.20",
+            "statement": "Read grade-level high-frequency words, including decodable and irregular words with automaticity and accuracy.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Read grade-level high-frequency words.",
+                  "primary_action_verb": "Read",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "Foundations for Reading - 2024- Progression Chart.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 6283,
+    "prompt_tokens": 2637,
+    "completion_tokens": 3646
+  }
+}

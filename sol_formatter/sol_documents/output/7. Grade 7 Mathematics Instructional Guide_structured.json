@@ -1,0 +1,335 @@
+{
+  "document": {
+    "title": "Instructional Guide to Support 2023 Grade 7 Mathematics Standards of Learning",
+    "grade_level": "7",
+    "course_name": "Mathematics",
+    "year": 2023,
+    "introduction": "The Mathematics Instructional Guide, a companion document to the 2023 Mathematics Standards of Learning, amplifies the Standards of Learning by defining the core knowledge and skills in practice, supporting teachers and their instruction, and serving to transition classroom instruction from the 2016 Mathematics Standards of Learning to the newly adopted 2023 Mathematics Standards of Learning. Instructional supports are accessible in #GoOpenVA and support the decisions local school divisions must make concerning local curriculum development and how best to help students meet the goals of the standards. The local curriculum should include a variety of information sources, readings, learning experiences, and forms of assessment selected at the local level to create a rigorous instructional program. For a complete list of the changes by standard, the 2023 Virginia Mathematics Standards of Learning – Overview of Revisions is available and delineates in greater specificity the changes for each grade level and course. The Instructional Guide is divided into three sections: Understanding the Standard, Skills in Practice, and Concepts and Connections aligned to the Standard. The purpose of each is explained below.",
+    "strands": [
+      {
+        "code": "NS",
+        "name": "Number and Number Sense",
+        "standards": [
+          {
+            "id": "7.NS.1",
+            "statement": "The student will investigate and describe the concept of exponents for powers of ten and compare and order numbers greater than zero written in scientific notation.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Investigate and describe powers of 10 with negative exponents by examining patterns.",
+                  "action_verb": "Investigate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Represent a power of 10 with a negative exponent in fraction and decimal form.",
+                  "action_verb": "Represent",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Convert between numbers greater than 0 written in scientific notation and decimals.",
+                  "action_verb": "Convert",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Compare and order no more than four numbers greater than 0 written in scientific notation. Ordering may be in ascending or descending order.",
+                  "action_verb": "Compare",
+                  "examples": [],
+                  "constraints": [
+                    "no more than four numbers"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.NS.2",
+            "statement": "The student will reason and use multiple strategies to compare and order rational numbers.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Use multiple strategies (e.g., benchmarks, number line, equivalency) to compare (using symbols <, >, =) and order (a set of no more than four) rational numbers expressed as integers, fractions (proper or improper), mixed numbers, decimals, and percents.",
+                  "action_verb": "Use",
+                  "examples": [
+                    "benchmarks",
+                    "number line",
+                    "equivalency"
+                  ],
+                  "constraints": [
+                    "a set of no more than four"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.NS.3",
+            "statement": "The student will recognize and describe the relationship between square roots and perfect squares.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Determine the positive square root of a perfect square from 0 to 400.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": [
+                    "from 0 to 400"
+                  ]
+                },
+                {
+                  "text": "Describe the relationship between square roots and perfect squares.",
+                  "action_verb": "Describe",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "CE",
+        "name": "Computation and Estimation",
+        "standards": [
+          {
+            "id": "7.CE.1",
+            "statement": "The student will estimate, solve, and justify solutions to multistep contextual problems involving operations with rational numbers.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Estimate, solve, and justify solutions to contextual problems involving addition, subtraction, multiplication, and division with rational numbers expressed as integers, fractions (proper or improper), mixed numbers, and decimals.",
+                  "action_verb": "Estimate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.CE.2",
+            "statement": "The student will solve problems, including those in context, involving proportional relationships.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Given a proportional relationship between two quantities, create and use a ratio table to determine missing values.",
+                  "action_verb": "Create",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Write and solve a proportion that represents a proportional relationship between two quantities to find a missing value, including problems in context.",
+                  "action_verb": "Write",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Apply proportional reasoning to solve problems in context, including converting units of measurement, when given the conversion factor.",
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Estimate and determine the percentage of a given whole number, including but not limited to the use of benchmark percentages.",
+                  "action_verb": "Estimate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "MG",
+        "name": "Measurement and Geometry",
+        "standards": [
+          {
+            "id": "7.MG.1",
+            "statement": "The student will investigate and determine the volume formula for right cylinders and the surface area formulas for rectangular prisms and right cylinders and apply the formulas in context.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Develop the formulas for determining the volume of right cylinders and solve problems, including those in contextual situations, using concrete objects, diagrams, and formulas.",
+                  "action_verb": "Develop",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Develop the formulas for determining the surface area of rectangular prisms and right cylinders and solve problems, including those in contextual situations, using concrete objects, two-dimensional diagrams, nets, and formulas.",
+                  "action_verb": "Develop",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.MG.2",
+            "statement": "The student will solve problems and justify relationships of similarity using proportional reasoning.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Identify corresponding congruent angles of similar quadrilaterals and triangles, through the use of geometric markings.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Identify corresponding sides of similar quadrilaterals and triangles.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.MG.3",
+            "statement": "The student will compare and contrast quadrilaterals based on their properties and determine unknown side lengths and angle measures of quadrilaterals.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Compare and contrast properties of the following quadrilaterals: parallelogram, rectangle, square, rhombus, and trapezoid.",
+                  "action_verb": "Compare",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.MG.4",
+            "statement": "The student will apply dilations of polygons in the coordinate plane.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Given a preimage in the coordinate plane, identify the coordinates of the image of a polygon that has been dilated.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PS",
+        "name": "Probability and Statistics",
+        "standards": [
+          {
+            "id": "7.PS.1",
+            "statement": "The student will use statistical investigation to determine the probability of an event and investigate and describe the difference between the experimental and theoretical probability.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Determine the theoretical probability of an event.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given the results of a statistical investigation, determine the experimental probability of an event.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.PS.2",
+            "statement": "The student will apply the data cycle (formulate questions; collect or acquire data; organize and represent data; and analyze data and communicate results) with a focus on histograms.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Formulate questions that require the collection or acquisition of data with a focus on histograms.",
+                  "action_verb": "Formulate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine the data needed to answer a formulated question and collect the data (or acquire existing data) using various methods.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PFA",
+        "name": "Patterns, Functions, and Algebra",
+        "standards": [
+          {
+            "id": "7.PFA.1",
+            "statement": "The student will investigate and analyze proportional relationships between two quantities using verbal descriptions, tables, equations in y = mx form, and graphs, including problems in context.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Determine the slope, m, as the rate of change in a proportional relationship between two quantities given a table of values, graph, or contextual situation and write an equation in the form y = mx to represent the direct variation relationship.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.PFA.2",
+            "statement": "The student will simplify numerical expressions, simplify and generate equivalent algebraic expressions in one variable, and evaluate algebraic expressions for given replacement values of the variables.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Use the order of operations and apply the properties of real numbers to simplify numerical expressions.",
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.PFA.3",
+            "statement": "The student will write and solve two-step linear equations in one variable, including problems in context, that require the solution of a two-step linear equation in one variable.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Represent and solve two-step linear equations in one variable using a variety of concrete materials and pictorial representations.",
+                  "action_verb": "Represent",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.PFA.4",
+            "statement": "The student will write and solve one- and two-step linear inequalities in one variable, including problems in context, that require the solution of a one- and two-step linear inequality in one variable.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Apply properties of real numbers and the addition, subtraction, multiplication, and division properties of inequality to solve one- and two-step inequalities in one variable.",
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "7. Grade 7 Mathematics Instructional Guide.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 37263,
+    "prompt_tokens": 34512,
+    "completion_tokens": 2751
+  }
+}

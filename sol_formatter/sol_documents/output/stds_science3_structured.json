@@ -1,0 +1,454 @@
+{
+  "document_metadata": {
+    "title": "Science Standards of Learning for Public Schools",
+    "grade_level": "Grade Three",
+    "course_name": "Science",
+    "year": 2023
+  },
+  "introduction": "The Science Standards of Learning for Virginia Public Schools identify academic content for essential components of the science curriculum at different grade levels. The content of the standards, in conjunction with effective instruction, provide a platform for creating scientifically literate students. The Science Standards of Learning reflect a vertical progression of content and practices. The Standards of Learning contain content strands or topics that progress in complexity as they are studied at various grade levels in grades K-5 and are represented indirectly throughout the middle and high school courses. These strands are Scientific and Engineering Practices, Force, Motion, and Energy, Matter, Living Systems and Processes, Earth and Space Systems, Earth Resources. Six critical components for achieving science literacy are 1) Goals; 2) Investigate and Understand; 3) Nature of Science; 4) Science and Engineering Practices; 5) K-12 Safety; and 6) Instructional Technology. These six components support the Profile of a Virginia Graduate and an integrated instructional approach that incorporates science, technology, engineering, and mathematics (STEM). It is imperative to science instruction that the local curriculum consider and address how these components are incorporated in the design of the K-12 science program.",
+  "strands": [
+    {
+      "strand_code": "SE",
+      "strand_name": "Scientific and Engineering Practices",
+      "standards": [
+        {
+          "standard_id": "3.1",
+          "standard_statement": "The student will demonstrate an understanding of scientific and engineering practices by asking questions and defining problems.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "ask questions that can be investigated and predict reasonable outcomes",
+                "primary_action_verb": "ask",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "ask questions about what would happen if a variable is changed",
+                "primary_action_verb": "ask",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "define a simple design problem that can be solved through the development of an object, tool, process, or system",
+                "primary_action_verb": "define",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "with guidance, plan and conduct investigations",
+                "primary_action_verb": "plan",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "use appropriate methods and/or tools for collecting data",
+                "primary_action_verb": "use",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "estimate length, mass, volume, and temperature",
+                "primary_action_verb": "estimate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "measure length, mass, volume, and temperature in metric and U.S. Customary units using proper tools",
+                "primary_action_verb": "measure",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "measure elapsed time",
+                "primary_action_verb": "measure",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "use tools and/or materials to design and/or build a device that solves a specific problem",
+                "primary_action_verb": "use",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "organize and represent data in pictographs or bar graphs",
+                "primary_action_verb": "organize",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "read, interpret, and analyze data represented in pictographs and bar graphs",
+                "primary_action_verb": "read",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "analyze data from tests of an object or tool to determine if it works as intended",
+                "primary_action_verb": "analyze",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "use evidence (measurements, observations, patterns) to construct or support an explanation",
+                "primary_action_verb": "use",
+                "sub_objectives": [
+                  "measurements",
+                  "observations",
+                  "patterns"
+                ],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "generate and/or compare multiple solutions to a problem",
+                "primary_action_verb": "generate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "describe how scientific ideas apply to design solutions",
+                "primary_action_verb": "describe",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "use models to demonstrate simple phenomena and natural processes",
+                "primary_action_verb": "use",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "develop a model (e.g., diagram or simple physical prototype) to illustrate a proposed object, tool, or process",
+                "primary_action_verb": "develop",
+                "sub_objectives": [
+                  "diagram",
+                  "simple physical prototype"
+                ],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "read and comprehend reading-level appropriate texts and/or other reliable media",
+                "primary_action_verb": "read",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "communicate scientific information, design ideas, and/or solutions with others",
+                "primary_action_verb": "communicate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "FM",
+      "strand_name": "Force, Motion, and Energy",
+      "standards": [
+        {
+          "standard_id": "3.2",
+          "standard_statement": "The student will investigate and understand that the direction and size of force affects the motion of an object.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "multiple forces may act on an object",
+                "primary_action_verb": "investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the net force on an object determines how an object moves",
+                "primary_action_verb": "understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "simple machines increase or change the direction of a force",
+                "primary_action_verb": "understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "simple and compound machines have many applications",
+                "primary_action_verb": "understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "M",
+      "strand_name": "Matter",
+      "standards": [
+        {
+          "standard_id": "3.3",
+          "standard_statement": "The student will investigate and understand how materials interact with water.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "solids and liquids mix with water in different ways",
+                "primary_action_verb": "investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "many solids dissolve more easily in hot water than in cold water",
+                "primary_action_verb": "understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "LS",
+      "strand_name": "Living Systems and Processes",
+      "standards": [
+        {
+          "standard_id": "3.4",
+          "standard_statement": "The student will investigate and understand that adaptations allow organisms to satisfy life needs and respond to the environment.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "populations may adapt over time",
+                "primary_action_verb": "investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "adaptations may be behavioral or physical",
+                "primary_action_verb": "understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "fossils provide evidence about the types of organisms that lived long ago as well as the nature of their environments",
+                "primary_action_verb": "understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "3.5",
+          "standard_statement": "The student will investigate and understand that aquatic and terrestrial ecosystems support a diversity of organisms.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "ecosystems are made of living and nonliving components of the environment",
+                "primary_action_verb": "investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "relationships exist among organisms in an ecosystem",
+                "primary_action_verb": "understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "ES",
+      "strand_name": "Earth and Space Systems",
+      "standards": [
+        {
+          "standard_id": "3.6",
+          "standard_statement": "The student will investigate and understand that soil is important in ecosystems.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "soil, with its different components, is important to organisms",
+                "primary_action_verb": "investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "soil provides support and nutrients necessary for plant growth",
+                "primary_action_verb": "understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "3.7",
+          "standard_statement": "The student will investigate and understand that there is a water cycle and water is important to life on Earth.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "there are many reservoirs of water on Earth",
+                "primary_action_verb": "investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the energy from the sun drives the water cycle",
+                "primary_action_verb": "understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the water cycle involves specific processes",
+                "primary_action_verb": "understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "ER",
+      "strand_name": "Earth Resources",
+      "standards": [
+        {
+          "standard_id": "3.8",
+          "standard_statement": "The student will investigate and understand that natural events and humans influence ecosystems.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "human activity affects the quality of air, water, and habitats",
+                "primary_action_verb": "investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "water is limited and needs to be conserved",
+                "primary_action_verb": "understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "fire, flood, disease, and erosion affect ecosystems",
+                "primary_action_verb": "understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "soil is a natural resource and should be conserved",
+                "primary_action_verb": "understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "scientific practices",
+    "engineering practices",
+    "force",
+    "motion",
+    "energy",
+    "matter",
+    "ecosystems",
+    "adaptations",
+    "water cycle",
+    "earth resources",
+    "environment"
+  ],
+  "cognitive_level": [
+    "remember",
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "suggested_question_types": {
+    "ask": [
+      "multiple_choice",
+      "matching"
+    ],
+    "define": [
+      "short_answer"
+    ],
+    "plan": [
+      "problem_solving"
+    ],
+    "use": [
+      "problem_solving",
+      "computational"
+    ],
+    "organize": [
+      "graphical",
+      "short_answer"
+    ],
+    "read": [
+      "short_answer"
+    ],
+    "analyze": [
+      "problem_solving",
+      "short_answer"
+    ],
+    "describe": [
+      "short_answer"
+    ],
+    "develop": [
+      "short_answer"
+    ],
+    "communicate": [
+      "short_answer"
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "stds_science3.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 6780,
+    "prompt_tokens": 3705,
+    "completion_tokens": 3075
+  }
+}

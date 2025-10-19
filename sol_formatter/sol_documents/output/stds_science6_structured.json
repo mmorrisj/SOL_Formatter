@@ -1,0 +1,545 @@
+{
+  "document_metadata": {
+    "title": "Science Standards of Learning for Public Schools",
+    "grade_level": "6",
+    "course_name": "Science",
+    "year": 2023
+  },
+  "introduction": "The Science Standards of Learning for Virginia Public Schools identify academic content for essential components of the science curriculum at different grade levels. The content of the standards, in conjunction with effective instruction, provide a platform for creating scientifically literate students. The Science Standards of Learning reflect a vertical progression of content and practices. The Standards of Learning contain content strands or topics that progress in complexity as they are studied at various grade levels in grades K-5 and are represented indirectly throughout the middle and high school courses. These strands are Scientific and Engineering Practices, Force, Motion, and Energy, Matter, Living Systems and Processes, Earth and Space Systems, Earth Resources. Six critical components for achieving science literacy are 1) Goals; 2) Investigate and Understand; 3) Nature of Science; 4) Science and Engineering Practices; 5) K-12 Safety; and 6) Instructional Technology. These six components support the Profile of a Virginia Graduate and an integrated instructional approach that incorporates science, technology, engineering, and mathematics (STEM). It is imperative to science instruction that the local curriculum consider and address how these components are incorporated in the design of the K-12 science program.",
+  "strands": [
+    {
+      "strand_code": "SE",
+      "strand_name": "Scientific and Engineering Practices",
+      "standards": [
+        {
+          "standard_id": "6.1",
+          "standard_statement": "The student will demonstrate an understanding of scientific and engineering practices by asking questions and defining problems.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "ask questions to determine relationships between independent and dependent variables",
+                "primary_action_verb": "ask",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "develop hypotheses and identify independent and dependent variables",
+                "primary_action_verb": "develop",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "offer simple solutions to design problems",
+                "primary_action_verb": "offer",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "independently and collaboratively plan and conduct observational and experimental investigations; identify variables, constants, and controls where appropriate, and include the safe use of chemicals and equipment",
+                "primary_action_verb": "plan",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "evaluate the accuracy of various methods for collecting data",
+                "primary_action_verb": "evaluate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "take metric measurements using appropriate tools",
+                "primary_action_verb": "take",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "use tools and materials to design and/or build a device to solve a specific problem",
+                "primary_action_verb": "use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "organize data sets to reveal patterns that suggest relationships",
+                "primary_action_verb": "organize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "construct, analyze, and interpret graphical displays of data",
+                "primary_action_verb": "construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "compare and contrast data collected by different groups and discuss similarities and differences in findings",
+                "primary_action_verb": "compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "use data to evaluate and refine design solutions",
+                "primary_action_verb": "use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "construct explanations that includes qualitative or quantitative relationships between variables",
+                "primary_action_verb": "construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "construct scientific explanations based on valid and reliable evidence obtained from sources (including the students’ own investigations)",
+                "primary_action_verb": "construct",
+                "examples": [
+                  "students’ own investigations"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "generate and compare multiple solutions to problems based on how well they meet the criteria and constraints",
+                "primary_action_verb": "generate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "use scale models to represent and estimate distance",
+                "primary_action_verb": "use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "use, develop, and revise models to predict and explain phenomena",
+                "primary_action_verb": "use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "evaluate limitations of models",
+                "primary_action_verb": "evaluate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "read scientific texts, including those adapted for classroom use, to obtain scientific and/or technical information",
+                "primary_action_verb": "read",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "gather, read, and synthesize information from multiple appropriate sources and assess the credibility, accuracy, and possible bias of each publication",
+                "primary_action_verb": "gather",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "construct, use, and/or present an argument supported by empirical evidence and scientific reasoning",
+                "primary_action_verb": "construct",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "ES",
+      "strand_name": "Earth and Space Systems",
+      "standards": [
+        {
+          "standard_id": "6.2",
+          "standard_statement": "The student will investigate and understand that the solar system is organized and the various bodies in the solar system interact.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "matter is distributed throughout the solar system",
+                "primary_action_verb": "investigate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "planets have different sizes and orbit at different distances from the sun",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "gravity contributes to orbital motion",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the understanding of the solar system has developed over time",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "6.3",
+          "standard_statement": "The student will investigate and understand that there is a relationship between the sun, Earth, and the moon.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Earth has unique properties",
+                "primary_action_verb": "investigate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the rotation of Earth in relationship to the sun causes day and night",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the movement of Earth and the moon in relationship to the sun causes phases of the moon",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Earth’s tilt as it revolves around the sun causes the seasons",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the relationship between Earth and the moon is the primary cause of tides",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "6.4",
+          "standard_statement": "The student will investigate and understand that there are basic sources of energy and that energy can be transformed.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "the sun is important in the formation of most energy sources on Earth",
+                "primary_action_verb": "investigate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Earth’s energy budget relates to living systems and Earth’s processes",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "radiation, conduction, and convection distribute energy",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "energy transformations are important in energy usage",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "6.5",
+          "standard_statement": "The student will investigate and understand that all matter is composed of atoms.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "atoms consist of particles, including electrons, protons, and neutrons",
+                "primary_action_verb": "investigate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "atoms of a particular element are similar but differ from atoms of other elements",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "elements may be represented by chemical symbols",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "two or more atoms interact to form new substances, which are held together by electrical forces (bonds)",
+                "primary_action_verb": "understand",
+                "examples": [
+                  "bonds"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "compounds may be represented by chemical formulas",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "chemical equations can be used to model chemical changes",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "a few elements comprise the largest portion of the solid Earth, living matter, the oceans, and the atmosphere",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "6.6",
+          "standard_statement": "The student will investigate and understand that water has unique physical properties and has a role in the natural and human-made environment.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "water is referred to as the universal solvent",
+                "primary_action_verb": "investigate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "water has specific properties",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "thermal energy has a role in phase changes",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "water has a role in weathering",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "large bodies of water moderate climate",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "water is important for agriculture, power generation, and public health",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "6.7",
+          "standard_statement": "The student will investigate and understand that air has properties and that Earth’s atmosphere has structure and is dynamic.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "air is a mixture of gaseous elements and compounds",
+                "primary_action_verb": "investigate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the atmosphere has physical characteristics",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "properties of the atmosphere change with altitude",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "there is a relationship between air movement, thermal energy, and weather conditions",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "atmospheric measures are used to predict weather conditions",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "weather maps give basic information about fronts, systems, and weather measurements",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "6.8",
+          "standard_statement": "The student will investigate and understand that land and water have roles in watershed systems.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "a watershed is composed of the land that drains into a body of water",
+                "primary_action_verb": "investigate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Virginia is composed of multiple watershed systems which have specific features",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the Chesapeake Bay is an estuary that has many important functions",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "natural processes, human activities, and biotic and abiotic factors influence the health of a watershed system",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "6.9",
+          "standard_statement": "The student will investigate and understand that humans impact the environment and individuals can influence public policy decisions related to energy and the environment.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "natural resources are important to protect and maintain",
+                "primary_action_verb": "investigate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "renewable and nonrenewable resources can be managed",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "major health and safety issues are associated with air and water quality",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "major health and safety issues are related to different forms of energy",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "preventive measures can protect land-use and reduce environmental hazards",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "there are cost/benefit tradeoffs in conservation policies",
+                "primary_action_verb": "understand",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "scientific practices",
+    "engineering",
+    "solar system",
+    "energy",
+    "matter",
+    "water properties",
+    "air properties",
+    "environment",
+    "public policy"
+  ],
+  "cognitive_level": [
+    "remember",
+    "understand",
+    "apply"
+  ],
+  "suggested_question_types": [
+    {
+      "action_verb": "ask",
+      "question_type": "multiple_choice"
+    },
+    {
+      "action_verb": "develop",
+      "question_type": "short_answer"
+    },
+    {
+      "action_verb": "offer",
+      "question_type": "short_answer"
+    },
+    {
+      "action_verb": "plan",
+      "question_type": "problem_solving"
+    },
+    {
+      "action_verb": "evaluate",
+      "question_type": "short_answer"
+    },
+    {
+      "action_verb": "take",
+      "question_type": "computational"
+    },
+    {
+      "action_verb": "use",
+      "question_type": "problem_solving"
+    },
+    {
+      "action_verb": "organize",
+      "question_type": "short_answer"
+    },
+    {
+      "action_verb": "construct",
+      "question_type": "short_answer"
+    },
+    {
+      "action_verb": "compare",
+      "question_type": "matching"
+    },
+    {
+      "action_verb": "read",
+      "question_type": "short_answer"
+    },
+    {
+      "action_verb": "gather",
+      "question_type": "short_answer"
+    }
+  ],
+  "_extraction_metadata": {
+    "source_file": "stds_science6.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 7930,
+    "prompt_tokens": 4011,
+    "completion_tokens": 3919
+  }
+}

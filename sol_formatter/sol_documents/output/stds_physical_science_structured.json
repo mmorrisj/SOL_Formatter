@@ -1,0 +1,462 @@
+{
+  "document_metadata": {
+    "title": "Science Standards of Learning for Public Schools",
+    "grade_level": "K-12",
+    "course_name": "Science",
+    "year": 2023
+  },
+  "introduction": "The Science Standards of Learning for Virginia Public Schools identify academic content for essential components of the science curriculum at different grade levels. The content of the standards, in conjunction with effective instruction, provide a platform for creating scientifically literate students. The Science Standards of Learning reflect a vertical progression of content and practices. The Standards of Learning contain content strands or topics that progress in complexity as they are studied at various grade levels in grades K-5 and are represented indirectly throughout the middle and high school courses. These strands are Scientific and Engineering Practices, Force, Motion, and Energy, Matter, Living Systems and Processes, Earth and Space Systems, Earth Resources. Six critical components for achieving science literacy are 1) Goals; 2) Investigate and Understand; 3) Nature of Science; 4) Science and Engineering Practices; 5) K-12 Safety; and 6) Instructional Technology. These six components support the Profile of a Virginia Graduate and an integrated instructional approach that incorporates science, technology, engineering, and mathematics (STEM). It is imperative to science instruction that the local curriculum consider and address how these components are incorporated in the design of the K-12 science program.",
+  "strands": [
+    {
+      "code": "PS",
+      "name": "Physical Science",
+      "standards": [
+        {
+          "id": "PS.1",
+          "statement": "The student will demonstrate an understanding of scientific and engineering practices by asking questions and defining problems, planning and carrying out investigations, interpreting, analyzing, and evaluating data, constructing and critiquing conclusions and explanations, developing and using models, obtaining, evaluating, and communicating information.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "ask questions that require empirical evidence to answer",
+                "action_verb": "ask",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "develop hypotheses indicating relationships between independent and dependent variables",
+                "action_verb": "develop",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "offer simple solutions to design problems",
+                "action_verb": "offer",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "independently and collaboratively plan and conduct observational and experimental investigations; identify variables, constants, and controls where appropriate and include the safe use of chemicals and equipment",
+                "action_verb": "plan",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "evaluate the accuracy of various methods for collecting data",
+                "action_verb": "evaluate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "take metric measurements using appropriate tools and technologies",
+                "action_verb": "take",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "apply scientific ideas or principles to design, construct, and/or test a design of an object, tool, process or system",
+                "action_verb": "apply",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "construct and interpret data tables showing independent and dependent variables, repeated trials, and means",
+                "action_verb": "construct",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "construct, analyze, and interpret graphical displays of data and consider limitations of data analysis",
+                "action_verb": "construct",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "apply mathematical concepts and processes to scientific questions",
+                "action_verb": "apply",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "use data to evaluate and refine design solutions to best meet criteria",
+                "action_verb": "use",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "construct scientific explanations based on valid and reliable evidence obtained from sources (including the students’ own investigations)",
+                "action_verb": "construct",
+                "sub_objectives": [],
+                "examples": [
+                  "students’ own investigations"
+                ],
+                "constraints": []
+              },
+              {
+                "text": "construct arguments supported by empirical evidence and scientific reasoning",
+                "action_verb": "construct",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "generate and compare multiple solutions to problems based on how well they meet the criteria and constraints",
+                "action_verb": "generate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "differentiate between a scientific hypothesis, theory, and law",
+                "action_verb": "differentiate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "construct, develop, and use models and simulations to illustrate and/or explain observable and unobservable phenomena",
+                "action_verb": "construct",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "evaluate limitations of models",
+                "action_verb": "evaluate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "read scientific texts, including those adapted for classroom use, to determine the central idea and/or obtain scientific and/or technical information",
+                "action_verb": "read",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "gather, read, and synthesize information from multiple appropriate sources and assess the credibility, accuracy, and possible bias of each publication",
+                "action_verb": "gather",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "construct, use, and/or present an oral and written argument supported by empirical evidence and scientific reasoning",
+                "action_verb": "construct",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "PS.2",
+          "statement": "The student will investigate and understand that matter is composed of atoms. Key ideas include a) our understanding of atoms has developed over time; b) the periodic table can be used to predict the chemical and physical properties of matter; and c) the kinetic molecular theory is used to predict and explain matter interactions.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "our understanding of atoms has developed over time",
+                "action_verb": "understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "the periodic table can be used to predict the chemical and physical properties of matter",
+                "action_verb": "predict",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "the kinetic molecular theory is used to predict and explain matter interactions",
+                "action_verb": "predict",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "PS.3",
+          "statement": "The student will investigate and understand that matter has properties and is conserved in chemical and physical processes. Key ideas include pure substances can be identified based on their chemical and physical properties; pure substances can undergo physical and chemical changes that may result in a change of properties; compounds form through ionic and covalent bonding; and balanced chemical equations model the conservation of matter.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "pure substances can be identified based on their chemical and physical properties",
+                "action_verb": "identify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "pure substances can undergo physical and chemical changes that may result in a change of properties",
+                "action_verb": "undergo",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "compounds form through ionic and covalent bonding",
+                "action_verb": "form",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "balanced chemical equations model the conservation of matter",
+                "action_verb": "model",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "PS.4",
+          "statement": "The student will investigate and understand that the periodic table is a model used to organize elements based on their atomic structure. Key uses include symbols, atomic numbers, atomic mass, chemical groups (families), and periods are identified on the periodic table; and elements are classified as metals, metalloids, and nonmetals.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "symbols, atomic numbers, atomic mass, chemical groups (families), and periods are identified on the periodic table",
+                "action_verb": "identify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "elements are classified as metals, metalloids, and nonmetals",
+                "action_verb": "classify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "PS.5",
+          "statement": "The student will investigate and understand that energy is conserved. Key ideas include energy can be stored in different ways; energy is transferred and transformed; and energy can be transformed to meet societal needs.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "energy can be stored in different ways",
+                "action_verb": "store",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "energy is transferred and transformed",
+                "action_verb": "transfer",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "energy can be transformed to meet societal needs",
+                "action_verb": "transform",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "PS.6",
+          "statement": "The student will investigate and understand that waves are important in the movement of energy. Key ideas include energy may be transferred in the form of longitudinal and transverse waves; mechanical waves need a medium to transfer energy; waves can interact; and energy associated with waves has many applications.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "energy may be transferred in the form of longitudinal and transverse waves",
+                "action_verb": "transfer",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "mechanical waves need a medium to transfer energy",
+                "action_verb": "need",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "waves can interact",
+                "action_verb": "interact",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "energy associated with waves has many applications",
+                "action_verb": "have",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "PS.7",
+          "statement": "The student will investigate and understand that electromagnetic radiation has characteristics. Key ideas include electromagnetic radiation, including visible light, has wave characteristics and behavior; and regions of the electromagnetic spectrum have specific characteristics and uses.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "electromagnetic radiation, including visible light, has wave characteristics and behavior",
+                "action_verb": "have",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "regions of the electromagnetic spectrum have specific characteristics and uses",
+                "action_verb": "have",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "PS.8",
+          "statement": "The student will investigate and understand that work, force, and motion are related. Key ideas include motion can be described using position and time; and motion is described by Newton’s laws.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "motion can be described using position and time",
+                "action_verb": "describe",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "motion is described by Newton’s laws",
+                "action_verb": "describe",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "PS.9",
+          "statement": "The student will investigate and understand that there are basic principles of electricity and magnetism. Key ideas include an imbalance of charge generates static electricity; materials have different conductive properties; electric circuits transfer energy; magnetic fields cause the magnetic effects of certain materials; electric current and magnetic fields are related; and many technologies use electricity and magnetism.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "an imbalance of charge generates static electricity",
+                "action_verb": "generate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "materials have different conductive properties",
+                "action_verb": "have",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "electric circuits transfer energy",
+                "action_verb": "transfer",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "magnetic fields cause the magnetic effects of certain materials",
+                "action_verb": "cause",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "electric current and magnetic fields are related",
+                "action_verb": "relate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "many technologies use electricity and magnetism",
+                "action_verb": "use",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "science",
+    "physical science",
+    "matter",
+    "energy",
+    "waves",
+    "electricity",
+    "magnetism",
+    "scientific practices",
+    "engineering practices"
+  ],
+  "cognitive_level": [
+    "remember",
+    "understand",
+    "apply",
+    "analyze",
+    "evaluate",
+    "create"
+  ],
+  "suggested_question_types": {
+    "ask": "multiple_choice",
+    "develop": "short_answer",
+    "offer": "short_answer",
+    "plan": "problem_solving",
+    "evaluate": "short_answer",
+    "take": "computational",
+    "apply": "problem_solving",
+    "construct": "short_answer",
+    "read": "multiple_choice",
+    "gather": "short_answer",
+    "generate": "short_answer",
+    "differentiate": "matching",
+    "transform": "problem_solving",
+    "need": "true_false",
+    "interact": "short_answer",
+    "have": "multiple_choice",
+    "describe": "short_answer",
+    "relate": "short_answer",
+    "use": "problem_solving",
+    "cause": "short_answer"
+  },
+  "_extraction_metadata": {
+    "source_file": "stds_physical_science.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 7359,
+    "prompt_tokens": 3750,
+    "completion_tokens": 3609
+  }
+}

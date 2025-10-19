@@ -1,0 +1,580 @@
+{
+  "document_metadata": {
+    "title": "Science Standards of Learning for Public Schools",
+    "grade_level": "Biology",
+    "course_name": "Biology",
+    "year": 2023
+  },
+  "introduction": "The Science Standards of Learning for Virginia Public Schools identify academic content for essential components of the science curriculum at different grade levels. The content of the standards, in conjunction with effective instruction, provide a platform for creating scientifically literate students. The Science Standards of Learning reflect a vertical progression of content and practices. The Standards of Learning contain content strands or topics that progress in complexity as they are studied at various grade levels in grades K-5 and are represented indirectly throughout the middle and high school courses. These strands are Scientific and Engineering Practices, Force, Motion, and Energy, Matter, Living Systems and Processes, Earth and Space Systems, Earth Resources. Six critical components for achieving science literacy are 1) Goals; 2) Investigate and Understand; 3) Nature of Science; 4) Science and Engineering Practices; 5) K-12 Safety; and 6) Instructional Technology. These six components support the Profile of a Virginia Graduate and an integrated instructional approach that incorporates science, technology, engineering, and mathematics (STEM). It is imperative to science instruction that the local curriculum consider and address how these components are incorporated in the design of the K-12 science program.",
+  "strands": [
+    {
+      "strand_code": "BIO",
+      "strand_name": "Biology"
+    }
+  ],
+  "standards": [
+    {
+      "standard_id": "BIO.1",
+      "standard_statement": "The student will demonstrate an understanding of scientific and engineering practices by asking questions and defining problems.",
+      "knowledge_and_skills": {
+        "objectives": [
+          {
+            "objective_text": "ask questions that arise from careful observation of phenomena and/or organisms, from examining models and theories, and/or to seek additional information",
+            "primary_action_verb": "ask",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "determine which questions can be investigated within the scope of the school laboratory or field to determine relationships between independent and dependent variables",
+            "primary_action_verb": "determine",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "generate hypotheses based on research and scientific principles",
+            "primary_action_verb": "generate",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "make hypotheses that specify what happens to a dependent variable when an independent variable is manipulated",
+            "primary_action_verb": "make",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "individually and collaboratively plan and conduct observational and experimental investigations",
+            "primary_action_verb": "plan",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "plan and conduct investigations or test design solutions in a safe and ethical manner including considerations of environmental, social, and personal effects",
+            "primary_action_verb": "plan",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "determine appropriate sample size and techniques",
+            "primary_action_verb": "determine",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "select and use appropriate tools and technology to collect, record, analyze, and evaluate data",
+            "primary_action_verb": "select",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "construct and interpret data tables showing independent and dependent variables, repeated trials, and means",
+            "primary_action_verb": "construct",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "construct, analyze, and interpret graphical displays of data",
+            "primary_action_verb": "construct",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "use data in building and revising models, supporting an explanation for phenomena, or testing solutions to problems",
+            "primary_action_verb": "use",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "analyze data using tools, technologies, and/or models to make valid and reliable scientific claims or determine an optimal design solution",
+            "primary_action_verb": "analyze",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "make quantitative and/or qualitative claims regarding the relationship between dependent and independent variables",
+            "primary_action_verb": "make",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "construct and revise explanations based on valid and reliable evidence obtained from a variety of sources including students’ own investigations, models, theories, simulations, and peer review",
+            "primary_action_verb": "construct",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "apply scientific ideas, principles, and/or evidence to provide an explanation of phenomena and design solutions",
+            "primary_action_verb": "apply",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "compare and evaluate competing arguments or design solutions in light of currently accepted explanations and new scientific evidence",
+            "primary_action_verb": "compare",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "construct arguments or counterarguments based on data and evidence",
+            "primary_action_verb": "construct",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "differentiate between a scientific hypothesis and theory",
+            "primary_action_verb": "differentiate",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "evaluate the merits and limitations of models",
+            "primary_action_verb": "evaluate",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "develop, revise, and/or use models based on evidence to illustrate or predict relationships",
+            "primary_action_verb": "develop",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "develop and/or use models to generate data to support explanations, predict phenomena, analyze systems, and/or solve problems",
+            "primary_action_verb": "develop",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "compare, integrate, and evaluate sources of information presented in different media or formats to address a scientific question or solve a problem",
+            "primary_action_verb": "compare",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "gather, read, and evaluate scientific and/or technical information from multiple authoritative sources, assessing the evidence and credibility of each source",
+            "primary_action_verb": "gather",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "communicate scientific and/or technical information about phenomena in multiple formats",
+            "primary_action_verb": "communicate",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          }
+        ]
+      }
+    },
+    {
+      "standard_id": "BIO.2",
+      "standard_statement": "The student will investigate and understand that chemical and biochemical processes are essential for life.",
+      "knowledge_and_skills": {
+        "objectives": [
+          {
+            "objective_text": "water chemistry has an influence on life processes",
+            "primary_action_verb": "investigate",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "macromolecules have roles in maintaining life processes",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "enzymes have a role in biochemical processes",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "protein synthesis is the process of forming proteins which influences inheritance and evolution",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "the processes of photosynthesis and respiration include the capture, storage, transformation, and flow of energy",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          }
+        ]
+      }
+    },
+    {
+      "standard_id": "BIO.3",
+      "standard_statement": "The student will investigate and understand that cells have structure and function.",
+      "knowledge_and_skills": {
+        "objectives": [
+          {
+            "objective_text": "the cell theory is supported by evidence",
+            "primary_action_verb": "investigate",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "structures in unicellular and multicellular organisms work interdependently to carry out life processes",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "cell structures and processes are involved in cell growth and division",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "the structure and function of the cell membrane support cell transport",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "specialization leads to the development of different types of cells",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          }
+        ]
+      }
+    },
+    {
+      "standard_id": "BIO.4",
+      "standard_statement": "The student will investigate and understand that bacteria and viruses have an effect on living systems.",
+      "knowledge_and_skills": {
+        "objectives": [
+          {
+            "objective_text": "viruses depend on a host for metabolic processes",
+            "primary_action_verb": "investigate",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "the modes of reproduction/replication can be compared",
+            "primary_action_verb": "compare",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "the structures and functions can be compared",
+            "primary_action_verb": "compare",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "bacteria and viruses have a role in other organisms and the environment",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "the germ theory of infectious disease is supported by evidence",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          }
+        ]
+      }
+    },
+    {
+      "standard_id": "BIO.5",
+      "standard_statement": "The student will investigate and understand that there are common mechanisms for inheritance.",
+      "knowledge_and_skills": {
+        "objectives": [
+          {
+            "objective_text": "DNA has structure and is the foundation for protein synthesis",
+            "primary_action_verb": "investigate",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "the structural model of DNA has developed over time",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "the variety of traits in an organism are the result of the expression of various combinations of alleles",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "meiosis has a role in genetic variation between generations",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "synthetic biology has biological and ethical implications",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          }
+        ]
+      }
+    },
+    {
+      "standard_id": "BIO.6",
+      "standard_statement": "The student will investigate and understand that modern classification systems can be used as organizational tools for scientists in the study of organisms.",
+      "knowledge_and_skills": {
+        "objectives": [
+          {
+            "objective_text": "organisms have structural and biochemical similarities and differences",
+            "primary_action_verb": "investigate",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "fossil record interpretation can be used to classify organisms",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "developmental stages in different organisms can be used to classify organisms",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "Archaea, Bacteria, and Eukarya are domains based on characteristics of organisms",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "the functions and processes of protists, fungi, plants, and animals allow for comparisons and differentiation within the Eukarya kingdoms",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "systems of classification are adaptable to new scientific discoveries",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          }
+        ]
+      }
+    },
+    {
+      "standard_id": "BIO.7",
+      "standard_statement": "The student will investigate and understand that populations change through time.",
+      "knowledge_and_skills": {
+        "objectives": [
+          {
+            "objective_text": "evidence is found in fossil records and through DNA analysis",
+            "primary_action_verb": "investigate",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "genetic variation, reproductive strategies, and environmental pressures affect the survival of populations",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "natural selection is a mechanism that leads to adaptations and may lead to the emergence of new species",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "biological evolution has scientific evidence and explanations",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          }
+        ]
+      }
+    },
+    {
+      "standard_id": "BIO.8",
+      "standard_statement": "The student will investigate and understand that there are dynamic equilibria within populations, communities, and ecosystems.",
+      "knowledge_and_skills": {
+        "objectives": [
+          {
+            "objective_text": "interactions within and among populations include carrying capacities, limiting factors, and growth curves",
+            "primary_action_verb": "investigate",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "nutrients cycle with energy flow through ecosystems",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "ecosystems have succession patterns",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          },
+          {
+            "objective_text": "natural events and human activities influence local and global ecosystems and may affect the flora and fauna of Virginia",
+            "primary_action_verb": "understand",
+            "examples": [],
+            "constraints": [],
+            "sub_objectives": []
+          }
+        ]
+      }
+    }
+  ],
+  "tags": [
+    "scientific practices",
+    "biochemical processes",
+    "cell structure",
+    "inheritance",
+    "classification",
+    "population dynamics",
+    "ecosystems"
+  ],
+  "cognitive_levels": [
+    {
+      "standard_id": "BIO.1",
+      "cognitive_level": "apply"
+    },
+    {
+      "standard_id": "BIO.2",
+      "cognitive_level": "understand"
+    },
+    {
+      "standard_id": "BIO.3",
+      "cognitive_level": "understand"
+    },
+    {
+      "standard_id": "BIO.4",
+      "cognitive_level": "understand"
+    },
+    {
+      "standard_id": "BIO.5",
+      "cognitive_level": "understand"
+    },
+    {
+      "standard_id": "BIO.6",
+      "cognitive_level": "understand"
+    },
+    {
+      "standard_id": "BIO.7",
+      "cognitive_level": "understand"
+    },
+    {
+      "standard_id": "BIO.8",
+      "cognitive_level": "understand"
+    }
+  ],
+  "suggested_question_types": [
+    {
+      "action_verb": "ask",
+      "question_type": "multiple_choice"
+    },
+    {
+      "action_verb": "determine",
+      "question_type": "problem_solving"
+    },
+    {
+      "action_verb": "generate",
+      "question_type": "short_answer"
+    },
+    {
+      "action_verb": "make",
+      "question_type": "problem_solving"
+    },
+    {
+      "action_verb": "plan",
+      "question_type": "problem_solving"
+    },
+    {
+      "action_verb": "select",
+      "question_type": "multiple_choice"
+    },
+    {
+      "action_verb": "construct",
+      "question_type": "graphical"
+    },
+    {
+      "action_verb": "analyze",
+      "question_type": "short_answer"
+    },
+    {
+      "action_verb": "compare",
+      "question_type": "matching"
+    },
+    {
+      "action_verb": "communicate",
+      "question_type": "short_answer"
+    }
+  ],
+  "_extraction_metadata": {
+    "source_file": "stds_biology.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 8320,
+    "prompt_tokens": 4020,
+    "completion_tokens": 4300
+  }
+}

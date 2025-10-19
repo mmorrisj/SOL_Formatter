@@ -1,0 +1,56 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Processed output (optional - uncomment if you don't want to commit processed files)
+# sol_formatter/sol_documents/output/*.json
+# sol_formatter/sol_documents/output/*.csv
+# sol_formatter/sol_documents/output/*.txt
+
+# Temporary files
+*.tmp
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Claude Code
+.claude/

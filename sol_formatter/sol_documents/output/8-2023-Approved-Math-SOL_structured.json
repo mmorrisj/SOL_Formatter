@@ -1,0 +1,763 @@
+{
+  "document": {
+    "metadata": {
+      "title": "Mathematics Standards of Learning for Virginia Public Schools",
+      "grade_level": "8",
+      "course_name": "Mathematics",
+      "year": 2023
+    },
+    "introduction": "The Grade 8 Standards continue to build on the concepts needed for success in high school level Algebra, Geometry, and Statistics. Students will explore real numbers and the subsets of the real number system. Proportional reasoning is expounded upon as students solve a variety of problems. Students find the volume and surface area of more complex three-dimensional figures and apply transformations to geometric shapes in the coordinate plane. Students will verify and apply the Pythagorean Theorem creating a foundation for further study of triangular relationships in Geometry. Students will represent data, both univariate and bivariate, and continue to apply the data cycle and extend the application to boxplots and scatterplots. Students build upon the algebraic concepts developed in the Grade 6 and 7 Standards, which include simplifying algebraic expressions, solving multistep linear equations and inequalities in one variable, and graphing linear functions. The Grade 8 Standards are vital to providing a solid foundation in Algebra 1. The building of mathematical knowledge can be enhanced by using technology tools when used strategically and to complement further learning during grades 6-8. The use of appropriate technology and the interpretation of the results from applying technology tools must be an integral part of teaching, learning, and assessment. However, facility in the use of technology shall not be regarded as a substitute for a student’s understanding of quantitative and algebraic concepts or for proficiency in basic computations. Students must learn to use a variety of methods and tools to compute, including paper and pencil, mental arithmetic, estimation, and the use of instructional technology. Graphing utilities, spreadsheets, calculators, dynamic applications, and other technological tools support mathematical problem solving, reasoning, and justification, as well as application in science, engineering, business and industry, government, and practical affairs. In grades 6-8, the acquisition of specialized mathematical vocabulary and language builds as students continue to deepen their understanding of mathematics through communication and problem solving. Problem solving increases in complexity as students progress into middle and high school. Students continue to build upon their mathematical knowledge by participating in problem-solving activities that promote higher levels of critical thinking and analysis.",
+    "strands": [
+      {
+        "code": "NS",
+        "name": "Number and Number Sense",
+        "standards": [
+          {
+            "id": "8.NS.1",
+            "statement": "The student will compare and order real numbers and determine the relationships between real numbers.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Estimate and identify the two consecutive natural numbers between which the positive square root of a given number lies and justify which natural number is the better approximation.",
+                  "sub_objectives": [],
+                  "action_verb": "Estimate",
+                  "examples": [],
+                  "constraints": [
+                    "1 to 400"
+                  ]
+                },
+                {
+                  "text": "Use rational approximations (to the nearest hundredth) of irrational numbers to compare, order, and locate values on a number line.",
+                  "sub_objectives": [],
+                  "action_verb": "Use",
+                  "examples": [
+                    "positive and negative square roots of values from 0 to 400"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Use multiple strategies (e.g., benchmarks, number line, equivalency) to compare and order no more than five real numbers expressed as integers, fractions (proper or improper), decimals, mixed numbers, percents, numbers written in scientific notation, radicals, and π.",
+                  "sub_objectives": [],
+                  "action_verb": "Use",
+                  "examples": [
+                    "benchmarks",
+                    "number line",
+                    "equivalency"
+                  ],
+                  "constraints": [
+                    "no more than five real numbers",
+                    "0 to 400"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "8.NS.2",
+            "statement": "The student will investigate and describe the relationship between the subsets of the real number system.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Describe and illustrate the relationships among the subsets of the real number system by using representations (e.g., graphic organizers, number lines).",
+                  "sub_objectives": [],
+                  "action_verb": "Describe",
+                  "examples": [
+                    "graphic organizers",
+                    "number lines"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Classify and explain why a given number is a member of a particular subset or subsets of the real number system.",
+                  "sub_objectives": [],
+                  "action_verb": "Classify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Describe each subset of the set of real numbers and include examples and non-examples.",
+                  "sub_objectives": [],
+                  "action_verb": "Describe",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "CE",
+        "name": "Computation and Estimation",
+        "standards": [
+          {
+            "id": "8.CE.1",
+            "statement": "The student will estimate and apply proportional reasoning and computational procedures to solve contextual problems.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Estimate and solve contextual problems that require the computation of one discount or markup and the resulting sale price.",
+                  "sub_objectives": [],
+                  "action_verb": "Estimate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Estimate and solve contextual problems that require the computation of the sales tax, tip and resulting total.",
+                  "sub_objectives": [],
+                  "action_verb": "Estimate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Estimate and solve contextual problems that require the computation of the percent increase or decrease.",
+                  "sub_objectives": [],
+                  "action_verb": "Estimate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "MG",
+        "name": "Measurement and Geometry",
+        "standards": [
+          {
+            "id": "8.MG.1",
+            "statement": "The student will use the relationships among pairs of angles that are vertical angles, adjacent angles, supplementary angles, and complementary angles to determine the measure of unknown angles.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Identify and describe the relationship between pairs of angles that are vertical, adjacent, supplementary, and complementary.",
+                  "sub_objectives": [],
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Use the relationships among supplementary, complementary, vertical, and adjacent angles to solve problems, including those in context, involving the measure of unknown angles.",
+                  "sub_objectives": [],
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "8.MG.2",
+            "statement": "The student will investigate and determine the surface area of square-based pyramids and the volume of cones and square-based pyramids.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Determine the surface area of square-based pyramids by using concrete objects, nets, diagrams, and formulas.",
+                  "sub_objectives": [],
+                  "action_verb": "Determine",
+                  "examples": [
+                    "concrete objects",
+                    "nets",
+                    "diagrams",
+                    "formulas"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine the volume of cones and square-based pyramids, using concrete objects, diagrams, and formulas.",
+                  "sub_objectives": [],
+                  "action_verb": "Determine",
+                  "examples": [
+                    "concrete objects",
+                    "diagrams",
+                    "formulas"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Examine and explain the relationship between the volume of cones and cylinders, and the volume of rectangular prisms and square based pyramids.",
+                  "sub_objectives": [],
+                  "action_verb": "Examine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve problems in context involving volume of cones and square-based pyramids and the surface area of square-based pyramids.",
+                  "sub_objectives": [],
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "8.MG.3",
+            "statement": "The student will apply translations and reflections to polygons in the coordinate plane.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Given a preimage in the coordinate plane, identify the coordinates of the image of a polygon that has been translated vertically, horizontally, or a combination of both.",
+                  "sub_objectives": [],
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given a preimage in the coordinate plane, identify the coordinates of the image of a polygon that has been reflected over the x- or y-axis.",
+                  "sub_objectives": [],
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given a preimage in the coordinate plane, identify the coordinates of the image of a polygon that has been translated and reflected over the x- or y-axis or reflected over the x- or y-axis and then translated.",
+                  "sub_objectives": [],
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Sketch the image of a polygon that has been translated vertically, horizontally, or a combination of both.",
+                  "sub_objectives": [],
+                  "action_verb": "Sketch",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Sketch the image of a polygon that has been reflected over the x- or y-axis.",
+                  "sub_objectives": [],
+                  "action_verb": "Sketch",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Sketch the image of a polygon that has been translated and reflected over the x- or y-axis, or reflected over the x- or y-axis and then translated.",
+                  "sub_objectives": [],
+                  "action_verb": "Sketch",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Identify and describe transformations in context (e.g., tiling, fabric, wallpaper designs, art).",
+                  "sub_objectives": [],
+                  "action_verb": "Identify",
+                  "examples": [
+                    "tiling",
+                    "fabric",
+                    "wallpaper designs",
+                    "art"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "8.MG.4",
+            "statement": "The student will apply the Pythagorean Theorem to solve problems involving right triangles, including those in context.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Verify the Pythagorean Theorem using diagrams, concrete materials, and measurement.",
+                  "sub_objectives": [],
+                  "action_verb": "Verify",
+                  "examples": [
+                    "diagrams",
+                    "concrete materials",
+                    "measurement"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine whether a triangle is a right triangle given the measures of its three sides.",
+                  "sub_objectives": [],
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Identify the parts of a right triangle (the hypotenuse and the legs) given figures in various orientations.",
+                  "sub_objectives": [],
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine the measure of a side of a right triangle, given the measures of the other two sides.",
+                  "sub_objectives": [],
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Apply the Pythagorean Theorem, and its converse, to solve problems involving right triangles in context.",
+                  "sub_objectives": [],
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "8.MG.5",
+            "statement": "The student will solve area and perimeter problems involving composite plane figures, including those in context.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Subdivide a plane figure into triangles, rectangles, squares, trapezoids, parallelograms, circles, and semicircles. Determine the area of subdivisions and combine to determine the area of the composite plane figure.",
+                  "sub_objectives": [],
+                  "action_verb": "Subdivide",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Subdivide a plane figure into triangles, rectangles, squares, trapezoids, parallelograms, and semicircles. Use the attributes of the subdivisions to determine the perimeter of the composite plane figure.",
+                  "sub_objectives": [],
+                  "action_verb": "Subdivide",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Apply perimeter, circumference, and area formulas to solve contextual problems involving composite plane figures.",
+                  "sub_objectives": [],
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PS",
+        "name": "Probability and Statistics",
+        "standards": [
+          {
+            "id": "8.PS.1",
+            "statement": "The student will use statistical investigation to determine the probability of independent and dependent events, including those in context.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Determine whether two events are independent or dependent and explain how replacement impacts the probability.",
+                  "sub_objectives": [],
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Compare and contrast the probability of independent and dependent events.",
+                  "sub_objectives": [],
+                  "action_verb": "Compare",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine the probability of two independent events.",
+                  "sub_objectives": [],
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine the probability of two dependent events.",
+                  "sub_objectives": [],
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "8.PS.2",
+            "statement": "The student will apply the data cycle (formulate questions; collect or acquire data; organize and represent data; and analyze data and communicate results) with a focus on boxplots.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Formulate questions that require the collection or acquisition of data with a focus on boxplots.",
+                  "sub_objectives": [],
+                  "action_verb": "Formulate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine the data needed to answer a formulated question and collect the data (or acquire existing data) using various methods (e.g., observations, measurement, surveys, experiments).",
+                  "sub_objectives": [],
+                  "action_verb": "Determine",
+                  "examples": [
+                    "observations",
+                    "measurement",
+                    "surveys",
+                    "experiments"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine how statistical bias might affect whether the data collected from the sample is representative of the larger population.",
+                  "sub_objectives": [],
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Organize and represent a numeric data set of no more than 20 items, using boxplots, with and without the use of technology.",
+                  "sub_objectives": [],
+                  "action_verb": "Organize",
+                  "examples": [],
+                  "constraints": [
+                    "no more than 20 items"
+                  ]
+                },
+                {
+                  "text": "Identify and describe the lower extreme (minimum), upper extreme (maximum), median, upper quartile, lower quartile, range, and interquartile range given a data set, represented by a boxplot.",
+                  "sub_objectives": [],
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Describe how the presence of an extreme data point (outlier) affects the shape and spread of the data distribution of a boxplot.",
+                  "sub_objectives": [],
+                  "action_verb": "Describe",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Analyze data represented in a boxplot by making observations and drawing conclusions.",
+                  "sub_objectives": [],
+                  "action_verb": "Analyze",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Compare and analyze two data sets represented in boxplots.",
+                  "sub_objectives": [],
+                  "action_verb": "Compare",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given a contextual situation, justify which graphical representation (e.g., pictographs, bar graphs, line graphs, line plots/dot plots, stem-and-leaf plots, circle graphs, histograms, and boxplots) best represents the data.",
+                  "sub_objectives": [],
+                  "action_verb": "Justify",
+                  "examples": [
+                    "pictographs",
+                    "bar graphs",
+                    "line graphs",
+                    "line plots/dot plots",
+                    "stem-and-leaf plots",
+                    "circle graphs",
+                    "histograms",
+                    "boxplots"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Identify components of graphical displays that can be misleading.",
+                  "sub_objectives": [],
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "8.PS.3",
+            "statement": "The student will apply the data cycle (formulate questions; collect or acquire data; organize and represent data; and analyze data and communicate results) with a focus on scatterplots.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Formulate questions that require the collection or acquisition of data with a focus on scatterplots.",
+                  "sub_objectives": [],
+                  "action_verb": "Formulate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine the data needed to answer a formulated question and collect the data (or acquire existing data) of no more than 20 items using various methods (e.g., observations, measurement, surveys, experiments).",
+                  "sub_objectives": [],
+                  "action_verb": "Determine",
+                  "examples": [
+                    "observations",
+                    "measurement",
+                    "surveys",
+                    "experiments"
+                  ],
+                  "constraints": [
+                    "no more than 20 items"
+                  ]
+                },
+                {
+                  "text": "Organize and represent numeric bivariate data using scatterplots with and without the use of technology.",
+                  "sub_objectives": [],
+                  "action_verb": "Organize",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Make observations about a set of data points in a scatterplot as having a positive linear relationship, a negative linear relationship, or no relationship.",
+                  "sub_objectives": [],
+                  "action_verb": "Make",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Analyze and justify the relationship of the quantitative bivariate data represented in scatterplots.",
+                  "sub_objectives": [],
+                  "action_verb": "Analyze",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Sketch the line of best fit for data represented in a scatterplot.",
+                  "sub_objectives": [],
+                  "action_verb": "Sketch",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PFA",
+        "name": "Patterns, Functions, and Algebra",
+        "standards": [
+          {
+            "id": "8.PFA.1",
+            "statement": "The student will represent, simplify, and generate equivalent algebraic expressions in one variable.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Represent algebraic expressions using concrete manipulatives or pictorial representations (e.g., colored chips, algebra tiles), including expressions that apply the distributive property.",
+                  "sub_objectives": [],
+                  "action_verb": "Represent",
+                  "examples": [
+                    "colored chips",
+                    "algebra tiles"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Simplify and generate equivalent algebraic expressions in one variable by applying the order of operations and properties of real numbers.",
+                  "sub_objectives": [],
+                  "action_verb": "Simplify",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "8.PFA.2",
+            "statement": "The student will determine whether a given relation is a function and determine the domain and range of a function.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Determine whether a relation, represented by a set of ordered pairs, a table, or a graph of discrete points is a function.",
+                  "sub_objectives": [],
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": [
+                    "no more than 10 ordered pairs"
+                  ]
+                },
+                {
+                  "text": "Identify the domain and range of a function represented as a set of ordered pairs, a table, or a graph of discrete points.",
+                  "sub_objectives": [],
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "8.PFA.3",
+            "statement": "The student will represent and solve problems, including those in context, by using linear functions and analyzing their key characteristics.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Determine how adding a constant (b) to the equation of a proportional relationship y = mx will translate the line on a graph.",
+                  "sub_objectives": [],
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Describe key characteristics of linear functions including slope (m), y-intercept (b), and independent and dependent variables.",
+                  "sub_objectives": [],
+                  "action_verb": "Describe",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Graph a linear function given a table, equation, or a situation in context.",
+                  "sub_objectives": [],
+                  "action_verb": "Graph",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Create a table of values for a linear function given a graph, equation in the form of y = mx + b, or context.",
+                  "sub_objectives": [],
+                  "action_verb": "Create",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Write an equation of a linear function in the form y = mx + b, given a graph, table, or a situation in context.",
+                  "sub_objectives": [],
+                  "action_verb": "Write",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Create a context for a linear function given a graph, table, or equation in the form y = mx + b.",
+                  "sub_objectives": [],
+                  "action_verb": "Create",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "8.PFA.4",
+            "statement": "The student will write and solve multistep linear equations in one variable, including problems in context that require the solution of a multistep linear equation in one variable.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Represent and solve multistep linear equations in one variable with the variable on one or both sides of the equation (up to four steps) using a variety of concrete materials and pictorial representations.",
+                  "sub_objectives": [],
+                  "action_verb": "Represent",
+                  "examples": [],
+                  "constraints": [
+                    "up to four steps"
+                  ]
+                },
+                {
+                  "text": "Apply properties of real numbers and properties of equality to solve multistep linear equations in one variable (up to four steps).",
+                  "sub_objectives": [],
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": [
+                    "up to four steps"
+                  ]
+                },
+                {
+                  "text": "Write a multistep linear equation in one variable to represent a verbal situation, including those in context.",
+                  "sub_objectives": [],
+                  "action_verb": "Write",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Create a verbal situation in context given a multistep linear equation in one variable.",
+                  "sub_objectives": [],
+                  "action_verb": "Create",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve problems in context that require the solution of a multistep linear equation.",
+                  "sub_objectives": [],
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Interpret algebraic solutions in context to linear equations in one variable.",
+                  "sub_objectives": [],
+                  "action_verb": "Interpret",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Confirm algebraic solutions to linear equations in one variable.",
+                  "sub_objectives": [],
+                  "action_verb": "Confirm",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "8.PFA.5",
+            "statement": "The student will write and solve multistep linear inequalities in one variable, including problems in context that require the solution of a multistep linear inequality in one variable.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Apply properties of real numbers and properties of inequality to solve multistep linear inequalities (up to four steps) in one variable with the variable on one or both sides of the inequality.",
+                  "sub_objectives": [],
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": [
+                    "up to four steps"
+                  ]
+                },
+                {
+                  "text": "Represent solutions to inequalities algebraically and graphically using a number line.",
+                  "sub_objectives": [],
+                  "action_verb": "Represent",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Write multistep linear inequalities in one variable to represent a verbal situation, including those in context.",
+                  "sub_objectives": [],
+                  "action_verb": "Write",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Create a verbal situation in context given a multistep linear inequality in one variable.",
+                  "sub_objectives": [],
+                  "action_verb": "Create",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve problems in context that require the solution of a multistep linear inequality in one variable.",
+                  "sub_objectives": [],
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Identify a numerical value(s) that is part of the solution set of a given inequality.",
+                  "sub_objectives": [],
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Interpret algebraic solutions in context to linear inequalities in one variable.",
+                  "sub_objectives": [],
+                  "action_verb": "Interpret",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "8-2023-Approved-Math-SOL.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 9905,
+    "prompt_tokens": 3720,
+    "completion_tokens": 6185
+  }
+}

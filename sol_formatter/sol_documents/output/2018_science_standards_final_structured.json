@@ -1,0 +1,383 @@
+{
+  "document": {
+    "title": "Science Standards of Learning for Public Schools",
+    "grade_level": "K-12",
+    "course_name": "Science",
+    "year": 2023
+  },
+  "introduction": "The Science Standards of Learning for Virginia Public Schools identify academic content for essential components of the science curriculum at different grade levels. The content of the standards, in conjunction with effective instruction, provide a platform for creating scientifically literate students. The Science Standards of Learning reflect a vertical progression of content and practices. The Standards of Learning contain content strands or topics that progress in complexity as they are studied at various grade levels in grades K-5 and are represented indirectly throughout the middle and high school courses. These strands are Scientific and Engineering Practices, Force, Motion, and Energy, Matter, Living Systems and Processes, Earth and Space Systems, Earth Resources. Six critical components for achieving science literacy are 1) Goals; 2) Investigate and Understand; 3) Nature of Science; 4) Science and Engineering Practices; 5) K-12 Safety; and 6) Instructional Technology. These six components support the Profile of a Virginia Graduate and an integrated instructional approach that incorporates science, technology, engineering, and mathematics (STEM). It is imperative to science instruction that the local curriculum consider and address how these components are incorporated in the design of the K-12 science program.",
+  "strands": [
+    {
+      "code": "SE",
+      "name": "Scientific and Engineering Practices",
+      "standards": [
+        {
+          "id": "K.1",
+          "statement": "The student will demonstrate an understanding of scientific and engineering practices by asking questions and defining problems.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "ask questions based on observations",
+                "action_verb": "ask",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "identify a problem based on need",
+                "action_verb": "identify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "make predictions based on observations",
+                "action_verb": "make",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "make observations to collect data",
+                "action_verb": "make",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "identify characteristics and properties of objects through observations",
+                "action_verb": "identify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "measure the relative length and weight of common objects",
+                "action_verb": "measure",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "record information from investigations",
+                "action_verb": "record",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "describe patterns",
+                "action_verb": "describe",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "classify and/or sequence objects based on a single physical characteristic or property",
+                "action_verb": "classify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "organize and represent data",
+                "action_verb": "organize",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "read and interpret data in object graphs, picture graphs, and tables",
+                "action_verb": "read",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "make simple conclusions based on data or observations",
+                "action_verb": "make",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "distinguish between a model and an actual object",
+                "action_verb": "distinguish",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "communicate comparative measures (e.g., heavier, lighter, longer, shorter, more, less, hotter, colder)",
+                "action_verb": "communicate",
+                "sub_objectives": [],
+                "examples": [
+                  "heavier",
+                  "lighter",
+                  "longer",
+                  "shorter",
+                  "more",
+                  "less",
+                  "hotter",
+                  "colder"
+                ],
+                "constraints": []
+              },
+              {
+                "text": "communicate observations using pictures, drawings, and/or speech",
+                "action_verb": "communicate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "FM",
+      "name": "Force, Motion, and Energy",
+      "standards": [
+        {
+          "id": "K.2",
+          "statement": "The student will investigate and understand that pushes and pulls affect the motion of objects.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "pushes and pulls can cause an object to move",
+                "action_verb": "cause",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "pushes and pulls can change the direction of an object",
+                "action_verb": "change",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "changes in motion are related to the strength of the push or pull",
+                "action_verb": "relate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "MA",
+      "name": "Matter",
+      "standards": [
+        {
+          "id": "K.3",
+          "statement": "The student will investigate and understand that physical properties of an object can be described.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "colors",
+                "action_verb": "identify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "shapes and forms",
+                "action_verb": "identify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "textures and feel",
+                "action_verb": "identify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "relative sizes and weights of objects",
+                "action_verb": "identify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "LS",
+      "name": "Living Systems and Processes",
+      "standards": [
+        {
+          "id": "K.5",
+          "statement": "The students will investigate and understand that senses allow humans to seek, find, take in, and react or respond to different information.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "the five basic senses correspond to specific human body structures",
+                "action_verb": "correspond",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "senses are used in our daily lives",
+                "action_verb": "use",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "ES",
+      "name": "Earth and Space Systems",
+      "standards": [
+        {
+          "id": "K.8",
+          "statement": "The student will investigate and understand that light influences temperature on Earth’s surfaces and can cause shadows.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "the sun provides light and warms Earth’s surface",
+                "action_verb": "provide",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "shadows can be produced when sunlight or artificial light is blocked by an object",
+                "action_verb": "produce",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "objects in shadows and objects in sunlight have different temperatures",
+                "action_verb": "have",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "ER",
+      "name": "Earth Resources",
+      "standards": [
+        {
+          "id": "K.11",
+          "statement": "The student will investigate and understand that humans use resources.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "some materials and objects can be used over and over again",
+                "action_verb": "use",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "materials can be recycled",
+                "action_verb": "recycle",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "choices we make impact the air, water, land and living things",
+                "action_verb": "impact",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "scientific practices",
+    "engineering practices",
+    "force",
+    "motion",
+    "energy",
+    "matter",
+    "living systems",
+    "earth systems",
+    "resources"
+  ],
+  "cognitive_levels": [
+    {
+      "level": "remember",
+      "description": "recall facts"
+    },
+    {
+      "level": "understand",
+      "description": "explain concepts"
+    },
+    {
+      "level": "apply",
+      "description": "use in new situations"
+    },
+    {
+      "level": "analyze",
+      "description": "break down and examine"
+    },
+    {
+      "level": "evaluate",
+      "description": "judge or critique"
+    },
+    {
+      "level": "create",
+      "description": "produce something new"
+    }
+  ],
+  "suggested_question_types": {
+    "identify": [
+      "multiple_choice",
+      "matching"
+    ],
+    "solve": [
+      "problem_solving",
+      "computational"
+    ],
+    "compare": [
+      "matching",
+      "short_answer"
+    ],
+    "represent": [
+      "graphical",
+      "short_answer"
+    ],
+    "explain": [
+      "short_answer"
+    ],
+    "true_false": [
+      "verification"
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "2018_science_standards_final.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 19434,
+    "prompt_tokens": 17013,
+    "completion_tokens": 2421
+  }
+}

@@ -1,0 +1,585 @@
+{
+  "document": {
+    "title": "Understanding the Standards",
+    "grade_level": "4",
+    "course_name": "Grade 4 English Standards of Learning",
+    "year": 2023,
+    "introduction": "In fourth grade, there is an increased emphasis on reading comprehension by comparing literary and informational texts. The student will apply comprehension strategies to monitor their understanding and to think critically about the grade level texts read. Collaborative conversations and writing about reading continue as an extension to expand students’ understanding of what they read. The student will read a variety of genres with a focus on realistic and historical fiction across cultures. The student will expand vocabulary using knowledge of roots, affixes, synonyms, antonyms, and homophones. The fourth-grade student continues to write in a variety of forms and purposes across content. Student writing in fourth grade gets more complex, and the student will use organizational structures to convey their message through writing. Working in diverse teams as both a facilitator and a contributor, the student will continue to increase communication and collaboration skills. The student will deliver multimodal presentations and begin to examine media messages. The student will demonstrate comprehension of the research process by evaluating the relevance and reliability of information collected to create a research product. Additionally, the student will continue to understand the difference between plagiarism and using their own words.",
+    "strands": [
+      {
+        "code": "FFR",
+        "name": "Foundations for Reading",
+        "standards": [
+          {
+            "id": "4.FFR.3",
+            "statement": "The student will apply grade level phonics and word analysis skills to decode (read) unfamiliar words in grade level text.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Use knowledge of syllabication and syllable types to decode and encode words.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use knowledge of morphology (suffixes, prefixes, root/base) to decode words.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Read grade-level high-frequency words, including decodable and irregular words, with automaticity and accuracy.",
+                "action_verb": "Read",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "DSR",
+        "name": "Developing Skilled Readers and Building Reading Stamina",
+        "standards": [
+          {
+            "id": "4.DSR",
+            "statement": "The student will build knowledge and comprehension skills from reading a range of challenging, content-rich texts.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Read a variety of grade-level complex texts with accuracy, automaticity, appropriate rate, and meaningful expression in successive readings to support comprehension.",
+                "action_verb": "Read",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Monitor while reading to confirm or self-correct word recognition and understanding, as necessary.",
+                "action_verb": "Monitor",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Proficiently read and comprehend a variety of literary and informational texts that exhibit complexity at the lower range of the grades 4-5 band.",
+                "action_verb": "Proficiently read",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "When responding to texts through discussion and/or writing, draw several pieces of evidence from grade-level complex texts to support claims, conclusions, and inferences.",
+                "action_verb": "Draw",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Regularly engage in reading a series of conceptually related texts organized around topics of study to build knowledge and vocabulary.",
+                "action_verb": "Engage",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use reading strategies as needed to aid and monitor comprehension when encountering challenging sections of text.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "RV",
+        "name": "Reading and Vocabulary",
+        "standards": [
+          {
+            "id": "4.RV",
+            "statement": "The student will systematically build vocabulary and word knowledge based on grade-four content and texts.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Develop general academic language and content specific vocabulary by listening to, reading, and discussing a variety of texts relevant to a grade four topic or subject area.",
+                "action_verb": "Develop",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Discuss meanings of complex words and phrases acquired through conversations and literature.",
+                "action_verb": "Discuss",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Determine the meaning of complex words using frequently occurring root words and inflectional affixes.",
+                "action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use the context of a sentence to apply knowledge of homophones.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Apply knowledge of morphology, synonyms, and antonyms to determine the meaning of complex words.",
+                "action_verb": "Apply",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Develop breadth of vocabulary knowledge by listening to and reading high quality, complex text.",
+                "action_verb": "Develop",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Distinguish shades of meaning among verbs and adjectives.",
+                "action_verb": "Distinguish",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use strategies to infer word meanings.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use glossaries, beginning dictionaries, and thesauruses, both print and digital, to determine or clarify the meaning of words and phrases.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use newly learned words and phrases in discussions and speaking activities.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "RL",
+        "name": "Reading Literary Text",
+        "standards": [
+          {
+            "id": "4.RL",
+            "statement": "The student will use textual evidence to demonstrate comprehension and build knowledge from a variety of grade-level complex literary texts.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Summarize the theme of stories, dramas, or poetry, including the thematic topics and how characters respond to challenges.",
+                "action_verb": "Summarize",
+                "examples": [
+                  "courage",
+                  "loyalty",
+                  "family"
+                ],
+                "constraints": []
+              },
+              {
+                "objective": "Describe the central conflict and explain the resolution using an understanding of text structure and events from the plot as evidence.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze characters in-depth, drawing on specific details from the text, including their words, actions, or a character’s thoughts.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "4.RL.2",
+            "statement": "Determine how an author uses language, characters, and settings to advance the plot.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Identify the characteristics of different genres of literary texts and refer to the structural elements of each.",
+                "action_verb": "Identify",
+                "examples": [
+                  "drama",
+                  "poems",
+                  "stories"
+                ],
+                "constraints": []
+              },
+              {
+                "objective": "Identify the narrator of a story and the speaker of a poem.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Differentiate between first-and third-person point of view.",
+                "action_verb": "Differentiate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "4.RL.3",
+            "statement": "Set a purpose for reading by activating prior and background knowledge.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Compare and contrast details in paired literary and informational nonfiction texts including their treatment of similar themes, topics, and patterns of events.",
+                "action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Explain the overall structure of stories, poems, and plays and how each successive part builds on earlier sections.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "RI",
+        "name": "Reading Informational Text",
+        "standards": [
+          {
+            "id": "4.RI",
+            "statement": "The student will use textual evidence to demonstrate comprehension and build knowledge from grade-level complex informational texts read.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Summarize the main idea of multi-paragraph texts and the specific paragraphs within them, explaining how key details support the main idea.",
+                "action_verb": "Summarize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Distinguish between fact and opinion and explain how an author uses reasons and evidence to support opinions within texts.",
+                "action_verb": "Distinguish",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "4.RI.2",
+            "statement": "Explain how authors select an organizational pattern using transitional words and phrases to support their purpose.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Apply knowledge of text features and search tools in multiple print and digital sources to locate and categorize information efficiently.",
+                "action_verb": "Apply",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Explain the author’s purpose for writing, including what the author wants to answer, explain, or describe.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "4.RI.3",
+            "statement": "Use prior and background knowledge as context for new learning.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Compare and contrast multiple accounts of the same event or topic and describe the differences in focus and the information provided.",
+                "action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Describe the relationship between a series of historical events, scientific concepts, or steps in technical procedures.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "FFW",
+        "name": "Foundations for Writing",
+        "standards": [
+          {
+            "id": "4.FFW",
+            "statement": "The student will print legibly in manuscript and cursive while applying grade level word knowledge to spell words correctly.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Maintain legible printing.",
+                "action_verb": "Maintain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Maintain legible cursive.",
+                "action_verb": "Maintain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Sign his/her first and last name.",
+                "action_verb": "Sign",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "4.FFW.2",
+            "statement": "Use combined knowledge of all letter-sound correspondences, syllabication patterns, and morphology to spell accurately.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Use phoneme/grapheme correspondences to decode and encode grade-level high-frequency words with automaticity and accuracy.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "W",
+        "name": "Writing",
+        "standards": [
+          {
+            "id": "4.W",
+            "statement": "The student will compose various works for diverse audiences and purposes, linked to grade four content and texts.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Recognize different forms of writing have distinctive patterns of organization to support their purpose.",
+                "action_verb": "Recognize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Write personal or fictional narratives that are logically organized around a central problem or conflict.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Write expository texts to examine a topic that develops the focus with facts, details, or other information.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Write persuasive pieces on topics or texts that express a clear opinion supported by facts, details, and reasons.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Write in response to text(s) read to demonstrate thinking with details, examples, and other evidence from the text.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "4.W.2",
+            "statement": "Engage in writing as a process to compose well-developed paragraphs.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Provide an introduction that includes a clear topic sentence that connects to the central idea.",
+                "action_verb": "Provide",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Develop, select, and organize ideas relevant to topic, purpose, and genre using precise language and topic-specific words and phrases.",
+                "action_verb": "Develop",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use transition words and prepositional phrases to vary sentence structure and link sentences.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Provide a concluding statement or section.",
+                "action_verb": "Provide",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "4.W.3",
+            "statement": "With guidance and support from peers and adults, develop and strengthen writing as needed.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Self-and-peer-edit writing for capitalization, spelling, punctuation, sentence structure, paragraphing, and Standard English.",
+                "action_verb": "Self-and-peer-edit",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "LU",
+        "name": "Language Usage",
+        "standards": [
+          {
+            "id": "4.LU",
+            "statement": "The student will use the conventions of Standard English when speaking and writing.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Produce, expand, and rearrange simple and compound sentences when speaking and writing.",
+                "action_verb": "Produce",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use coordinating and subordinating conjunctions to join words and phrases in a sentence.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use adjectives to compare and describe noun or noun phrases with specificity when speaking and writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use modal words to convey various conditions when speaking and writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use standard subject-verb agreement when speaking and writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use standard noun-pronoun agreement when speaking and writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "4.LU.2",
+            "statement": "Use commas in series, dates, addresses, and letters in writing.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Use commas and quotation marks to indicate dialogue in writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use apostrophes to form contractions and to show possession in writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Consult reference materials to check and correct spelling.",
+                "action_verb": "Consult",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "C",
+        "name": "Communication and Multimodal Literacies",
+        "standards": [
+          {
+            "id": "4.C",
+            "statement": "The student will develop effective oral communication and collaboration skills.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Participate in a range of sustained collaborative discussions with diverse partners on grade four topics and texts.",
+                "action_verb": "Participate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Report orally on a topic or text, tell a story, or recount an experience in an organized manner.",
+                "action_verb": "Report",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Select, organize, and create engaging presentations that include multimedia components and visual displays.",
+                "action_verb": "Select",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Differentiate between auditory, visual, and written media messages and their purposes.",
+                "action_verb": "Differentiate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "R",
+        "name": "Research",
+        "standards": [
+          {
+            "id": "4.R",
+            "statement": "The student will conduct research and read a series of conceptually related texts on selected topics to build knowledge.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Construct and formulate questions about a topic.",
+                "action_verb": "Construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Identify search terms to locate information on the topic and gather relevant information from various print and digital sources.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Organize and synthesize information from the print and digital resources determining the relevance and reliability of the information gathered.",
+                "action_verb": "Organize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Develop notes that include important concept, summaries, and identification of information sources.",
+                "action_verb": "Develop",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Avoid plagiarism and give proper credit by providing citations whenever using another person’s media, facts, ideas, graphics, music, and direct quotations.",
+                "action_verb": "Avoid",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "4_Understanding the Standards.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 15613,
+    "prompt_tokens": 11187,
+    "completion_tokens": 4426
+  }
+}

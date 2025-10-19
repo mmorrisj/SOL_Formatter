@@ -1,0 +1,749 @@
+{
+  "document_metadata": {
+    "title": "Mathematics Standards of Learning for Virginia Public Schools",
+    "grade_level": "4",
+    "course_name": "Mathematics",
+    "year": 2023
+  },
+  "introduction": "The Grade 4 Standards place emphasis on multiplication and division with whole numbers and solving problems involving addition and subtraction of decimals and fractions with like denominators. Students will recall with automaticity multiplication through 12 × 12 and the corresponding division facts as they become proficient in multiplying and dividing larger numbers. Students will apply knowledge of place value and the properties of addition and multiplication as strategies for solving problems. Students will identify and describe representations of points, lines, line segments, rays, and angles, including endpoints and vertices. Students will describe and compare characteristics of plane and solid figures. Concrete models and pictorial representations will be used to solve problems involving perimeter and area, patterns, probability, and equivalence of fractions and decimals. Students will engage with the data cycle using line graphs. The data cycle includes formulating questions to be explored with data; collecting or acquiring data; organizing and representing data; and analyzing data and communicating results. The use of appropriate technology and the interpretation of the results from applying technology tools must be an integral part of teaching, learning, and assessment. While learning mathematics, students will be actively engaged, using concrete materials and appropriate technologies to facilitate problem solving. However, facility in the use of technology shall not be regarded as a substitute for a student’s understanding of quantitative and algebraic concepts or for proficiency in basic computations. The acquisition of specialized mathematical vocabulary and language is crucial to a student’s understanding and appreciation of the subject and fosters confidence in mathematics communication and problem solving. Problem-solving is integrated throughout the content strands. The development of problem-solving skills is a major goal of the mathematics program at every grade level. The development of skills and problem-solving strategies must be integrated early and continuously into each student’s mathematics education.",
+  "strands": [
+    {
+      "strand_code": "NS",
+      "strand_name": "Number and Number Sense",
+      "standards": [
+        {
+          "standard_id": "4.NS.1",
+          "standard_statement": "The student will use place value understanding to read, write, and identify the place and value of each digit in a nine-digit whole number.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Read nine-digit whole numbers, presented in standard form, and represent the same number in written form.",
+                "primary_action_verb": "Read",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Write nine-digit whole numbers in standard form when the numbers are presented orally or in written form.",
+                "primary_action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Apply patterns within the base 10 system to determine and communicate, orally and in written form, the place and value of each digit in a nine-digit whole number (e.g., in 568,165,724, the 8 represents 8 millions and its value is 8,000,000).",
+                "primary_action_verb": "Apply",
+                "examples": [
+                  "pictorial",
+                  "concrete"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.NS.2",
+          "standard_statement": "The student will demonstrate an understanding of the base 10 system to compare and order whole numbers up to seven digits.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Compare two whole numbers up to seven digits each, using words (greater than, less than, equal to, not equal to) and/or",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Order up to four whole numbers up to seven digits each, from least to greatest or greatest to least.",
+                "primary_action_verb": "Order",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.NS.3",
+          "standard_statement": "The student will use mathematical reasoning and justification to represent, compare, and order fractions (proper, improper, and mixed numbers with denominators 12 or less), with and without models.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Compare and order no more than four fractions (proper or improper), and/or mixed numbers, with like denominators by comparing the number of parts (numerators) using fractions with denominators of 12 or less (e.g., < ). Justify comparisons orally, in writing, or with a model.",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Compare and order no more than four fractions (proper or improper), and/or mixed numbers, with like numerators and unlike denominators by comparing the size of the parts using fractions with denominators of 12 or less (e.g., < ). Justify comparisons orally, in writing, or with a model.",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use benchmarks (e.g., 0, , or 1) to compare and order no more than four fractions (proper or improper), and/or mixed numbers, with like and unlike denominators of 12 or less. Justify comparisons orally, in writing, or with a model.",
+                "primary_action_verb": "Use",
+                "examples": [
+                  "0",
+                  "1"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Compare two fractions (proper or improper) and/or mixed numbers using fractions with denominators of 12 or less, using the symbols >, <, and = (e.g., > ). Justify comparisons orally, in writing, or with a model.",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Represent equivalent fractions with denominators of 12 or less, with and without models.",
+                "primary_action_verb": "Represent",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Compose and decompose fractions (proper and improper) and/or mixed numbers with denominators of 12 or less, in multiple ways, with and without models.",
+                "primary_action_verb": "Compose",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Represent the division of two whole numbers as a fraction given a contextual situation and a model (e.g., means the same as 3 divided by 5 or represents the amount of muffin each of five children will receive when sharing three muffins equally).",
+                "primary_action_verb": "Represent",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.NS.4",
+          "standard_statement": "The student will use mathematical reasoning and justification to represent, compare, and order decimals through thousandths, with and without models.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Investigate and describe the ten-to-one place value relationship for decimals through thousandths, using concrete models (e.g., place value mats/charts, decimal squares, base 10 blocks).",
+                "primary_action_verb": "Investigate",
+                "examples": [
+                  "place value mats",
+                  "decimal squares",
+                  "base 10 blocks"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Represent and identify decimals expressed through thousandths, using concrete, pictorial, and numerical representations.",
+                "primary_action_verb": "Represent",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Read and write decimals expressed through thousandths, using concrete, pictorial, and numerical representations.",
+                "primary_action_verb": "Read",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify and communicate, both orally and in written form, the place and value of each digit in a decimal through thousandths (e.g., given 0.385, the 8 is in the hundredths place and has a value of 0.08).",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Compare using symbols (<, >, =) and/or words (greater than, less than, equal to) and order (least to greatest and greatest to least), a set of no more than four decimals expressed through thousandths, using multiple strategies (e.g., benchmarks, place value, number lines). Justify comparisons with a model, orally, and in writing.",
+                "primary_action_verb": "Compare",
+                "examples": [
+                  "benchmarks",
+                  "place value",
+                  "number lines"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.NS.5",
+          "standard_statement": "The student will reason about the relationship between fractions and decimals (limited to halves, fourths, fifths, tenths, and hundredths) to identify and represent equivalencies.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Represent fractions (proper or improper) and/or mixed numbers as decimals through hundredths, using multiple representations, limited to halves, fourths, fifths, tenths, and hundredths.",
+                "primary_action_verb": "Represent",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify and model equivalent relationships between fractions (proper or improper) and/or mixed numbers and decimals, using halves, fourths, fifths, tenths, and hundredths.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Write the decimal and fraction equivalent for a given model (e.g., = 0.25 or 0.25 = ; 1.25 = or 1; 1.02 = or 1).",
+                "primary_action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "CE",
+      "strand_name": "Computation and Estimation",
+      "standards": [
+        {
+          "standard_id": "4.CE.1",
+          "standard_statement": "The student will estimate, represent, solve, and justify solutions to single-step and multistep problems, including those in context, using addition and subtraction with whole numbers.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Determine and justify whether an estimate or an exact answer is appropriate when solving contextual problems involving addition and subtraction with whole numbers. Refine estimates by adjusting the final amount, using terms such as closer to, between, and a little more than.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Apply strategies (e.g., rounding to the nearest 100 or 1,000, using compatible numbers, other number relationships) to estimate a solution for single-step or multistep addition or subtraction problems with whole numbers, where addends or minuends do not exceed 10,000.",
+                "primary_action_verb": "Apply",
+                "examples": [
+                  "rounding",
+                  "compatible numbers"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Apply strategies (e.g., place value, properties of addition, other number relationships) and algorithms, including the standard algorithm, to determine the sum or difference of two whole numbers, where addends and minuends do not exceed 10,000.",
+                "primary_action_verb": "Apply",
+                "examples": [
+                  "place value",
+                  "properties of addition"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Estimate, represent, solve, and justify solutions to single-step and multistep contextual problems involving addition and subtraction with whole numbers where addends and minuends do not exceed 1,000,000.",
+                "primary_action_verb": "Estimate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.CE.2",
+          "standard_statement": "The student will estimate, represent, solve, and justify solutions to single-step and multistep problems, including those in context, using multiplication with whole numbers, and single-step problems, including those in context, using division with whole numbers; and recall with automaticity the multiplication facts through 12 × 12 and the corresponding division facts.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Determine and justify whether an estimate or an exact answer is appropriate when solving contextual problems involving multiplication and division of whole numbers. Refine estimates by adjusting the final amount, using terms such as closer to, between, and a little more than.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Recall with automaticity the multiplication facts through 12 × 12 and the corresponding division facts.",
+                "primary_action_verb": "Recall",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Create an equation using addition, subtraction, multiplication, and division to represent the relationship between equivalent mathematical expressions (e.g., 4 × 3 = 2 × 6; 10 + 8 = 36 ÷ 2; 12 × 4 = 60  12).",
+                "primary_action_verb": "Create",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine all factor pairs for a whole number 1 to 100, using concrete, pictorial, and numerical representations.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine common factors and the greatest common factor of no more than three numbers.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Apply strategies (e.g., rounding, place value, properties of multiplication and/or addition) and algorithms, including the standard algorithm, to estimate and determine the product of two whole numbers when given: a two-digit factor and a one-digit factor; a three-digit factor and a one-digit factor; or a two-digit factor and a two-digit factor.",
+                "primary_action_verb": "Apply",
+                "examples": [
+                  "rounding",
+                  "place value"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Estimate, represent, solve, and justify solutions to single-step and multistep contextual problems that involve multiplication with whole numbers.",
+                "primary_action_verb": "Estimate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Apply strategies (e.g., rounding, compatible numbers, place value) and algorithms, including the standard algorithm, to estimate and determine the quotient of two whole numbers, given a one-digit divisor and a two- or three-digit dividend, with and without remainders.",
+                "primary_action_verb": "Apply",
+                "examples": [
+                  "rounding",
+                  "compatible numbers"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Estimate, represent, solve, and justify solutions to single-step contextual problems involving division with whole numbers.",
+                "primary_action_verb": "Estimate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Interpret the quotient and remainder when solving a contextual problem.",
+                "primary_action_verb": "Interpret",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.CE.3",
+          "standard_statement": "The student will estimate, represent, solve, and justify solutions to single-step problems, including those in context, using addition and subtraction of fractions (proper, improper, and mixed numbers with like denominators of 2, 3, 4, 5, 6, 8, 10, and 12), with and without models; and solve single-step contextual problems involving multiplication of a whole number (12 or less) and a unit fraction, with models.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Estimate and determine the sum or difference of two fractions (proper or improper) and/or mixed numbers, having like denominators limited to 2, 3, 4, 5, 6, 8, 10, and 12 (e.g., + , 2 + , - ) and simplify the resulting fraction. Addition and subtraction with fractions may include regrouping.",
+                "primary_action_verb": "Estimate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Estimate, represent, solve, and justify solutions to single-step contextual problems using addition and subtraction with fractions (proper or improper) and/or mixed numbers, having like denominators limited to 2, 3, 4, 5, 6, 8, 10, and 12, and simplify the resulting fraction. Addition and subtraction with fractions may include regrouping.",
+                "primary_action_verb": "Estimate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Solve single-step contextual problems involving multiplication of a whole number, limited to 12 or less, and a unit fraction (e.g., 6 × , × 8, 2 × ), with models.",
+                "primary_action_verb": "Solve",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Apply the inverse property of multiplication in models (e.g., use a visual fraction model to represent or 1 as the product of 4 × ).",
+                "primary_action_verb": "Apply",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.CE.4",
+          "standard_statement": "The student will estimate, represent, solve, and justify solutions to single-step and multistep problems, including those in context, using addition and subtraction of decimals through the thousandths, with and without models.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Apply strategies (e.g., rounding to the nearest whole number, using compatible numbers) and algorithms, including the standard algorithm, to estimate and determine the sum or difference of two decimals through the thousandths, with and without models, in which: decimals do not exceed the thousandths; and addends, subtrahends, and minuends are limited to four digits.",
+                "primary_action_verb": "Apply",
+                "examples": [
+                  "rounding",
+                  "compatible numbers"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Estimate, represent, solve, and justify solutions to single-step and multistep contextual problems using addition and subtraction of decimals through the thousandths.",
+                "primary_action_verb": "Estimate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "MG",
+      "strand_name": "Measurement and Geometry",
+      "standards": [
+        {
+          "standard_id": "4.MG.1",
+          "standard_statement": "The student will reason mathematically to solve problems, including those in context, that involve length, weight/mass, and liquid volume using U.S. Customary and metric units.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Determine an appropriate unit of measure to use when measuring: length in both U.S. Customary (inch, foot, yard, mile) and metric units (millimeter, centimeter, meter); weight/mass in both U.S. Customary (ounce, pound) and metric units (gram, kilogram); and liquid volume in both U.S. Customary (cup, pint, quart, gallon) and metric units (milliliter, liter).",
+                "primary_action_verb": "Determine",
+                "examples": [
+                  "inch",
+                  "foot",
+                  "yard",
+                  "mile",
+                  "millimeter",
+                  "centimeter",
+                  "meter",
+                  "ounce",
+                  "pound",
+                  "gram",
+                  "kilogram",
+                  "cup",
+                  "pint",
+                  "quart",
+                  "gallon",
+                  "milliliter",
+                  "liter"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Estimate and measure: length of an object to the nearest U.S. Customary unit ( inch,  inch,  inch, foot, yard) and nearest metric unit (millimeter, centimeter, or meter); weight/mass of an object to the nearest U.S. Customary unit (ounce, pound) and nearest metric unit (gram, kilogram); and liquid volume to the nearest U.S. Customary unit (cup, pint, quart, gallon) and nearest metric unit (milliliter, liter).",
+                "primary_action_verb": "Estimate",
+                "examples": [
+                  "inch",
+                  "foot",
+                  "yard",
+                  "mile",
+                  "millimeter",
+                  "centimeter",
+                  "meter",
+                  "ounce",
+                  "pound",
+                  "gram",
+                  "kilogram",
+                  "cup",
+                  "pint",
+                  "quart",
+                  "gallon",
+                  "milliliter",
+                  "liter"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Compare estimates of length, weight/mass, or liquid volume with the actual measurements.",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Given the equivalent measure of one unit, solve problems, including those in context, by determining the equivalent measures within the U.S. Customary system for: length (inches and feet, feet and yards, inches and yards); weight/mass (ounces and pounds); and liquid volume (cups, pints, quarts, and gallons).",
+                "primary_action_verb": "Solve",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.MG.2",
+          "standard_statement": "The student will solve single-step and multistep contextual problems involving elapsed time (limited to hours and minutes within a 12-hour period).",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Solve single-step and multistep contextual problems involving elapsed time in hours and minutes, within a 12-hour period (within a.m., within p.m., and across a.m. and p.m.) when given: the starting time and the ending time, determine the amount of time that has elapsed in hours and minutes; the starting time and amount of elapsed time in hours and minutes, determine the ending time; or the ending time and the amount of elapsed time in hours and minutes, determine the starting time.",
+                "primary_action_verb": "Solve",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.MG.3",
+          "standard_statement": "The student will use multiple representations to develop and use formulas to solve problems, including those in context, involving area and perimeter limited to rectangles and squares (in both U.S. Customary and metric units).",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Use concrete materials and pictorial models to develop a formula for the area and perimeter of a rectangle (including a square).",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the area and perimeter of a rectangle when given the measure of two adjacent sides (in whole number units), with and without models.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the area and perimeter of a square when given the measure of one side (in whole number units), with and without models.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use concrete materials and pictorial models to explore the relationship between area and perimeter of rectangles.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify and represent rectangles with the same perimeter and different areas or with the same area and different perimeters.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Solve contextual problems involving area and perimeter of rectangles and squares.",
+                "primary_action_verb": "Solve",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.MG.4",
+          "standard_statement": "The student will identify, describe, and draw points, rays, line segments, angles, and lines, including intersecting, parallel, and perpendicular lines.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Identify and describe points, lines, line segments, rays, and angles, including endpoints and vertices.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe endpoints and vertices in relation to lines, line segments, rays, and angles.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Draw representations of points, line segments, rays, angles, and lines, using a ruler or straightedge.",
+                "primary_action_verb": "Draw",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify parallel, perpendicular, and intersecting lines and line segments in plane and solid figures, including those in context.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use symbolic notation to name points, lines, line segments, rays, angles, and to describe parallel and perpendicular lines.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.MG.5",
+          "standard_statement": "The student will classify and describe quadrilaterals (parallelograms, rectangles, squares, rhombi, and/or trapezoids) using specific properties and attributes.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Develop definitions for parallelograms, rectangles, squares, rhombi, and trapezoids through the exploration of properties and attributes.",
+                "primary_action_verb": "Develop",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify and describe points, line segments, angles, and vertices in quadrilaterals.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify and describe parallel, intersecting, perpendicular, and congruent sides in quadrilaterals.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Compare, contrast, and classify quadrilaterals (parallelograms, rectangles, squares, rhombi, and/or trapezoids) based on the following properties and attributes: parallel sides; perpendicular sides; congruence of sides; and number of right angles.",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Denote properties of quadrilaterals and identify parallel sides, congruent sides, and right angles by using geometric markings.",
+                "primary_action_verb": "Denote",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use symbolic notation to name line segments and angles in quadrilaterals.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.MG.6",
+          "standard_statement": "The student will identify, describe, compare, and contrast plane and solid figures according to their characteristics (number of angles, vertices, edges, and the number and shape of faces), with and without models.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Identify concrete models and pictorial representations of solid figures (cube, rectangular prism, square pyramid, sphere, cone, and cylinder).",
+                "primary_action_verb": "Identify",
+                "examples": [
+                  "cube",
+                  "rectangular prism",
+                  "square pyramid",
+                  "sphere",
+                  "cone",
+                  "cylinder"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify and describe solid figures (cube, rectangular prism, square pyramid, and sphere) according to their characteristics (number of angles, vertices, edges, and by the number and shape of faces).",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Compare and contrast plane and solid figures (limited to circles, squares, triangles, rectangles, spheres, cubes, square pyramids, and rectangular prisms) according to their characteristics (number of sides, angles, vertices, edges, and the number and shape of faces).",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "PS",
+      "strand_name": "Probability and Statistics",
+      "standards": [
+        {
+          "standard_id": "4.PS.1",
+          "standard_statement": "The student will apply the data cycle (formulate questions; collect or acquire data; organize and represent data; and analyze data and communicate results) with a focus on line graphs.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Formulate questions that require the collection or acquisition of data.",
+                "primary_action_verb": "Formulate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the data needed to answer a formulated question and collect or acquire existing data (limited to 10 or fewer data points) using various methods (e.g., observations, measurements, experiments).",
+                "primary_action_verb": "Determine",
+                "examples": [
+                  "observations",
+                  "measurements",
+                  "experiments"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Organize and represent a data set using line graphs with a title and labeled axes with whole number increments, with and without the use of technology tools.",
+                "primary_action_verb": "Organize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Analyze data represented in line graphs and communicate results orally and in writing: describe the characteristics of the data represented in a line graph and the data as a whole (e.g., the time period when the temperature increased the most); identify parts of the data that have special characteristics and explain the meaning of the greatest, the least, or the same (e.g., the highest temperature shows the warmest day); make inferences about data represented in line graphs; draw conclusions about the data and make predictions based on the data to answer questions; and solve single-step and multistep addition and subtraction problems using data from line graphs.",
+                "primary_action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.PS.2",
+          "standard_statement": "The student will model and determine the probability of an outcome of a simple event.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Describe probability as the degree of likelihood of an outcome occurring using terms such as impossible, unlikely, equally likely, likely, and certain.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Model and determine all possible outcomes of a given simple event where there are no more than 24 possible outcomes, using a variety of manipulatives (e.g., coins, two-sided counters, number cubes, spinners).",
+                "primary_action_verb": "Model",
+                "examples": [
+                  "coins",
+                  "two-sided counters",
+                  "number cubes",
+                  "spinners"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Write the probability of a given simple event as a fraction between 0 and 1, where there are no more than 24 possible outcomes.",
+                "primary_action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the likelihood of an event occurring and relate it to its whole number or fractional representation (e.g., impossible or zero; equally likely; certain or one).",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Create a model or contextual problem to represent a given probability.",
+                "primary_action_verb": "Create",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "PFA",
+      "strand_name": "Patterns, Functions, and Algebra",
+      "standards": [
+        {
+          "standard_id": "4.PFA.1",
+          "standard_statement": "The student will identify, describe, extend, and create increasing and decreasing patterns (limited to addition, subtraction, and multiplication of whole numbers), including those in context, using various representations.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Identify, describe, extend, and create increasing and decreasing patterns using various representations (e.g., objects, pictures, numbers, number lines, input/output tables, and function machines).",
+                "primary_action_verb": "Identify",
+                "examples": [
+                  "objects",
+                  "pictures",
+                  "numbers",
+                  "number lines",
+                  "input/output tables",
+                  "function machines"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Analyze an increasing or decreasing single-operation numerical pattern found in lists, input/output tables, or function machines and generalize the change to identify the rule, extend the pattern, or identify missing terms.",
+                "primary_action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Given a rule, create increasing and decreasing patterns using numbers and input/output tables (including function machines).",
+                "primary_action_verb": "Create",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Solve contextual problems that involve identifying, describing, and extending increasing and decreasing patterns using single-operation input and output rules.",
+                "primary_action_verb": "Solve",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "_extraction_metadata": {
+    "source_file": "4-2023-Approved-Math-SOL.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 12835,
+    "prompt_tokens": 5191,
+    "completion_tokens": 7644
+  }
+}

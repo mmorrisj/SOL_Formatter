@@ -1,0 +1,638 @@
+{
+  "document_metadata": {
+    "title": "Science Standards of Learning for Public Schools",
+    "grade_level": "K-12",
+    "course_name": "Science",
+    "year": 2023
+  },
+  "introduction": "The Science Standards of Learning for Virginia Public Schools identify academic content for essential components of the science curriculum at different grade levels. The content of the standards, in conjunction with effective instruction, provide a platform for creating scientifically literate students. The Science Standards of Learning reflect a vertical progression of content and practices. The Standards of Learning contain content strands or topics that progress in complexity as they are studied at various grade levels in grades K-5 and are represented indirectly throughout the middle and high school courses. These strands are Scientific and Engineering Practices, Force, Motion, and Energy, Matter, Living Systems and Processes, Earth and Space Systems, Earth Resources. Six critical components for achieving science literacy are 1) Goals; 2) Investigate and Understand; 3) Nature of Science; 4) Science and Engineering Practices; 5) K-12 Safety; and 6) Instructional Technology. These six components support the Profile of a Virginia Graduate and an integrated instructional approach that incorporates science, technology, engineering, and mathematics (STEM). It is imperative to science instruction that the local curriculum consider and address how these components are incorporated in the design of the K-12 science program.",
+  "strands": [
+    {
+      "strand_code": "ES",
+      "strand_name": "Earth Science",
+      "standards": [
+        {
+          "standard_id": "ES.1",
+          "standard_statement": "The student will demonstrate an understanding of scientific and engineering practices by asking questions and defining problems.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "ask questions that arise from careful observation of phenomena, examination of a model or theory, or unexpected results, and/or to seek additional information",
+                "sub_objectives": [],
+                "action_verb": "ask",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "determine which questions can be investigated within the scope of the school laboratory or field experience",
+                "sub_objectives": [],
+                "action_verb": "determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "generate hypotheses based on research and scientific principles",
+                "sub_objectives": [],
+                "action_verb": "generate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "make hypotheses that specify what happens to a dependent variable when an independent variable is manipulated",
+                "sub_objectives": [],
+                "action_verb": "make",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "define design problems that involve the development of a process or system with multiple components and criteria",
+                "sub_objectives": [],
+                "action_verb": "define",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "individually and collaboratively plan and conduct observational and experimental investigations",
+                "sub_objectives": [],
+                "action_verb": "plan",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "plan and conduct investigations to test design solutions in a safe and ethical manner including considerations of environmental, social and personal effects",
+                "sub_objectives": [],
+                "action_verb": "plan",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "select and use appropriate tools and technology to collect, record, analyze, and evaluate data",
+                "sub_objectives": [],
+                "action_verb": "select",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "construct and interpret data tables showing independent and dependent variables, repeated trials, and means",
+                "sub_objectives": [],
+                "action_verb": "construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "construct, analyze, and interpret graphical displays of data and consider limitations of data analysis",
+                "sub_objectives": [],
+                "action_verb": "construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "apply mathematical concepts and processes to scientific questions",
+                "sub_objectives": [],
+                "action_verb": "apply",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "use data in building and revising models, supporting explanations of phenomena, or testing solutions to problems",
+                "sub_objectives": [],
+                "action_verb": "use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "analyze data using tools, technologies, and/or models in order to make valid and reliable scientific claims or determine an optimal design solution",
+                "sub_objectives": [],
+                "action_verb": "analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "make quantitative and/or qualitative claims based on data",
+                "sub_objectives": [],
+                "action_verb": "make",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "construct and revise explanations based on valid and reliable evidence obtained from a variety of sources, including students’ own investigations, models, theories, simulations, and peer review",
+                "sub_objectives": [],
+                "action_verb": "construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "apply scientific ideas, principles, and/or evidence to provide an explanation of phenomena or design solutions",
+                "sub_objectives": [],
+                "action_verb": "apply",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "construct arguments or counterarguments based on data and evidence",
+                "sub_objectives": [],
+                "action_verb": "construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "differentiate between a scientific hypothesis, theory, and law",
+                "sub_objectives": [],
+                "action_verb": "differentiate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "evaluate the merits and limitations of models",
+                "sub_objectives": [],
+                "action_verb": "evaluate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "develop, revise, and/or use models based on evidence to illustrate or predict relationships",
+                "sub_objectives": [],
+                "action_verb": "develop",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "construct and interpret scales, diagrams, classification charts, graphs, tables, imagery, models, including geologic cross sections and topographic profiles",
+                "sub_objectives": [],
+                "action_verb": "construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "read and interpret topographic and basic geologic maps and globes, including location by latitude and longitude",
+                "sub_objectives": [],
+                "action_verb": "read",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "compare, integrate, and evaluate sources of information presented in different media or formats to address a scientific question or solve a problem",
+                "sub_objectives": [],
+                "action_verb": "compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "gather, read, and evaluate scientific and/or technical information from multiple sources, assessing the evidence and credibility of each source",
+                "sub_objectives": [],
+                "action_verb": "gather",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "communicate scientific and/or technical information about phenomena and/or a design process in multiple formats",
+                "sub_objectives": [],
+                "action_verb": "communicate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "ES.2",
+          "standard_statement": "The student will demonstrate an understanding that there are scientific concepts related to the origin and evolution of the universe.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "the big bang theory explains the origin of universe",
+                "sub_objectives": [],
+                "action_verb": "explain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "stars, star systems, and galaxies change over long periods of time",
+                "sub_objectives": [],
+                "action_verb": "change",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "characteristics of the sun, planets and their moons, comets, meteors, asteroids, and dwarf planets are determined by materials found in each body",
+                "sub_objectives": [],
+                "action_verb": "determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "evidence from space exploration has increased our understanding of the structure and nature of our universe",
+                "sub_objectives": [],
+                "action_verb": "increase",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "ES.3",
+          "standard_statement": "The student will investigate and understand that Earth is unique in our solar system.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Earth supports life because of its relative proximity to the sun and other factors",
+                "sub_objectives": [],
+                "action_verb": "support",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the dynamics of the sun-Earth-moon system cause seasons, tides, and eclipses",
+                "sub_objectives": [],
+                "action_verb": "cause",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "ES.4",
+          "standard_statement": "The student will investigate and understand that there are major rock-forming and ore minerals.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "analysis of physical and chemical properties supports mineral identification",
+                "sub_objectives": [],
+                "action_verb": "support",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "characteristics of minerals determine the uses of minerals",
+                "sub_objectives": [],
+                "action_verb": "determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "minerals originate and are formed in specific ways",
+                "sub_objectives": [],
+                "action_verb": "originate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "ES.5",
+          "standard_statement": "The student will investigate and understand that igneous, metamorphic, and sedimentary rocks can transform.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Earth materials are finite and are transformed over time",
+                "sub_objectives": [],
+                "action_verb": "transform",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the rock cycle models the transformation of rocks",
+                "sub_objectives": [],
+                "action_verb": "model",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "layers of Earth have rocks with specific chemical and physical properties",
+                "sub_objectives": [],
+                "action_verb": "have",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "plate tectonic and surface processes transform Earth materials",
+                "sub_objectives": [],
+                "action_verb": "transform",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "ES.6",
+          "standard_statement": "The student will investigate and understand that resource use is complex.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "global resource use has environmental liabilities and benefits",
+                "sub_objectives": [],
+                "action_verb": "have",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "availability, renewal rates, and economic effects are considerations when using resources",
+                "sub_objectives": [],
+                "action_verb": "consider",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "use of Virginia resources has an effect on the environment and the economy",
+                "sub_objectives": [],
+                "action_verb": "effect",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "all energy sources have environmental and economic effects",
+                "sub_objectives": [],
+                "action_verb": "have",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "ES.7",
+          "standard_statement": "The student will investigate and understand that plate tectonic theory explains Earth’s internal and external geologic processes.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "convection currents in Earth’s interior lead to the movement of plates and influence the distribution of materials in Earth’s layers, and may impact the magnetic field",
+                "sub_objectives": [],
+                "action_verb": "lead",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "features and processes occur within plates and at plate boundaries",
+                "sub_objectives": [],
+                "action_verb": "occur",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "interaction between tectonic plates causes the development of mountain ranges and ocean basins",
+                "sub_objectives": [],
+                "action_verb": "cause",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "evidence of geologic processes is found in Virginia’s geologic landscape",
+                "sub_objectives": [],
+                "action_verb": "found",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "ES.8",
+          "standard_statement": "The student will investigate and understand that freshwater resources influence and are influenced by geologic processes and human activity.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "water influences geologic processes including soil development and karst topography",
+                "sub_objectives": [],
+                "action_verb": "influence",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the nature of materials in the subsurface affect the water table and future availability of fresh water",
+                "sub_objectives": [],
+                "action_verb": "affect",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "weather and human usage affect freshwater resources, including water locations, quality, and supply",
+                "sub_objectives": [],
+                "action_verb": "affect",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "stream processes and dynamics affect the major watershed systems in Virginia, including the Chesapeake Bay and its tributaries",
+                "sub_objectives": [],
+                "action_verb": "affect",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "ES.9",
+          "standard_statement": "The student will investigate and understand that many aspects of the history and evolution of Earth and life can be inferred by studying rocks and fossils.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "traces and remains of ancient, often extinct, life are preserved by various means in sedimentary rocks",
+                "sub_objectives": [],
+                "action_verb": "preserve",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "superposition, cross-cutting relationships, index fossils, and radioactive decay are methods of dating rocks and Earth events and processes",
+                "sub_objectives": [],
+                "action_verb": "date",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "absolute (radiometric) and relative dating have different applications but can be used together to determine the age of rocks and structures",
+                "sub_objectives": [],
+                "action_verb": "determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "rocks and fossils from many different geologic periods and epochs are found in Virginia",
+                "sub_objectives": [],
+                "action_verb": "found",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "ES.10",
+          "standard_statement": "The student will investigate and understand that oceans are complex, dynamic systems and are subject to long- and short-term variations.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "chemical, biological, and physical changes affect the oceans",
+                "sub_objectives": [],
+                "action_verb": "affect",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "environmental and geologic occurrences affect ocean dynamics",
+                "sub_objectives": [],
+                "action_verb": "affect",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "unevenly distributed heat in the oceans drives much of Earth’s weather",
+                "sub_objectives": [],
+                "action_verb": "drive",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "features of the sea floor reflect tectonic and other geological processes",
+                "sub_objectives": [],
+                "action_verb": "reflect",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "human actions, including economic and public policy issues, affect oceans and the coastal zone including the Chesapeake Bay",
+                "sub_objectives": [],
+                "action_verb": "affect",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "ES.11",
+          "standard_statement": "The student will investigate and understand that the atmosphere is a complex, dynamic system and is subject to long-and short-term variations.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "the composition of the atmosphere is critical to most forms of life",
+                "sub_objectives": [],
+                "action_verb": "be",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "biologic and geologic interactions over long and short time spans change the atmospheric composition",
+                "sub_objectives": [],
+                "action_verb": "change",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "natural events and human actions may stress atmospheric regulation mechanisms",
+                "sub_objectives": [],
+                "action_verb": "stress",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "human actions, including economic and policy decisions, affect the atmosphere",
+                "sub_objectives": [],
+                "action_verb": "affect",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "ES.12",
+          "standard_statement": "The student will investigate and understand that Earth’s weather and climate are the result of the interaction of the sun’s energy with the atmosphere, oceans, and the land.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "weather involves the reflection, absorption, storage, and redistribution of energy over short to medium time spans",
+                "sub_objectives": [],
+                "action_verb": "involve",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "weather patterns can be predicted based on changes in current conditions",
+                "sub_objectives": [],
+                "action_verb": "predict",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "extreme imbalances in energy distribution in the oceans, atmosphere, and the land may lead to severe weather conditions",
+                "sub_objectives": [],
+                "action_verb": "lead",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "models based on current conditions are used to predict weather phenomena",
+                "sub_objectives": [],
+                "action_verb": "use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "changes in the atmosphere and the oceans due to natural and human activity affect global climate",
+                "sub_objectives": [],
+                "action_verb": "affect",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "earth science",
+    "scientific practices",
+    "engineering practices",
+    "geologic processes",
+    "resource management",
+    "environmental science",
+    "weather and climate",
+    "oceanography",
+    "astronomy"
+  ],
+  "cognitive_levels": [
+    "remember",
+    "understand",
+    "apply",
+    "analyze",
+    "evaluate",
+    "create"
+  ],
+  "suggested_question_types": {
+    "ask": "multiple_choice",
+    "determine": "short_answer",
+    "generate": "problem_solving",
+    "make": "problem_solving",
+    "define": "short_answer",
+    "plan": "problem_solving",
+    "select": "multiple_choice",
+    "construct": "graphical",
+    "apply": "problem_solving",
+    "analyze": "problem_solving",
+    "compare": "matching",
+    "gather": "short_answer",
+    "communicate": "short_answer",
+    "support": "short_answer",
+    "change": "short_answer",
+    "lead": "short_answer",
+    "affect": "short_answer",
+    "reflect": "short_answer",
+    "predict": "short_answer",
+    "use": "problem_solving"
+  },
+  "_extraction_metadata": {
+    "source_file": "stds_earth_science.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 9346,
+    "prompt_tokens": 4438,
+    "completion_tokens": 4908
+  }
+}

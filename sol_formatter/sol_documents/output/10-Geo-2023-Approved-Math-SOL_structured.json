@@ -1,0 +1,534 @@
+{
+  "document": {
+    "metadata": {
+      "title": "Mathematics Standards of Learning for Virginia Public Schools",
+      "grade_level": "Geometry",
+      "course_name": "Geometry",
+      "year": 2023
+    },
+    "introduction": "Geometry is a course designed for students who have successfully completed the Standards for Algebra 1. The course includes an emphasis on developing reasoning skills through the exploration of geometric relationships including properties of geometric figures, trigonometric relationships, and mathematical proofs. In this course, students use various types of reasoning, justification, and methods of direct and indirect proof and interpret and determine the validity of conditional statements. Venn diagrams are used to represent set relationships. This set of standards includes emphasis on two- and three-dimensional reasoning skills, coordinate and transformational geometry, and the use of geometric models to solve problems. A variety of applications and some general problem-solving techniques, including algebraic skills, should be used to implement these Standards. Technology tools and dynamic geometry applications will be used to assist in teaching and learning. Graphing technologies facilitate visualizing, analyzing, and understanding algebraic behaviors and geometric patterns and provide a powerful tool for visualizing and verifying solutions.",
+    "strands": [
+      {
+        "code": "RLT",
+        "name": "Reasoning, Lines and Transformations",
+        "standards": [
+          {
+            "id": "G.RLT.1",
+            "statement": "The student will translate logic statements, identify conditional statements, and use and interpret Venn diagrams.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Translate propositional statements and compound statements into symbolic form, including negations, conjunctions, disjunctions, conditionals, and biconditionals, including statements representing geometric relationships.",
+                  "action_verb": "Translate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Identify and determine the validity of the converse, inverse, and contrapositive of a conditional statement, and recognize the connection between a biconditional statement and a true conditional statement with a true converse, including statements representing geometric relationships.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Use Venn diagrams to represent set relationships, including union, intersection, subset, and negation.",
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Interpret Venn diagrams, including those representing contextual situations.",
+                  "action_verb": "Interpret",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "G.RLT.2",
+            "statement": "The student will analyze, prove, and justify the relationships of parallel lines cut by a transversal.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Prove and justify angle pair relationships formed by two parallel lines and a transversal, including corresponding angles, alternate interior angles, alternate exterior angles, same-side (consecutive) interior angles, and same-side (consecutive) exterior angles.",
+                  "action_verb": "Prove",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Prove two or more lines are parallel given angle measurements expressed numerically or algebraically.",
+                  "action_verb": "Prove",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve problems by using the relationships between pairs of angles formed by the intersection of two parallel lines and a transversal.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "G.RLT.3",
+            "statement": "The student will solve problems, including contextual problems, involving symmetry and transformation.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Locate, count, and draw lines of symmetry given a figure, including figures in context.",
+                  "action_verb": "Locate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine whether a figure has point symmetry, line symmetry, both, or neither, including figures in context.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given an image or preimage, identify the transformation or combination of transformations that has/have occurred. Transformations include translations, reflections over any horizontal or vertical line or the lines y = x or y = -x, clockwise or counterclockwise rotations of 90°, 180°, 270°, or 360° on a coordinate grid where the center of rotation is limited to the origin, and dilations, from a fixed point on a coordinate grid.",
+                  "action_verb": "Identify",
+                  "examples": [
+                    "translations",
+                    "reflections",
+                    "rotations",
+                    "dilations"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "TR",
+        "name": "Triangles",
+        "standards": [
+          {
+            "id": "G.TR.1",
+            "statement": "The student will determine the relationships between the measures of angles and lengths of sides in triangles, including problems in context.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Given the lengths of three segments, determine whether a triangle could be formed.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given the lengths of two sides of a triangle, determine the range in which the length of the third side must lie.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Order the sides of a triangle by their lengths when given information about the measures of the angles.",
+                  "action_verb": "Order",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Order the angles of a triangle by their measures when given information about the lengths of the sides.",
+                  "action_verb": "Order",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve for interior and exterior angles of a triangle, when given two angles.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "G.TR.2",
+            "statement": "The student will, given information in the form of a figure or statement, prove and justify two triangles are congruent using direct and indirect proofs, and solve problems involving measured attributes of congruent triangles.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Use definitions, postulates, and theorems (including Side-Side-Side (SSS); Side-Angle-Side (SAS); Angle-Side-Angle (ASA); Angle-Angle-Side (AAS); and Hypotenuse-Leg (HL)) to prove and justify two triangles are congruent.",
+                  "action_verb": "Use",
+                  "examples": [
+                    "SSS",
+                    "SAS",
+                    "ASA",
+                    "AAS",
+                    "HL"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Use algebraic methods to prove that two triangles are congruent.",
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Use coordinate methods, such as the slope formula and the distance formula, to prove two triangles are congruent.",
+                  "action_verb": "Use",
+                  "examples": [
+                    "slope formula",
+                    "distance formula"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Given a triangle, use congruent segment, congruent angle, and/or perpendicular line constructions to create a congruent triangle (SSS, SAS, ASA, AAS, and HL).",
+                  "action_verb": "Use",
+                  "examples": [
+                    "SSS",
+                    "SAS",
+                    "ASA",
+                    "AAS",
+                    "HL"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "G.TR.3",
+            "statement": "The student will, given information in the form of a figure or statement, prove and justify two triangles are similar using direct and indirect proofs, and solve problems, including those in context, involving measured attributes of similar triangles.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Use definitions, postulates, and theorems (including Side-Angle-Side (SAS); Side-Side-Side (SSS); and Angle-Angle (AA)) to prove and justify that triangles are similar.",
+                  "action_verb": "Use",
+                  "examples": [
+                    "SAS",
+                    "SSS",
+                    "AA"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Use algebraic methods to prove that triangles are similar.",
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Use coordinate methods, such as the slope formula and the distance formula, to prove two triangles are similar.",
+                  "action_verb": "Use",
+                  "examples": [
+                    "slope formula",
+                    "distance formula"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Describe a sequence of transformations that can be used to verify similarity of triangles located in the same plane.",
+                  "action_verb": "Describe",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve problems, including those in context involving attributes of similar triangles.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "G.TR.4",
+            "statement": "The student will model and solve problems, including those in context, involving trigonometry in right triangles and applications of the Pythagorean Theorem.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Determine whether a triangle formed with three given lengths is a right triangle.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Find and verify trigonometric ratios using right triangles.",
+                  "action_verb": "Find",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Model and solve problems, including those in context, involving right triangle trigonometry (sine, cosine, and tangent ratios).",
+                  "action_verb": "Model",
+                  "examples": [
+                    "sine",
+                    "cosine",
+                    "tangent"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve problems using the properties of special right triangles.",
+                  "action_verb": "Solve",
+                  "examples": [
+                    "45°-45°-90°",
+                    "30°-60°-90°"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve for missing lengths in geometric figures, using properties of 45°-45°-90° triangles, where rationalizing denominators may be necessary.",
+                  "action_verb": "Solve",
+                  "examples": [
+                    "45°-45°-90°"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve for missing lengths in geometric figures, using properties of 30°-60°-90° triangles, where rationalizing denominators may be necessary.",
+                  "action_verb": "Solve",
+                  "examples": [
+                    "30°-60°-90°"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve problems, including those in context, involving right triangles using the Pythagorean Theorem and its converse, including recognizing Pythagorean Triples.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PC",
+        "name": "Polygons and Circles",
+        "standards": [
+          {
+            "id": "G.PC.1",
+            "statement": "The student will prove and justify theorems and properties of quadrilaterals, and verify and use properties of quadrilaterals to solve problems, including the relationships between the sides, angles, and diagonals.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Solve problems, using the properties specific to parallelograms, rectangles, rhombi, squares, isosceles trapezoids, and trapezoids.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Prove and justify that quadrilaterals have specific properties, using coordinate and algebraic methods, such as the slope formula, the distance formula, and the midpoint formula.",
+                  "action_verb": "Prove",
+                  "examples": [
+                    "slope formula",
+                    "distance formula",
+                    "midpoint formula"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Prove and justify theorems and properties of quadrilaterals using deductive reasoning.",
+                  "action_verb": "Prove",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Use congruent segment, congruent angle, angle bisector, perpendicular line, and/or parallel line constructions to verify properties of quadrilaterals.",
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "G.PC.2",
+            "statement": "The student will verify relationships and solve problems involving the number of sides and measures of angles of convex polygons.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Solve problems involving the number of sides of a regular polygon given the measures of the interior and exterior angles of the polygon.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Justify the relationship between the sum of the measures of the interior and exterior angles of a convex polygon and solve problems involving the sum of the measures of the angles.",
+                  "action_verb": "Justify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Justify the relationship between the measure of each interior and exterior angle of a regular polygon and solve problems involving the measures of the angles.",
+                  "action_verb": "Justify",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "G.PC.3",
+            "statement": "The student will solve problems, including those in context, by applying properties of circles.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Determine the proportional relationship between the arc length or area of a sector and other parts of a circle.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve for arc measures and angles in a circle formed by central angles.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve for arc measures and angles in a circle involving inscribed angles.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Calculate the length of an arc of a circle.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Calculate the area of a sector of a circle.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Apply arc length or sector area to solve for an unknown measurement of the circle including the radius, diameter, arc measure, central angle, arc length, or sector area.",
+                  "action_verb": "Apply",
+                  "examples": [
+                    "radius",
+                    "diameter",
+                    "arc measure",
+                    "central angle",
+                    "arc length",
+                    "sector area"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "G.PC.4",
+            "statement": "The student will solve problems in the coordinate plane involving equations of circles.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Derive the equation of a circle given the center and radius using the Pythagorean Theorem.",
+                  "action_verb": "Derive",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve problems in the coordinate plane involving equations of circles: given a graph or the equation of a circle in standard form, identify the coordinates of the center of the circle; given the coordinates of the endpoints of a diameter of a circle, determine the coordinates of the center of the circle; given a graph or the equation of a circle in standard form, identify the length of the radius or diameter of the circle; given the coordinates of the endpoints of the diameter of a circle, determine the length of the radius or diameter of the circle; given the coordinates of the center and the coordinates of a point on the circle, determine the length of the radius or diameter of the circle; and given the coordinates of the center and length of the radius of a circle, identify the coordinates of a point(s) on the circle.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine the equation of a circle given: a graph of a circle with a center with coordinates that are integers; coordinates of the center and a point on the circle; coordinates of the center and the length of the radius or diameter; and coordinates of the endpoints of a diameter.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "DF",
+        "name": "Two- and Three-Dimensional Figures",
+        "standards": [
+          {
+            "id": "G.DF.1",
+            "statement": "The student will create models and solve problems, including those in context, involving surface area and volume of rectangular and triangular prisms, cylinders, cones, pyramids, and spheres.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Identify the shape of a two-dimensional cross section of a three-dimensional figure.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Create models and solve problems, including those in context, involving surface area of three-dimensional figures, as well as composite three-dimensional figures.",
+                  "action_verb": "Create",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve multistep problems, including those in context, involving volume of three-dimensional figures, as well as composite three-dimensional figures.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine unknown measurements of three-dimensional figures using information such as length of a side, area of a face, or volume.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "G.DF.2",
+            "statement": "The student will determine the effect of changing one or more dimensions of a three-dimensional geometric figure and describe the relationship between the original and changed figure.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Describe how changes in one or more dimensions of a figure affect other derived measures (perimeter, area, total surface area, and volume) of the figure.",
+                  "action_verb": "Describe",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Describe how changes in surface area and/or volume of a figure affect the measures of one or more dimensions of the figure.",
+                  "action_verb": "Describe",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve problems, including those in context, involving changing the dimensions or derived measures of a three-dimensional figure.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Compare ratios between side lengths, perimeters, areas, and volumes of similar figures.",
+                  "action_verb": "Compare",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Recognize when two- and three-dimensional figures are similar and solve problems, including those in context, involving attributes of similar geometric figures.",
+                  "action_verb": "Recognize",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "10-Geo-2023-Approved-Math-SOL.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 7616,
+    "prompt_tokens": 3071,
+    "completion_tokens": 4545
+  }
+}

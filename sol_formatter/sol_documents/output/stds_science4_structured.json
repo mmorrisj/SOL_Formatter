@@ -1,0 +1,424 @@
+{
+  "document_metadata": {
+    "title": "Science Standards of Learning for Public Schools",
+    "grade_level": "4",
+    "course_name": "Science",
+    "year": 2023
+  },
+  "introduction": "The Science Standards of Learning for Virginia Public Schools identify academic content for essential components of the science curriculum at different grade levels. The content of the standards, in conjunction with effective instruction, provide a platform for creating scientifically literate students. The Science Standards of Learning reflect a vertical progression of content and practices. The Standards of Learning contain content strands or topics that progress in complexity as they are studied at various grade levels in grades K-5 and are represented indirectly throughout the middle and high school courses. These strands are Scientific and Engineering Practices, Force, Motion, and Energy, Matter, Living Systems and Processes, Earth and Space Systems, Earth Resources. Six critical components for achieving science literacy are 1) Goals; 2) Investigate and Understand; 3) Nature of Science; 4) Science and Engineering Practices; 5) K-12 Safety; and 6) Instructional Technology. These six components support the Profile of a Virginia Graduate and an integrated instructional approach that incorporates science, technology, engineering, and mathematics (STEM). It is imperative to science instruction that the local curriculum consider and address how these components are incorporated in the design of the K-12 science program.",
+  "strands": [
+    {
+      "strand_code": "SE",
+      "strand_name": "Scientific and Engineering Practices",
+      "standards": [
+        {
+          "standard_id": "4.1",
+          "standard_statement": "The student will demonstrate an understanding of scientific and engineering practices by asking questions and defining problems.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "identify scientific and non-scientific questions",
+                "primary_action_verb": "identify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "develop hypotheses as cause-and-effect relations",
+                "primary_action_verb": "develop",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "define a simple design problem that can be solved through the development of an object, tool, process, or system",
+                "primary_action_verb": "define",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "identify variables when planning an investigation",
+                "primary_action_verb": "identify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "collaboratively plan and conduct investigations",
+                "primary_action_verb": "collaboratively",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "use tools and/or materials to design and/or build a device that solves a specific problem",
+                "primary_action_verb": "use",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "take metric measurements using appropriate tools",
+                "primary_action_verb": "take",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "measure elapsed time",
+                "primary_action_verb": "measure",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "organize and represent data in bar graphs and line graphs",
+                "primary_action_verb": "organize",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "interpret and analyze data represented in bar graphs and line graphs",
+                "primary_action_verb": "interpret",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "compare two different representations of the same data (e.g., a set of data displayed on a chart and a graph)",
+                "primary_action_verb": "compare",
+                "sub_objectives": [],
+                "examples": [
+                  "chart",
+                  "graph"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "analyze data from tests of an object or tool to determine whether it works as intended",
+                "primary_action_verb": "analyze",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "use evidence (i.e., measurements, observations, patterns) to construct or support explanations and to make inferences",
+                "primary_action_verb": "use",
+                "sub_objectives": [],
+                "examples": [
+                  "measurements",
+                  "observations",
+                  "patterns"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "develop and/or use models to explain natural phenomena",
+                "primary_action_verb": "develop",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "identify limitations of models",
+                "primary_action_verb": "identify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "read and comprehend reading-level-appropriate texts and/or other reliable media",
+                "primary_action_verb": "read",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "communicate scientific information, design ideas, and/or solutions with others",
+                "primary_action_verb": "communicate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "LS",
+      "strand_name": "Living Systems and Processes",
+      "standards": [
+        {
+          "standard_id": "4.2",
+          "standard_statement": "The student will investigate and understand that plants and animals have structures that distinguish them from one another and play vital roles in their ability to survive.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "the survival of plants and animals depends on photosynthesis",
+                "primary_action_verb": "depends",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "plants and animals have different structures and processes for obtaining energy",
+                "primary_action_verb": "have",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "plants and animals have different structures and processes for creating offspring",
+                "primary_action_verb": "have",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.3",
+          "standard_statement": "The student will investigate and understand that organisms, including humans, interact with one another and with the nonliving components in the ecosystem.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "interrelationships exist in populations, communities, and ecosystems",
+                "primary_action_verb": "exist",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "food webs show the flow of energy within an ecosystem",
+                "primary_action_verb": "show",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "changes in an organism’s niche and habitat may occur at various stages in its life cycle",
+                "primary_action_verb": "occur",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "classification can be used to identify organisms",
+                "primary_action_verb": "used",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "ES",
+      "strand_name": "Earth and Space Systems",
+      "standards": [
+        {
+          "standard_id": "4.4",
+          "standard_statement": "The student will investigate and understand that weather conditions and phenomena affect ecosystems and can be predicted.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "weather measurements create a record that can be used to make weather predictions",
+                "primary_action_verb": "create",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "common and extreme weather events affect ecosystems",
+                "primary_action_verb": "affect",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "long term seasonal weather trends determine the climate of a region",
+                "primary_action_verb": "determine",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.5",
+          "standard_statement": "The student will investigate and understand that the planets have characteristics and a specific place in the solar system.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "planets rotate on their axes and revolve around the sun",
+                "primary_action_verb": "rotate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "planets have characteristics and a specific order in the solar system",
+                "primary_action_verb": "have",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the sizes of the sun and planets can be compared to one another",
+                "primary_action_verb": "compared",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.6",
+          "standard_statement": "The student will investigate and understand that there are relationships among Earth, the moon, and the sun.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "the motions of Earth, the moon, and the sun",
+                "primary_action_verb": "motions",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the causes for Earth’s seasons",
+                "primary_action_verb": "causes",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the causes for the four major phases of the moon and the relationship to the tide cycles",
+                "primary_action_verb": "causes",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "the relative size, position, age and makeup of Earth, the moon, and the sun",
+                "primary_action_verb": "size",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "4.7",
+          "standard_statement": "The student will investigate and understand that the ocean environment has characteristics.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "geology of the ocean floor",
+                "primary_action_verb": "geology",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "physical properties and movement of ocean water",
+                "primary_action_verb": "properties",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "interaction of organisms in the ocean",
+                "primary_action_verb": "interaction",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "ER",
+      "strand_name": "Earth Resources",
+      "standards": [
+        {
+          "standard_id": "4.8",
+          "standard_statement": "The student will investigate and understand that Virginia has important natural resources.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "watersheds and water",
+                "primary_action_verb": "watersheds",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "plants and animals",
+                "primary_action_verb": "plants",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "minerals, rocks, and ores",
+                "primary_action_verb": "minerals",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "forests, soil, and land",
+                "primary_action_verb": "forests",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "science",
+    "engineering",
+    "ecosystems",
+    "solar system",
+    "weather",
+    "natural resources",
+    "plants",
+    "animals"
+  ],
+  "cognitive_level": [
+    "remember",
+    "understand",
+    "apply"
+  ],
+  "suggested_question_types": {
+    "identify": "multiple_choice, matching",
+    "solve": "problem_solving, computational",
+    "compare": "matching, short_answer",
+    "represent": "graphical, short_answer",
+    "explain": "short_answer",
+    "true_false": "verification"
+  },
+  "_extraction_metadata": {
+    "source_file": "stds_science4.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 6740,
+    "prompt_tokens": 3705,
+    "completion_tokens": 3035
+  }
+}

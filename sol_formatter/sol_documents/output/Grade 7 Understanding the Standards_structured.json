@@ -1,0 +1,409 @@
+{
+  "document": {
+    "title": "Understanding the Standards",
+    "grade_level": "Grade 7",
+    "course_name": "English",
+    "year": 2023,
+    "introduction": "At the seventh-grade level, the student will continue to deliver multimodal presentations individually and in collaborative groups. The student will also interpret information presented in diverse media formats and share responsibility for collaborative work, as both a contributor and a facilitator, while striving for consensus to accomplish goals. The student will continue the study of word origins and roots and begin to distinguish among connotations of words. There is a continued emphasis on text reading and fluency as students continue to read and comprehend complex literary and informational texts. In literary texts, the student will analyze point of view, interpret the author’s style, and compare and contrast texts on similar topics. When reading informational texts, the seventh-grade student will analyze how authors use evidence, facts, and opinions to support points in multiple texts. Reading and writing will continue to be an integrated process wherein the student will use authors and texts read as models when working on techniques in their own writing. The student will continue to write for a variety of audience and purposes, focusing on the development of a clear central idea, tone, and voice. In persuasive writing, the student will be able to clearly state claims using evidence from a text or personal experience as support. The seventh-grade student will be expected to have greater control over the conventions of writing. In research, the student will find, evaluate, and select appropriate resources for an oral, visual, written, or multimodal research product. They will evaluate the validity and authenticity of sources, and will apply research techniques to quote, summarize, and paraphrase findings. These skills are necessary for success in future postsecondary education and workplace environments.",
+    "strands": [
+      {
+        "code": "DSR",
+        "name": "Developing Skilled Readers and Building Reading Stamina",
+        "standards": [
+          {
+            "id": "7.DSR",
+            "statement": "The student will build knowledge and comprehension skills from reading a range of challenging, content-rich texts.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Read a variety of grade-level complex text with accuracy, automaticity, appropriate rate, and meaningful expression in successive readings to support comprehension.",
+                "action_verb": "Read",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Proficiently read and comprehend a variety of literary and informational texts that exhibit complexity at the mid-range of the grades 6-8 band.",
+                "action_verb": "Read",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "When responding to text through discussion and/or writing, draw several pieces of evidence from grade-level complex texts to support claims, conclusions, and inferences.",
+                "action_verb": "Draw",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Regularly engage in reading a series of conceptually related texts organized around topics of study to build knowledge and vocabulary.",
+                "action_verb": "Engage",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use reading strategies as needed to aid and monitor comprehension when encountering challenging sections of text.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "RV",
+        "name": "Reading and Vocabulary",
+        "standards": [
+          {
+            "id": "7.RV",
+            "statement": "The student will systematically build vocabulary and word knowledge based on grade seven content and texts.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Develop and accurately use general academic language and content-specific vocabulary by listening to, reading, and discussing a variety of grade-seven texts and topics.",
+                "action_verb": "Develop",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use context to determine the meaning of words or phrases.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Apply knowledge of Greek and Latin roots and affixes to predict the meaning of unfamiliar words.",
+                "action_verb": "Apply",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use the relationship between particular words, including synonyms, antonyms, and analogies to better understand each word.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze the construction and meaning of figurative language, including simile, hyperbole, metaphor, and personification.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Distinguish among the nuances in the meaning of connotations of words with similar denotations.",
+                "action_verb": "Distinguish",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use general and specialized word-reference materials, print and digital, to identify word origins and derivations, pronunciations, precise meanings, and their parts of speech.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use newly learned words and phrases in multiple contexts, including in students’ discussions and speaking and writing activities.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "RL",
+        "name": "Reading Literary Text",
+        "standards": [
+          {
+            "id": "7.RL",
+            "statement": "The student will use textual evidence to demonstrate comprehension and build knowledge from a variety of grade-level complex literary texts read.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Describe stated or implied themes of texts and analyze their development throughout the texts using specific details.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze how the central conflict and key elements impact plot development.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Explain how static and dynamic characters and the roles of protagonist and antagonist influence plot events.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze how elements of authors’ styles contribute to meaning in various forms of prose and poetry.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Explain how an author develops the points of view of different characters in a text.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Explain how particular elements of stories or dramas interact including how settings shape and influence characters and plot.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Compare and contrast texts in different forms or genres in terms of their approaches to similar themes and topics.",
+                "action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "RI",
+        "name": "Reading Informational Text",
+        "standards": [
+          {
+            "id": "7.RI",
+            "statement": "The student will use textual evidence to demonstrate comprehension and build knowledge from grade-level complex informational texts read.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Create a main idea statement and provide an accurate summary of how key events or ideas develop through the text.",
+                "action_verb": "Create",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze how the author unfolds a perspective or series of ideas or events in historical, scientific, or technical texts.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Trace the argument and specific claims in texts and assess whether all the evidence presented is relevant.",
+                "action_verb": "Trace",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze how an author uses text features to enhance and support the reader’s comprehension.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze how an author’s word choice, organizational pattern, and language structure impact the author’s purpose.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze how an author’s purpose(s) reflects the author’s perspective and influences the meaning of an informational text.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze ideas within and between selections including how specific sentences, paragraphs, or sections contribute to the development and meaning of ideas.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Compare and contrast how two or more authors writing about the same topic shape their presentations or viewpoints.",
+                "action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "W",
+        "name": "Writing",
+        "standards": [
+          {
+            "id": "7.W",
+            "statement": "The student will compose various works for diverse audiences and purposes, linked to grade seven content and texts.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Write narratives to develop real or imagined experiences or to alter an existing text.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Write expository texts to examine a topic or concept that develops the focus with relevant facts.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Write persuasively supporting a well-defined point of view with appropriate claims.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Write reflectively in response to reading to demonstrate thinking.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "LU",
+        "name": "Language Usage",
+        "standards": [
+          {
+            "id": "7.LU",
+            "statement": "The student will use the conventions of Standard English when speaking and writing.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Construct simple, compound, complex, and compound-complex sentences to communicate ideas clearly.",
+                "action_verb": "Construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Recognize and use pronoun-antecedent agreement.",
+                "action_verb": "Recognize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use specific adjectives and adverbs to enhance speech and writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Arrange phrases and clauses within a sentence and apply appropriate subject-verb agreement.",
+                "action_verb": "Arrange",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Maintain consistent verb tense across paragraphs in writing.",
+                "action_verb": "Maintain",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "C",
+        "name": "Communication and Multimodal Literacies",
+        "standards": [
+          {
+            "id": "7.C",
+            "statement": "The student will develop effective oral communication and collaboration skills.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Facilitate and contribute to a range of sustained collaborative discussions with diverse partners.",
+                "action_verb": "Facilitate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Report orally on a topic or text or present an opinion.",
+                "action_verb": "Report",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use medial and visual literacy skills to select, organize, and create multimodal content.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Explain persuasive/informative techniques used in media to sway the audience.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze media messages for facts, opinions, persuasive messages, word choice, and viewpoint.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "R",
+        "name": "Research",
+        "standards": [
+          {
+            "id": "7.R",
+            "statement": "The student will conduct research and read a series of conceptually related texts on selected topics.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Formulate questions about a research topic.",
+                "action_verb": "Formulate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Collect, organize, and synthesize information from multiple sources.",
+                "action_verb": "Collect",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Evaluate and analyze the relevance, validity, and credibility of each source.",
+                "action_verb": "Evaluate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Quote, summarize, and paraphrase research findings from primary and secondary sources.",
+                "action_verb": "Quote",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Organize and share findings in formal and informal oral written formats.",
+                "action_verb": "Organize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Give credit for information quoted or paraphrased, using standard citations.",
+                "action_verb": "Give",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Demonstrate ethical and responsible use of all sources.",
+                "action_verb": "Demonstrate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "Grade 7 Understanding the Standards.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 14849,
+    "prompt_tokens": 11621,
+    "completion_tokens": 3228
+  }
+}

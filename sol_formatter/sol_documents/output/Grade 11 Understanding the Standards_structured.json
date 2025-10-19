@@ -1,0 +1,931 @@
+{
+  "document": {
+    "title": "Understanding the Standards",
+    "grade_level": "11",
+    "course_name": "English",
+    "year": 2023,
+    "introduction": "In eleventh grade, there is a sustained emphasis on reading comprehension by analyzing, evaluating, and critiquing literary and informational texts. The student will conduct comparative analyses of multiple texts that address the same topic to determine how authors reach similar or different conclusions. The student will examine and analyze literary texts by American authors describing the contributions of other cultures and identifying prevalent themes and characterizations, which are reflective of American history and culture. The student will continue development of vocabulary, with attention to connotations, idioms, classical allusions, and figurative language. With an explicit focus to integrate reading and writing processes, the grade-eleven student will use mentor texts as models to write with an emphasis on analysis for multiple purposes and audiences to create focused, organized, and coherent writing. The student will also have authentic opportunities to write for postsecondary experiences, including college and the workplace. The student will create and deliver multimodal presentations and analyze and critique how media messages are constructed for specific audiences. The student will produce a research product synthesizing information from primary and secondary sources while maintaining ethical and legal guidelines for gathering and using information. The eleventh-grade student will continue to build communication skills working both independently and in collaborative groups. The student will continue to demonstrate the ability to work within collaborative groups while presenting alternate views and working to fulfill a specific purpose.",
+    "strands": [
+      {
+        "code": "DSR",
+        "name": "Developing Skilled Readers and Building Reading Stamina",
+        "standards": [
+          {
+            "id": "11.DSR",
+            "statement": "The student will build knowledge and comprehension skills from reading a range of challenging, content-rich texts.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Read a variety of grade-level complex text with accuracy, automaticity, appropriate rate, and meaningful expression in successive readings to support comprehension.",
+                "action_verb": "Read",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Proficiently read and comprehend a variety of literary and informational texts that exhibit complexity at the lower range of the grades 11-12 band.",
+                "action_verb": "Read",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "When responding to text through discussions and/or writing, draw several pieces of evidence from grade-level complex texts to support claims, conclusions, and inferences.",
+                "action_verb": "Draw",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Regularly engage in reading a series of conceptually related texts organized around topics of study to build knowledge and vocabulary.",
+                "action_verb": "Engage",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use reading strategies as needed to aid and monitor comprehension when encountering challenging sections of text.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "RV",
+        "name": "Reading and Vocabulary",
+        "standards": [
+          {
+            "id": "11.RV",
+            "statement": "The student will systematically build vocabulary and word knowledge based on grade eleven content and texts.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Develop and accurately use general academic and content-specific vocabulary through reading, discussing, and writing about grade-level texts and topics.",
+                "action_verb": "Develop",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use context and sentence structure to clarify the meanings of words and phrases.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use structural analysis of roots, affixes, and etymology to understand the meanings of unfamiliar and complex words.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze the nuances in the meaning of words with similar denotations.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Explain and analyze idiomatic language in context.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Explain the meaning of figurative language and literary and classical allusions and analyze their role in texts.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use newly learned words and phrases in multiple contexts, including in students’ discussions and speaking and writing activities.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "RL",
+        "name": "Reading Literary Text",
+        "standards": [
+          {
+            "id": "11.RL",
+            "statement": "The student will use textual evidence to demonstrate comprehension and build knowledge from a variety of grade-level complex literary texts read to include literary nonfiction.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Analyze the development of universal themes prevalent in American literature.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Describe how a particular sentence, chapter, scene, or stanza fits into the overall structure of a text and contributes to the development of the setting and plot.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze how characters are revealed through particular lines of dialogue or events.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze and evaluate how dramatic conventions contribute to the theme and effect of plays from various cultures.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.RL.1",
+            "statement": "Key Ideas and Plot Details",
+            "knowledge_and_skills": [
+              {
+                "objective": "Analyze the development of universal themes prevalent in American literature.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Describe how a particular sentence, chapter, scene, or stanza fits into the overall structure of a text and contributes to the development of the setting and plot.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze how characters are revealed through particular lines of dialogue or events.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze and evaluate how dramatic conventions contribute to the theme and effect of plays from various cultures.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.RL.2",
+            "statement": "Craft and Style",
+            "knowledge_and_skills": [
+              {
+                "objective": "Interpret and analyze how the sound and imagery of poetry support the subject, mood, form, and theme.",
+                "action_verb": "Interpret",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Evaluate how authors use specific word choices, syntax, tone, and voice to convey the author’s intent and viewpoint.",
+                "action_verb": "Evaluate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Critique how authors use key literary devices to contribute to the meaning of a text.",
+                "action_verb": "Critique",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze the use of satire, sarcasm, irony, and understatement to differentiate between what is directly stated and what is implied.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.RL.3",
+            "statement": "Integration of Concepts",
+            "knowledge_and_skills": [
+              {
+                "objective": "Explain the influence of the historical and cultural context on form, style, and point of view of texts.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Relate themes, patterns of events, or character types from myths to contemporary stories.",
+                "action_verb": "Relate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze how authors’ attitudes, viewpoints, and beliefs reflect larger historical, social, or cultural contexts.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "RI",
+        "name": "Reading Informational Text",
+        "standards": [
+          {
+            "id": "11.RI",
+            "statement": "The student will use textual evidence to demonstrate comprehension and build knowledge from grade-level complex informational texts read.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Interpret and complete an application for employment or college admission.",
+                "action_verb": "Interpret",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze the hypotheses, data, analysis, and/or conclusions in informational texts.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Evaluate the relevance and quality of an author’s premises, claims, counterclaims, and evidence.",
+                "action_verb": "Evaluate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.RI.1",
+            "statement": "Key Ideas and Confirming Details",
+            "knowledge_and_skills": [
+              {
+                "objective": "Interpret and complete an application for employment or college admission.",
+                "action_verb": "Interpret",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze the hypotheses, data, analysis, and/or conclusions in informational texts.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Evaluate the relevance and quality of an author’s premises, claims, counterclaims, and evidence.",
+                "action_verb": "Evaluate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.RI.2",
+            "statement": "Craft and Style",
+            "knowledge_and_skills": [
+              {
+                "objective": "Examine how textual elements and organizational patterns contribute to meaning and the author’s purpose.",
+                "action_verb": "Examine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze and interpret the key terms and ideas of historical, scientific, technical, and employment texts.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Recognize and analyze the author’s purpose and impact of ambiguity, contradiction, paradox, oxymoron, irony, sarcasm, overstatement, and understatement in informational texts.",
+                "action_verb": "Recognize",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.RI.3",
+            "statement": "Integration of Concepts",
+            "knowledge_and_skills": [
+              {
+                "objective": "Analyze information within and between paired passages for similar and conflicting ideas.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Compare and contrast informational and technical texts for intent, content, and clarity.",
+                "action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "W",
+        "name": "Writing",
+        "standards": [
+          {
+            "id": "11.W",
+            "statement": "The student will write in a variety of forms for diverse audiences and purposes linked to grade eleven content and text with an emphasis on argumentative and analytical writing.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Write extended pieces that introduce a topic clearly by providing context, presenting well-defined theses, and previewing what follows.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Adopt an organizational structure that clarifies relationships among ideas and concepts.",
+                "action_verb": "Adopt",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Develop the topic through sustained use of the most significant and relevant facts, concrete details, quotations, or other information from multiple authoritative sources.",
+                "action_verb": "Develop",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Provide a concluding section that follows from the information or explanation presented.",
+                "action_verb": "Provide",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Write analyses that develop a thesis that demonstrates knowledgeable judgments.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Interpret and investigate evidence from various sources and texts to draw reasonable conclusions that support the writer’s position or assertion.",
+                "action_verb": "Interpret",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Examine and evaluate processes and/or problems to propose solutions.",
+                "action_verb": "Examine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Organize claims, counterclaims, and evidence in a sustained and logical sequence.",
+                "action_verb": "Organize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Write to describe personal qualifications for potential occupational or educational opportunities.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Choose appropriate modes and blend multiple forms of writing.",
+                "action_verb": "Choose",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.W.1",
+            "statement": "Modes and Purposes for Writing",
+            "knowledge_and_skills": [
+              {
+                "objective": "Write extended pieces that introduce a topic clearly by providing context, presenting well-defined theses, and previewing what follows.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Adopt an organizational structure that clarifies relationships among ideas and concepts.",
+                "action_verb": "Adopt",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Develop the topic through sustained use of the most significant and relevant facts, concrete details, quotations, or other information from multiple authoritative sources.",
+                "action_verb": "Develop",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Provide a concluding section that follows from the information or explanation presented.",
+                "action_verb": "Provide",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Write analyses that develop a thesis that demonstrates knowledgeable judgments.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Interpret and investigate evidence from various sources and texts to draw reasonable conclusions that support the writer’s position or assertion.",
+                "action_verb": "Interpret",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Examine and evaluate processes and/or problems to propose solutions.",
+                "action_verb": "Examine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Organize claims, counterclaims, and evidence in a sustained and logical sequence.",
+                "action_verb": "Organize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Write to describe personal qualifications for potential occupational or educational opportunities.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Choose appropriate modes and blend multiple forms of writing.",
+                "action_verb": "Choose",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.W.2",
+            "statement": "Organization and Composition",
+            "knowledge_and_skills": [
+              {
+                "objective": "Plan and organize writing to address a specific audience and purpose using the writing process.",
+                "action_verb": "Plan",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Compose a thesis statement that clearly communicates the writer’s position or assertion.",
+                "action_verb": "Compose",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Organize claims, counterclaims, and evidence in a sustained and logical sequence.",
+                "action_verb": "Organize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Effectively contextualize evidence from sources with proper introduction and thorough explanation.",
+                "action_verb": "Contextualize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Apply varied transitions and sentence structures to connect ideas within and across paragraphs.",
+                "action_verb": "Apply",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Elaborate ideas clearly through purposeful and precise word choice.",
+                "action_verb": "Elaborate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.W.3",
+            "statement": "Usage and Mechanics",
+            "knowledge_and_skills": [
+              {
+                "objective": "Revise writing for clarity of content, accuracy, and depth of information.",
+                "action_verb": "Revise",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use peer- and self-evaluation to edit writing for clarity and quality of information.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Edit writing for appropriate conventions, style, and language.",
+                "action_verb": "Edit",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "LU",
+        "name": "Language Usage",
+        "standards": [
+          {
+            "id": "11.LU",
+            "statement": "The student will use the conventions of Standard English when speaking and writing.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Use verbal phrases to achieve sentence conciseness and variety in speaking and writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use complex sentence structure to infuse sentence variety in writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Differentiate and apply active and passive voice to convey a desired effect in speaking and writing.",
+                "action_verb": "Differentiate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.LU.1",
+            "statement": "Grammar",
+            "knowledge_and_skills": [
+              {
+                "objective": "Use verbal phrases to achieve sentence conciseness and variety in speaking and writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use complex sentence structure to infuse sentence variety in writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Differentiate and apply active and passive voice to convey a desired effect in speaking and writing.",
+                "action_verb": "Differentiate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.LU.2",
+            "statement": "Mechanics",
+            "knowledge_and_skills": [
+              {
+                "objective": "Use commas, semi-colons, and colons correctly in complex sentences in writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Write and edit work so that it conforms to the guidelines in style manual.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Spell correctly, consulting reference materials to check as needed.",
+                "action_verb": "Spell",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "C",
+        "name": "Communication and Multimodal Literacies",
+        "standards": [
+          {
+            "id": "11.C",
+            "statement": "The student will develop effective oral communication and collaboration skills.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Facilitate and contribute to a range of sustained collaborative discussions with diverse partners.",
+                "action_verb": "Facilitate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Apply a variety of strategies to listen actively and speak purposefully and respectfully.",
+                "action_verb": "Apply",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Demonstrate the ability to work effectively by coming to a consensus.",
+                "action_verb": "Demonstrate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Respond thoughtfully and tactfully with evidence to diverse perspectives.",
+                "action_verb": "Respond",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Summarize points of agreement and disagreement.",
+                "action_verb": "Summarize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Assess, evaluate critically, and use information accurately to fulfill a task.",
+                "action_verb": "Assess",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use reflection to evaluate one's own role in the group process.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.C.1",
+            "statement": "Communication, Listening, and Collaboration",
+            "knowledge_and_skills": [
+              {
+                "objective": "Facilitate and contribute to a range of sustained collaborative discussions with diverse partners.",
+                "action_verb": "Facilitate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Apply a variety of strategies to listen actively and speak purposefully and respectfully.",
+                "action_verb": "Apply",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Demonstrate the ability to work effectively by coming to a consensus.",
+                "action_verb": "Demonstrate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Respond thoughtfully and tactfully with evidence to diverse perspectives.",
+                "action_verb": "Respond",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Summarize points of agreement and disagreement.",
+                "action_verb": "Summarize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Assess, evaluate critically, and use information accurately to fulfill a task.",
+                "action_verb": "Assess",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use reflection to evaluate one's own role in the group process.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.C.2",
+            "statement": "Speaking and Presentation of Ideas",
+            "knowledge_and_skills": [
+              {
+                "objective": "Report orally on a topic or text or present an opinion.",
+                "action_verb": "Report",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Select the modes and purposes for presentations and synthesize multiple streams of information.",
+                "action_verb": "Select",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Choose diction and tone appropriate to the topic, audience, and purpose.",
+                "action_verb": "Choose",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use a variety of active listening and speaking strategies.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Utilize rhetorical techniques to deliver a message.",
+                "action_verb": "Utilize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Anticipate and address alternative or opposing perspectives and counterclaims.",
+                "action_verb": "Anticipate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Evaluate the content and effectiveness of presentations.",
+                "action_verb": "Evaluate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.C.3",
+            "statement": "Integrating Multimodal Literacies",
+            "knowledge_and_skills": [
+              {
+                "objective": "Create, publish, and deliver multimodal presentations and pieces aimed at a variety of audiences.",
+                "action_verb": "Create",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Demonstrate understanding of multimodal literacy by identifying and evaluating elements.",
+                "action_verb": "Demonstrate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Monitor, organize, analyze, and synthesize multiple streams of simultaneous information.",
+                "action_verb": "Monitor",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Ethically, purposefully, and strategically incorporate multimodal tools.",
+                "action_verb": "Incorporate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.C.4",
+            "statement": "Examining Media Messages",
+            "knowledge_and_skills": [
+              {
+                "objective": "Analyze the sources and viewpoint(s) of publications.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze and critique how media reach the targeted audience for specific purposes.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze, compare, and contrast visual and verbal media messages for content.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "R",
+        "name": "Research",
+        "standards": [
+          {
+            "id": "11.R",
+            "statement": "The student will conduct research and read a series of conceptually related texts on selected topics to build knowledge.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Formulate and revise questions about a research topic.",
+                "action_verb": "Formulate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Gather and organize information from various sources.",
+                "action_verb": "Gather",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Objectively evaluate primary and secondary sources for their credibility, reliability, accuracy, usefulness, and limitations.",
+                "action_verb": "Evaluate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Synthesize multiple streams of evidence to support claims and acknowledge counterclaims.",
+                "action_verb": "Synthesize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Create research products aligned with the demands of the reading and writing standards.",
+                "action_verb": "Create",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Cite primary and secondary sources for quoted and paraphrased ideas using a standard method of documentation.",
+                "action_verb": "Cite",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Define the meaning and consequences of plagiarism and follow ethical and legal guidelines for gathering and using information.",
+                "action_verb": "Define",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Demonstrate ethical and responsible use of all sources.",
+                "action_verb": "Demonstrate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "11.R.1",
+            "statement": "Evaluation and Synthesis of Information",
+            "knowledge_and_skills": [
+              {
+                "objective": "Formulate and revise questions about a research topic.",
+                "action_verb": "Formulate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Gather and organize information from various sources.",
+                "action_verb": "Gather",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Objectively evaluate primary and secondary sources for their credibility, reliability, accuracy, usefulness, and limitations.",
+                "action_verb": "Evaluate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Synthesize multiple streams of evidence to support claims and acknowledge counterclaims.",
+                "action_verb": "Synthesize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Create research products aligned with the demands of the reading and writing standards.",
+                "action_verb": "Create",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Cite primary and secondary sources for quoted and paraphrased ideas using a standard method of documentation.",
+                "action_verb": "Cite",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Define the meaning and consequences of plagiarism and follow ethical and legal guidelines for gathering and using information.",
+                "action_verb": "Define",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Demonstrate ethical and responsible use of all sources.",
+                "action_verb": "Demonstrate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "Grade 11 Understanding the Standards.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 17769,
+    "prompt_tokens": 10965,
+    "completion_tokens": 6804
+  }
+}

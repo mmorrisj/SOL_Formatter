@@ -1,0 +1,778 @@
+{
+  "document": {
+    "metadata": {
+      "title": "Mathematics Standards of Learning for Virginia Public Schools",
+      "grade_level": "6",
+      "course_name": "Mathematics",
+      "year": 2023
+    },
+    "introduction": "The Grade 6 Standards provide a transition from the emphasis placed on whole number arithmetic in the elementary grades to an introduction to algebraic thinking. The Standards include a focus on single-step and multistep problems involving operations with integers and positive rational numbers. Students will determine equivalency, compare, and order decimals, fractions, and percents. Students will solve problems involving area and perimeter and begin to graph in a coordinate plane. In addition, students will continue using the data cycle by applying it to circle graphs and develop concepts regarding measures of center. Students will solve linear equations in one variable, write inequality statements, and use algebraic terminology. Students will use ratios to compare two quantities and represent proportional relationships as a precursor to the development of the concept of linear functions. The building of mathematical knowledge can be enhanced by using technology tools when used strategically and to complement further learning during grades 6-8. The use of appropriate technology and the interpretation of the results from applying technology tools must be an integral part of teaching, learning, and assessment. However, facility in the use of technology shall not be regarded as a substitute for a student’s understanding of quantitative and algebraic concepts or for proficiency in basic computations. Students must learn to use a variety of methods and tools to compute, including paper and pencil, mental arithmetic, estimation, and the use of instructional technology. Graphing utilities, spreadsheets, calculators, dynamic applications, and other technological tools support mathematical problem solving, reasoning, and justification, as well as application in science, engineering, business and industry, government, and practical affairs. In grades 6-8, the acquisition of specialized mathematical vocabulary and language builds as students continue to deepen their understanding of mathematics through communication and problem solving. Problem solving increases in complexity as students progress into middle and high school. Students continue to build upon their mathematical knowledge by participating in problem-solving activities that promote higher levels of critical thinking and analysis.",
+    "strands": [
+      {
+        "code": "NS",
+        "name": "Number and Number Sense",
+        "standards": [
+          {
+            "id": "6.NS.1",
+            "statement": "The student will reason and use multiple strategies to express equivalency, compare, and order numbers written as fractions, mixed numbers, decimals, and percents.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Estimate and determine the percent represented by a given model",
+                "sub_objectives": [
+                  "including percents greater than 100% and less than 1%"
+                ],
+                "action_verb": "Estimate",
+                "examples": [
+                  "number line",
+                  "picture",
+                  "verbal description"
+                ],
+                "constraints": null
+              },
+              {
+                "objective": "Represent and determine equivalencies among decimals",
+                "sub_objectives": [
+                  "through the thousandths place",
+                  "incorporating the use of number lines",
+                  "and concrete and pictorial models"
+                ],
+                "action_verb": "Represent",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Represent and determine equivalencies among fractions and mixed numbers",
+                "sub_objectives": [
+                  "that have denominators that are 12 or less or factors of 100",
+                  "and percents incorporating the use of number lines",
+                  "and concrete and pictorial models"
+                ],
+                "action_verb": "Represent",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Use multiple strategies to compare and order no more than four positive rational numbers",
+                "sub_objectives": [
+                  "expressed as fractions, mixed numbers, decimals, and percents",
+                  "with and without models",
+                  "Justify solutions orally, in writing or with a model"
+                ],
+                "action_verb": "Use",
+                "examples": [
+                  "benchmarks",
+                  "number line",
+                  "equivalency"
+                ],
+                "constraints": "no more than four positive rational numbers"
+              }
+            ]
+          },
+          {
+            "id": "6.NS.2",
+            "statement": "The student will reason and use multiple strategies to represent, compare, and order integers.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Represent integers",
+                "sub_objectives": [
+                  "including models derived from contextual situations",
+                  "and identify an integer represented by a point on a number line"
+                ],
+                "action_verb": "Represent",
+                "examples": [
+                  "number lines",
+                  "concrete materials",
+                  "pictorial models"
+                ],
+                "constraints": null
+              },
+              {
+                "objective": "Compare and order integers using a number line.",
+                "sub_objectives": null,
+                "action_verb": "Compare",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Compare integers, using mathematical symbols",
+                "sub_objectives": [
+                  "(<, >, =)"
+                ],
+                "action_verb": "Compare",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Identify and describe the absolute value of an integer",
+                "sub_objectives": [
+                  "as the distance from zero on the number line"
+                ],
+                "action_verb": "Identify",
+                "examples": null,
+                "constraints": null
+              }
+            ]
+          },
+          {
+            "id": "6.NS.3",
+            "statement": "The student will recognize and represent patterns with whole number exponents and perfect squares.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Recognize and represent patterns with bases and exponents that are whole numbers.",
+                "sub_objectives": null,
+                "action_verb": "Recognize",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Recognize and represent patterns of perfect squares",
+                "sub_objectives": [
+                  "not to exceed",
+                  "by using concrete and pictorial models"
+                ],
+                "action_verb": "Recognize",
+                "examples": null,
+                "constraints": "not to exceed 400"
+              },
+              {
+                "objective": "Justify if a number between 0 and 400 is a perfect square",
+                "sub_objectives": [
+                  "through modeling or mathematical reasoning"
+                ],
+                "action_verb": "Justify",
+                "examples": null,
+                "constraints": "between 0 and 400"
+              },
+              {
+                "objective": "Recognize and represent powers of 10 with whole number exponents",
+                "sub_objectives": [
+                  "by examining patterns in place value"
+                ],
+                "action_verb": "Recognize",
+                "examples": null,
+                "constraints": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "CE",
+        "name": "Computation and Estimation",
+        "standards": [
+          {
+            "id": "6.CE.1",
+            "statement": "The student will estimate, demonstrate, solve, and justify solutions to problems using operations with fractions and mixed numbers, including those in context.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Demonstrate/model multiplication and division of fractions and mixed numbers",
+                "sub_objectives": [
+                  "using multiple representations"
+                ],
+                "action_verb": "Demonstrate",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Multiply and divide fractions and mixed numbers",
+                "sub_objectives": [
+                  "that include denominators of 12 or less",
+                  "Answers are expressed in simplest form"
+                ],
+                "action_verb": "Multiply",
+                "examples": null,
+                "constraints": "denominators of 12 or less"
+              },
+              {
+                "objective": "Investigate and explain the effect of multiplying or dividing a fraction, whole number, or mixed number",
+                "sub_objectives": [
+                  "by a number between zero and one"
+                ],
+                "action_verb": "Investigate",
+                "examples": null,
+                "constraints": "between zero and one"
+              },
+              {
+                "objective": "Estimate, determine, and justify the solution to single-step and multistep problems",
+                "sub_objectives": [
+                  "in context that involve addition and subtraction with fractions and mixed numbers",
+                  "with and without regrouping",
+                  "that include like and unlike denominators of 12 or less",
+                  "Answers are expressed in simplest form"
+                ],
+                "action_verb": "Estimate",
+                "examples": null,
+                "constraints": "denominators of 12 or less"
+              },
+              {
+                "objective": "Estimate, determine, and justify the solution to single-step and multistep problems",
+                "sub_objectives": [
+                  "in context that involve multiplication and division with fractions and mixed numbers",
+                  "that include denominators of 12 or less",
+                  "Answers are expressed in simplest form"
+                ],
+                "action_verb": "Estimate",
+                "examples": null,
+                "constraints": "denominators of 12 or less"
+              }
+            ]
+          },
+          {
+            "id": "6.CE.2",
+            "statement": "The student will estimate, demonstrate, solve, and justify solutions to problems using operations with integers, including those in context.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Demonstrate/model addition, subtraction, multiplication, and division of integers",
+                "sub_objectives": [
+                  "using pictorial representations or concrete manipulatives"
+                ],
+                "action_verb": "Demonstrate",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Add, subtract, multiply, and divide two integers.",
+                "sub_objectives": null,
+                "action_verb": "Add",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Simplify an expression that contains absolute value bars",
+                "sub_objectives": [
+                  "and an operation with two integers",
+                  "and represent the result on a number line"
+                ],
+                "action_verb": "Simplify",
+                "examples": [
+                  "–|5 – 8|"
+                ],
+                "constraints": null
+              },
+              {
+                "objective": "Estimate, determine, and justify the solution to one and two-step contextual problems",
+                "sub_objectives": [
+                  "involving addition, subtraction, multiplication, and division with integers"
+                ],
+                "action_verb": "Estimate",
+                "examples": null,
+                "constraints": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "MG",
+        "name": "Measurement and Geometry",
+        "standards": [
+          {
+            "id": "6.MG.1",
+            "statement": "The student will identify the characteristics of circles and solve problems, including those in context, involving circumference and area.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Identify and describe chord, diameter, radius, circumference, and area of a circle.",
+                "sub_objectives": null,
+                "action_verb": "Identify",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Investigate and describe the relationship between diameter and radius, radius and circumference, and diameter and circumference.",
+                "sub_objectives": null,
+                "action_verb": "Investigate",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Develop an approximation for pi",
+                "sub_objectives": [
+                  "by gathering data and comparing the circumference to the diameter of various circles",
+                  "using concrete manipulatives or technological models"
+                ],
+                "action_verb": "Develop",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Develop the formula for circumference",
+                "sub_objectives": [
+                  "using the relationship between diameter, radius, and pi"
+                ],
+                "action_verb": "Develop",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Solve problems, including those in context, involving circumference and area of a circle",
+                "sub_objectives": [
+                  "when given the length of the diameter or radius"
+                ],
+                "action_verb": "Solve",
+                "examples": null,
+                "constraints": null
+              }
+            ]
+          },
+          {
+            "id": "6.MG.2",
+            "statement": "The student will reason mathematically to solve problems, including those in context, that involve the area and perimeter of triangles and parallelograms.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Develop the formula for determining the area of parallelograms and triangles",
+                "sub_objectives": [
+                  "using pictorial representations and concrete manipulatives"
+                ],
+                "action_verb": "Develop",
+                "examples": [
+                  "two-dimensional diagrams",
+                  "grid paper"
+                ],
+                "constraints": null
+              },
+              {
+                "objective": "Solve problems, including those in context, involving the perimeter and area of triangles and parallelograms.",
+                "sub_objectives": null,
+                "action_verb": "Solve",
+                "examples": null,
+                "constraints": null
+              }
+            ]
+          },
+          {
+            "id": "6.MG.3",
+            "statement": "The student will describe the characteristics of the coordinate plane and graph ordered pairs.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Identify and label the axes, origin, and quadrants of a coordinate plane.",
+                "sub_objectives": null,
+                "action_verb": "Identify",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Identify and describe the location of a point given as an ordered pair.",
+                "sub_objectives": [
+                  "Ordered pairs will be limited to coordinates expressed as integers"
+                ],
+                "action_verb": "Identify",
+                "examples": null,
+                "constraints": "coordinates expressed as integers"
+              },
+              {
+                "objective": "Graph ordered pairs in the four quadrants and on the axes of a coordinate plane.",
+                "sub_objectives": [
+                  "Ordered pairs will be limited to coordinates expressed as integers"
+                ],
+                "action_verb": "Graph",
+                "examples": null,
+                "constraints": "coordinates expressed as integers"
+              },
+              {
+                "objective": "Identify ordered pairs represented by points in the four quadrants and on the axes of the coordinate plane.",
+                "sub_objectives": [
+                  "Ordered pairs will be limited to coordinates expressed as integers"
+                ],
+                "action_verb": "Identify",
+                "examples": null,
+                "constraints": "coordinates expressed as integers"
+              },
+              {
+                "objective": "Relate the coordinates of a point to the distance from each axis",
+                "sub_objectives": [
+                  "and relate the coordinates of a single point to another point on the same horizontal or vertical line"
+                ],
+                "action_verb": "Relate",
+                "examples": null,
+                "constraints": "coordinates expressed as integers"
+              },
+              {
+                "objective": "Draw polygons in the coordinate plane given coordinates for the vertices",
+                "sub_objectives": [
+                  "use coordinates to determine the length of a side joining points with the same first coordinate or the same second coordinate"
+                ],
+                "action_verb": "Draw",
+                "examples": null,
+                "constraints": "coordinates expressed as integers"
+              }
+            ]
+          },
+          {
+            "id": "6.MG.4",
+            "statement": "The student will determine congruence of segments, angles, and polygons.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Identify regular polygons.",
+                "sub_objectives": null,
+                "action_verb": "Identify",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Draw lines of symmetry to divide regular polygons into two congruent parts.",
+                "sub_objectives": null,
+                "action_verb": "Draw",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Determine the congruence of segments, angles, and polygons given their properties.",
+                "sub_objectives": null,
+                "action_verb": "Determine",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Determine whether polygons are congruent or noncongruent according to the measures of their sides and angles.",
+                "sub_objectives": null,
+                "action_verb": "Determine",
+                "examples": null,
+                "constraints": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "PS",
+        "name": "Probability and Statistics",
+        "standards": [
+          {
+            "id": "6.PS.1",
+            "statement": "The student will apply the data cycle (formulate questions; collect or acquire data; organize and represent data; and analyze data and communicate results) with a focus on circle graphs.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Formulate questions that require the collection or acquisition of data",
+                "sub_objectives": [
+                  "with a focus on circle graphs"
+                ],
+                "action_verb": "Formulate",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Determine the data needed to answer a formulated question",
+                "sub_objectives": [
+                  "and collect the data (or acquire existing data) using various methods"
+                ],
+                "action_verb": "Determine",
+                "examples": [
+                  "observations",
+                  "measurement",
+                  "surveys",
+                  "experiments"
+                ],
+                "constraints": null
+              },
+              {
+                "objective": "Determine the factors that will ensure that the data collected is a sample that is representative of a larger population.",
+                "sub_objectives": null,
+                "action_verb": "Determine",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Organize and represent data using circle graphs",
+                "sub_objectives": [
+                  "with and without the use of technology tools",
+                  "The number of data values should be limited to allow for comparisons that have denominators of 12 or less or those that are factors of 100"
+                ],
+                "action_verb": "Organize",
+                "examples": null,
+                "constraints": "denominators of 12 or less or factors of 100"
+              },
+              {
+                "objective": "Analyze data represented in a circle graph",
+                "sub_objectives": [
+                  "by making observations and drawing conclusions"
+                ],
+                "action_verb": "Analyze",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Compare data represented in a circle graph with the same data represented in other graphs",
+                "sub_objectives": [
+                  "including but not limited to bar graphs, pictographs, and line plots (dot plots)",
+                  "and justify which graphical representation best represents the data"
+                ],
+                "action_verb": "Compare",
+                "examples": null,
+                "constraints": null
+              }
+            ]
+          },
+          {
+            "id": "6.PS.2",
+            "statement": "The student will represent the mean as a balance point and determine the effect on statistical measures when a data point is added, removed, or changed.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Represent the mean of a set of data graphically as the balance point represented in a line plot",
+                "sub_objectives": [
+                  "(dot plot)"
+                ],
+                "action_verb": "Represent",
+                "examples": [
+                  "dot plot"
+                ],
+                "constraints": null
+              },
+              {
+                "objective": "Determine the effect on measures of center when a single value of a data set is added, removed, or changed.",
+                "sub_objectives": null,
+                "action_verb": "Determine",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Observe patterns in data to identify outliers",
+                "sub_objectives": [
+                  "and determine their effect on mean, median, mode, or range."
+                ],
+                "action_verb": "Observe",
+                "examples": null,
+                "constraints": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "PFA",
+        "name": "Patterns, Functions, and Algebra",
+        "standards": [
+          {
+            "id": "6.PFA.1",
+            "statement": "The student will use ratios to represent relationships between quantities, including those in context.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Represent a relationship between two quantities using ratios.",
+                "sub_objectives": null,
+                "action_verb": "Represent",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Represent a relationship in context that makes a comparison",
+                "sub_objectives": [
+                  "by using the notations , a:b, and a to b."
+                ],
+                "action_verb": "Represent",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Represent different comparisons within the same quantity or between different quantities",
+                "sub_objectives": [
+                  "(e.g., part to part, part to whole, whole to whole)"
+                ],
+                "action_verb": "Represent",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Create a relationship in words for a given ratio expressed symbolically.",
+                "sub_objectives": null,
+                "action_verb": "Create",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Create a table of equivalent ratios to represent a proportional relationship between two quantities",
+                "sub_objectives": [
+                  "when given a ratio."
+                ],
+                "action_verb": "Create",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Create a table of equivalent ratios to represent a proportional relationship between two quantities",
+                "sub_objectives": [
+                  "when given a contextual situation."
+                ],
+                "action_verb": "Create",
+                "examples": null,
+                "constraints": null
+              }
+            ]
+          },
+          {
+            "id": "6.PFA.2",
+            "statement": "The student will identify and represent proportional relationships between two quantities, including those in context (unit rates are limited to positive values).",
+            "knowledge_and_skills": [
+              {
+                "objective": "Identify the unit rate of a proportional relationship",
+                "sub_objectives": [
+                  "represented by a table of values, a contextual situation, or a graph."
+                ],
+                "action_verb": "Identify",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Determine a missing value in a ratio table that represents a proportional relationship",
+                "sub_objectives": [
+                  "between two quantities using a unit rate."
+                ],
+                "action_verb": "Determine",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Determine whether a proportional relationship exists between two quantities",
+                "sub_objectives": [
+                  "when given a table of values, context, or graph."
+                ],
+                "action_verb": "Determine",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "When given a contextual situation representing a proportional relationship, find the unit rate and create a table of values or a graph.",
+                "sub_objectives": null,
+                "action_verb": "Find",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Make connections between and among multiple representations of the same proportional relationship",
+                "sub_objectives": [
+                  "using verbal descriptions, ratio tables, and graphs."
+                ],
+                "action_verb": "Make",
+                "examples": null,
+                "constraints": null
+              }
+            ]
+          },
+          {
+            "id": "6.PFA.3",
+            "statement": "The student will write and solve one-step linear equations in one variable, including contextual problems that require the solution of a one-step linear equation in one variable.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Identify and develop examples of the following algebraic vocabulary",
+                "sub_objectives": [
+                  "equation, variable, expression, term, and coefficient."
+                ],
+                "action_verb": "Identify",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Represent and solve one-step linear equations in one variable",
+                "sub_objectives": [
+                  "using a variety of concrete manipulatives and pictorial representations"
+                ],
+                "action_verb": "Represent",
+                "examples": [
+                  "colored chips",
+                  "algebra tiles",
+                  "weights on a balance scale"
+                ],
+                "constraints": null
+              },
+              {
+                "objective": "Apply properties of real numbers and properties of equality to solve a one-step equation in one variable.",
+                "sub_objectives": [
+                  "Coefficients are limited to integers and unit fractions.",
+                  "Numeric terms are limited to integers."
+                ],
+                "action_verb": "Apply",
+                "examples": null,
+                "constraints": "Coefficients are limited to integers and unit fractions"
+              },
+              {
+                "objective": "Confirm solutions to one-step linear equations in one variable",
+                "sub_objectives": [
+                  "using a variety of concrete manipulatives and pictorial representations"
+                ],
+                "action_verb": "Confirm",
+                "examples": [
+                  "colored chips",
+                  "algebra tiles",
+                  "weights on a balance scale"
+                ],
+                "constraints": null
+              },
+              {
+                "objective": "Write a one-step linear equation in one variable to represent a verbal situation",
+                "sub_objectives": [
+                  "including those in context."
+                ],
+                "action_verb": "Write",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Create a verbal situation in context given a one-step linear equation in one variable.",
+                "sub_objectives": null,
+                "action_verb": "Create",
+                "examples": null,
+                "constraints": null
+              }
+            ]
+          },
+          {
+            "id": "6.PFA.4",
+            "statement": "The student will represent a contextual situation using a linear inequality in one variable with symbols and graphs on a number line.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Given the graph of a linear inequality in one variable on a number line",
+                "sub_objectives": [
+                  "represent the inequality in two equivalent ways"
+                ],
+                "action_verb": "Represent",
+                "examples": [
+                  "x < -5",
+                  "-5 > x"
+                ],
+                "constraints": null
+              },
+              {
+                "objective": "Write a linear inequality in one variable to represent a given constraint or condition in context",
+                "sub_objectives": [
+                  "or given a graph on a number line."
+                ],
+                "action_verb": "Write",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Given a linear inequality in one variable, create a corresponding contextual situation",
+                "sub_objectives": [
+                  "or create a number line graph."
+                ],
+                "action_verb": "Create",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Use substitution or a number line graph to justify whether a given number in a specified set makes a linear inequality in one variable true.",
+                "sub_objectives": null,
+                "action_verb": "Use",
+                "examples": null,
+                "constraints": null
+              },
+              {
+                "objective": "Identify a numerical value(s) that is part of the solution set of a given inequality in one variable.",
+                "sub_objectives": null,
+                "action_verb": "Identify",
+                "examples": null,
+                "constraints": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "6-2023-Approved-Math-SOL.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 9542,
+    "prompt_tokens": 3666,
+    "completion_tokens": 5876
+  }
+}

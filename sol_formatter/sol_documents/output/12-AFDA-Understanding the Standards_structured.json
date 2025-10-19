@@ -1,0 +1,455 @@
+{
+  "document_metadata": {
+    "title": "2023 Mathematics Standards of Learning",
+    "grade_level": "High School",
+    "course_name": "Algebra, Functions, and Data Analysis",
+    "year": 2023
+  },
+  "introduction": "The Understanding the Standards document includes the mathematics understandings and key concepts that assist teachers in planning standards-focused instruction of the 2023 Mathematics Standards of Learning for Algebra, Functions, and Data Analysis. The Understanding the Standards document includes definitions, explanations, and examples regarding each mathematics standard and describes what students should know (core knowledge) as a result of the instruction specifically aligned to the course/grade level.",
+  "strands": [
+    {
+      "strand_code": "AF",
+      "strand_name": "Algebra and Functions",
+      "standards": [
+        {
+          "standard_id": "AFDA.AF.1",
+          "standard_statement": "The student will investigate, analyze, and compare linear, quadratic, and exponential function families, algebraically and graphically, using transformations.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Identify graphs and equations of parent functions for linear, quadratic, and exponential function families.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe the transformation from the parent function given the equation or the graph of the function.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine and analyze whether a linear, quadratic, or exponential function best models a given representation, including those in context.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Write the equation of a linear, quadratic, or exponential function, given a graph, using transformations of the parent function.",
+                "primary_action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use a graphical or algebraic representation of a function to solve problems within a context, graphically and algebraically, when appropriate.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Graph a function given the equation of a function, using transformations of the parent function.",
+                "primary_action_verb": "Graph",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Compare and contrast linear, quadratic, and exponential functions using multiple representations (e.g., graphs, tables, equations, verbal descriptions).",
+                "primary_action_verb": "Compare",
+                "examples": [
+                  "graphs",
+                  "tables",
+                  "equations",
+                  "verbal descriptions"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "AFDA.AF.2",
+          "standard_statement": "The student will investigate and analyze characteristics of the graphs of linear, quadratic, exponential, and piecewise-defined functions.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Determine the domain and range of a function given a graphical representation, including those limited by contexts.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify intervals on a graph for which a function is increasing, decreasing, or constant.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Given a graph, identify the location and value of the absolute maximum and absolute minimum of a function over the domain of a function.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Given a graph, determine the zeros and intercepts of a function.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe and recognize the connection between points on the graph and the value of a function.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe the end behavior of a function given its graph.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify horizontal and/or vertical asymptotes from the graph of a function if they exist.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe and relate the characteristics of the graphs of linear, quadratic, exponential, and piecewise-defined functions, including those in contextual situations.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "AFDA.AF.3",
+          "standard_statement": "The student will represent and interpret contextual situations with constraints that require optimization using linear programming techniques, including systems of linear equations or inequalities, solving graphically and when appropriate, algebraically.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Represent and interpret contextual problems requiring optimization with systems of linear equations or inequalities.",
+                "primary_action_verb": "Represent",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Solve systems of no more than four equations or inequalities graphically and when appropriate, algebraically.",
+                "primary_action_verb": "Solve",
+                "examples": [],
+                "constraints": [
+                  "no more than four"
+                ]
+              },
+              {
+                "objective_text": "Identify the feasible region of a system of linear inequalities.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify the coordinates of the vertices of a feasible region.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine and describe the maximum or minimum value for the function defined over a feasible region.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Interpret the validity of possible solution(s) algebraically, graphically, using technology, and in context and justify the reasonableness of the answer(s) or the solution method in context.",
+                "primary_action_verb": "Interpret",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "DA",
+      "strand_name": "Data Analysis",
+      "standards": [
+        {
+          "standard_id": "AFDA.DA.1",
+          "standard_statement": "The student will apply the data cycle (formulate questions; collect or acquire data; organize and represent data; and analyze data and communicate results) with a focus on representing bivariate data in scatterplots and determining the curve of best fit using linear, quadratic, and exponential functions.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Formulate investigative questions that require the collection or acquisition of bivariate data, where exactly two of the variables are quantitative.",
+                "primary_action_verb": "Formulate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Collect or acquire bivariate data from a representative sample to answer an investigative question.",
+                "primary_action_verb": "Collect",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Represent bivariate data with a scatterplot using technology and describe how the variables are related in terms of the given context.",
+                "primary_action_verb": "Represent",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Make predictions, decisions, and critical judgments using data, scatterplots, or the equation(s) of the mathematical model.",
+                "primary_action_verb": "Make",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "AFDA.DA.2",
+          "standard_statement": "The student will apply the data cycle (formulate questions; collect or acquire data; organize and represent data; and analyze data and communicate results) with a focus on the design and implementation of an experiment and/or observational study.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Formulate questions that can be addressed with data and assess the type of data relevant to the question (e.g., quantitative versus categorical).",
+                "primary_action_verb": "Formulate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Investigate, describe, and determine best sampling techniques, such as simple random sampling, stratified sampling, and cluster sampling.",
+                "primary_action_verb": "Investigate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Plan and conduct an experiment and/or observational study. The experimental design should address control, randomization, and minimization of experimental error.",
+                "primary_action_verb": "Plan",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Collect or acquire data to answer a statistical question.",
+                "primary_action_verb": "Collect",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Recognize that data may contain errors, have missing values, or may be biased, and make decisions about how to account for these issues.",
+                "primary_action_verb": "Recognize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify biased sampling methods.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Given a plan for an observational study, identify possible sources of bias, and describe ways to reduce bias.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Select, create, and use appropriate visual representations of data to brainstorm solutions.",
+                "primary_action_verb": "Select",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use appropriate statistical methods to analyze data.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Communicate the description of an experiment and/or observational study, the resulting data, analysis, and the validity of the conclusions.",
+                "primary_action_verb": "Communicate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "AFDA.DA.3",
+          "standard_statement": "The student will calculate and interpret probabilities, including those in contextual situations.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Analyze, interpret, and make predictions based on theoretical probability.",
+                "primary_action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Calculate conditional probabilities for dependent, independent, and mutually exclusive events.",
+                "primary_action_verb": "Calculate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Represent and calculate probabilities using Venn diagrams, probability trees, organized lists, two-way tables, simulations, or other probability models.",
+                "primary_action_verb": "Represent",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Interpret probabilities from simulations or experiments to make informed decisions and justify the rationale.",
+                "primary_action_verb": "Interpret",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Define and give contextual examples of complementary, dependent, independent, and mutually exclusive events.",
+                "primary_action_verb": "Define",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Given two or more events in a problem setting, determine whether the events are complementary, dependent, independent, and/or mutually exclusive.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Compare and contrast permutations and combinations, including those in contextual situations.",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Calculate the number of permutations of n objects taken r at a time, without repetition.",
+                "primary_action_verb": "Calculate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Calculate the number of combinations of n objects taken r at a time, without repetition.",
+                "primary_action_verb": "Calculate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "AFDA.DA.4",
+          "standard_statement": "The student will describe and apply the properties of normal distribution, including those in contextual situations.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Identify and describe the properties of a normal distribution.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine when the normal distribution is a reasonable representation of the data.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe how the mean and the standard deviation affect the graph of the normal distribution.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Calculate and interpret the z-score for a data point, given the mean and the standard deviation.",
+                "primary_action_verb": "Calculate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Compare two sets of normally distributed data using a standard normal distribution and z-scores, given the mean and the standard deviation.",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Represent probability as the area under the curve of a standard normal distribution.",
+                "primary_action_verb": "Represent",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine probabilities associated with areas under the standard normal curve, using technology or a table of Standard Normal Probabilities.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Investigate, represent, and determine relationships between a normally distributed data set and its descriptive statistics.",
+                "primary_action_verb": "Investigate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "algebra",
+    "functions",
+    "data analysis",
+    "linear programming",
+    "probability",
+    "normal distribution",
+    "scatterplots",
+    "optimization"
+  ],
+  "cognitive_levels": {
+    "AFDA.AF.1": "apply",
+    "AFDA.AF.2": "analyze",
+    "AFDA.AF.3": "apply",
+    "AFDA.DA.1": "apply",
+    "AFDA.DA.2": "create",
+    "AFDA.DA.3": "analyze",
+    "AFDA.DA.4": "understand"
+  },
+  "suggested_question_types": {
+    "AFDA.AF.1": [
+      "multiple_choice",
+      "short_answer"
+    ],
+    "AFDA.AF.2": [
+      "multiple_choice",
+      "short_answer"
+    ],
+    "AFDA.AF.3": [
+      "problem_solving",
+      "short_answer"
+    ],
+    "AFDA.DA.1": [
+      "multiple_choice",
+      "short_answer"
+    ],
+    "AFDA.DA.2": [
+      "short_answer",
+      "problem_solving"
+    ],
+    "AFDA.DA.3": [
+      "problem_solving",
+      "short_answer"
+    ],
+    "AFDA.DA.4": [
+      "short_answer",
+      "problem_solving"
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "12-AFDA-Understanding the Standards.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 9640,
+    "prompt_tokens": 6091,
+    "completion_tokens": 3549
+  }
+}

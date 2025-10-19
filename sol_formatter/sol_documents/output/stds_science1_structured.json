@@ -1,0 +1,344 @@
+{
+  "document_metadata": {
+    "title": "Science Standards of Learning for Public Schools",
+    "grade_level": "Grade One",
+    "course_name": "Science",
+    "year": 2023
+  },
+  "introduction": "The Science Standards of Learning for Virginia Public Schools identify academic content for essential components of the science curriculum at different grade levels. The content of the standards, in conjunction with effective instruction, provide a platform for creating scientifically literate students. The Science Standards of Learning reflect a vertical progression of content and practices. The Standards of Learning contain content strands or topics that progress in complexity as they are studied at various grade levels in grades K-5 and are represented indirectly throughout the middle and high school courses. These strands are Scientific and Engineering Practices, Force, Motion, and Energy, Matter, Living Systems and Processes, Earth and Space Systems, Earth Resources.",
+  "strands": [
+    {
+      "code": "SE",
+      "name": "Scientific and Engineering Practices",
+      "standards": [
+        {
+          "id": "1.SE.1",
+          "statement": "The student will demonstrate an understanding of scientific and engineering practices by asking questions and defining problems.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "ask questions and make predictions based on observations",
+                "action_verb": "ask",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "remember",
+                "suggested_question_types": [
+                  "multiple_choice",
+                  "matching"
+                ]
+              },
+              {
+                "text": "identify a simple problem that can be solved through the development of a new tool or improved object",
+                "action_verb": "identify",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "multiple_choice",
+                  "short_answer"
+                ]
+              },
+              {
+                "text": "with guidance, conduct investigations to produce data",
+                "action_verb": "conduct",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "problem_solving"
+                ]
+              },
+              {
+                "text": "identify characteristics and properties of objects by observations",
+                "action_verb": "identify",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "remember",
+                "suggested_question_types": [
+                  "multiple_choice",
+                  "matching"
+                ]
+              },
+              {
+                "text": "use tools to measure relative length, weight, volume, and temperature of common objects",
+                "action_verb": "use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "problem_solving"
+                ]
+              },
+              {
+                "text": "use and share pictures, drawings, and/or writings of observations",
+                "action_verb": "use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "text": "describe patterns and relationships",
+                "action_verb": "describe",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "text": "classify and arrange objects based on a single physical characteristic or property",
+                "action_verb": "classify",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "matching"
+                ]
+              },
+              {
+                "text": "organize and represent various forms of data using tables, picture graphs, and object graphs",
+                "action_verb": "organize",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "graphical",
+                  "short_answer"
+                ]
+              },
+              {
+                "text": "read and interpret data displayed in tables, picture graphs, and object graphs, using the vocabulary more, less, fewer, greater than, less than, and equal to",
+                "action_verb": "read",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "multiple_choice",
+                  "short_answer"
+                ]
+              },
+              {
+                "text": "make simple conclusions based on data or observations",
+                "action_verb": "make",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "text": "recognize unusual or unexpected results",
+                "action_verb": "recognize",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "multiple_choice"
+                ]
+              },
+              {
+                "text": "use physical models to demonstrate simple phenomena and natural processes",
+                "action_verb": "use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "problem_solving"
+                ]
+              },
+              {
+                "text": "communicate observations and data using simple graphs, pictures, drawings, numbers, speech and/or writing",
+                "action_verb": "communicate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "FM",
+      "name": "Force, Motion, and Energy",
+      "standards": [
+        {
+          "id": "1.FM.1",
+          "statement": "The student will investigate and understand that objects can move in different ways.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "objects may have straight, circular, spinning, and back-and-forth motions; and objects may vibrate and produce sound.",
+                "action_verb": "investigate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "MT",
+      "name": "Matter",
+      "standards": [
+        {
+          "id": "1.MT.1",
+          "statement": "The student will investigate and understand that objects are made from materials that can be described by their physical properties.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "objects are made of one or more materials with different physical properties and can be used for a variety of purposes; when a material is changed in size most physical properties remain the same; and the type and amount of material determine how much light can pass through an object.",
+                "action_verb": "investigate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "LS",
+      "name": "Living Systems and Processes",
+      "standards": [
+        {
+          "id": "1.LS.1",
+          "statement": "The student will investigate and understand that plants have basic life needs and functional parts that allow them to survive.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "plants need nutrients, air, water, light, and a place to grow; structures of plants perform specific functions; and plants can be classified based on a variety of characteristics.",
+                "action_verb": "investigate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.LS.2",
+          "statement": "The student will investigate and understand that animals, including humans, have basic life needs that allow them to survive.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "animals need air, food, water, shelter, and space (habitat); animals have different physical characteristics that perform specific functions; and animals can be classified based on a variety of characteristics.",
+                "action_verb": "investigate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "ES",
+      "name": "Earth and Space Systems",
+      "standards": [
+        {
+          "id": "1.ES.1",
+          "statement": "The student will investigate and understand that there is a relationship between the sun and Earth.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "the sun is the source of energy and light that warms the Earth’s land, air, and water; and the sun’s relative position changes in the Earth’s sky throughout the day.",
+                "action_verb": "investigate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.ES.2",
+          "statement": "The student will investigate and understand that there are weather and seasonal changes.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "changes in temperature, light, and precipitation occur over time; there are relationships between daily weather and the season; and changes in temperature, light, and precipitation affect plants and animals, including humans.",
+                "action_verb": "investigate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "ER",
+      "name": "Earth Resources",
+      "standards": [
+        {
+          "id": "1.ER.1",
+          "statement": "The student will investigate and understand that natural resources can be used responsibly.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "most natural resources are limited; human actions can affect the availability of natural resources; and reducing, reusing, and recycling are ways to conserve natural resources.",
+                "action_verb": "investigate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "science",
+    "engineering",
+    "investigation",
+    "living systems",
+    "earth systems",
+    "matter",
+    "energy",
+    "resources"
+  ],
+  "_extraction_metadata": {
+    "source_file": "stds_science1.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 5977,
+    "prompt_tokens": 3628,
+    "completion_tokens": 2349
+  }
+}

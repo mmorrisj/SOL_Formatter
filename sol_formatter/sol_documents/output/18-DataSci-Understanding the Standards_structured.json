@@ -1,0 +1,627 @@
+{
+  "document_metadata": {
+    "title": "2023 Mathematics Standards of Learning",
+    "grade_level": "Data Science",
+    "course_name": "Data Science",
+    "year": 2023
+  },
+  "introduction": "The following standards outline the content of a one-year course in Data Science. If a one-semester course is desired, the standards with a dagger (†) would apply. The Data Science Standards of Learning provide an introduction to the learning principles associated with analyzing big data. Through the use of open-source technology tools, students will identify and explore problems that involve the use of relational database concepts and data-intensive computing to find solutions and make generalizations. Students will engage in a data science problemsolving structure to interact with large data sets as a means to formulate problems, collect and clean data, visualize data, model using data, and communicate effectively about data formulated solutions.",
+  "strands": [
+    {
+      "code": "DS",
+      "name": "Data Science",
+      "standards": [
+        {
+          "id": "DS.1†",
+          "statement": "The student will identify specific examples of problems that can be effectively addressed using data science.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Identify and explain characteristics that best lend themselves to a data driven approach to problem solving.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Formulate questions based on context.",
+                "action_verb": "Formulate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Understand the type of data relevant to the context of the question at hand.",
+                "action_verb": "Understand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Define relationships between variables and constant relationships.",
+                "action_verb": "Define",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Create a hypothesis of interest in terms of measurable data.",
+                "action_verb": "Create",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Define the stages of the data cycle and how each stage is related to the other.",
+                "action_verb": "Define",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Identify and explain constraints of the data-driven approach.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "DS.2",
+          "statement": "The student will be able to formulate a top-down plan for data collection and analysis, with quantifiable results, based on the context of a problem.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Design a data project plan, which is aligned with the data science cycle, that includes the following components: definition of the goal of the project as it pertains to a real-world problem; identification of the various parameters of the problem and stakeholders; a timeline for the project with deliverables; Key Performance Indicators (KPI) for the successful data project deliverables; resource needs and tools for the project; bias considerations for the sampling process of the project; and limitations of the project.",
+                "action_verb": "Design",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Given the context and parameters of a problem, choose from among various sampling techniques, which may include simple random; systematic; stratified; and cluster; to justify the sampling methodology of the project design and implementation.",
+                "action_verb": "Choose",
+                "examples": [
+                  "simple random",
+                  "systematic",
+                  "stratified",
+                  "cluster"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "DS.3†",
+          "statement": "The student will recognize the importance of data literacy and develop an awareness of how the analysis of data can be used to.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Formulate relevant/clarifying questions to identify potential data biases presented in existing analyses/visualizations.",
+                "action_verb": "Formulate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Effectively read data summaries and visualizations and explain/translate into nontechnical terms in proper context.",
+                "action_verb": "Effectively read",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Identify potential data biases in terms of data presented and discuss the potential effects of such biases in terms of how they could affect data analysis and decision making.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Identify privacy and consumer protection issues that might be a result of how data is presented.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Describe the types of data that business, industry, and government entities collect and possible ways the data is used.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "DS.4",
+          "statement": "The student will be able to identify biases in the data collection process and understand the implications and privacy issues surrounding data collection.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Identify data biases in the data collection process that include, but are not limited to, confirmation, selection, outliers, overfitting / under fitting, and confounding and describe mitigation strategies for these biases.",
+                "action_verb": "Identify",
+                "examples": [
+                  "confirmation",
+                  "selection",
+                  "outliers",
+                  "overfitting",
+                  "under fitting",
+                  "confounding"
+                ],
+                "constraints": []
+              },
+              {
+                "text": "Provide examples of sampling biases in terms of data collection and the potential effects.",
+                "action_verb": "Provide",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Identify and describe data biases as a producer as well as a consumer/decision maker of data.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Describe how the data collection process should be focused, relevant, and limited to the scope of the data project plan.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Describe privacy considerations in the collection of data as both a consumer and producer.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "DS.5†",
+          "statement": "The student will use storytelling as a strategy to effectively communicate with data.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Define storytelling and explain the importance of storytelling as a strategy to communicate the idea behind and results of a data science project effectively.",
+                "action_verb": "Define",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Explain the steps involved in data storytelling and how it relates to the data cycle.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Effectively identify a story worth telling based on the data (looking for trends, correlations, outliers) and by asking a question or forming a hypothesis based on insight and audience.",
+                "action_verb": "Effectively identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Effectively select visualizations that simplify the information, highlight the most important data, and communicate key points quickly.",
+                "action_verb": "Effectively select",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Effectively simplify the information presented to make it more concise and focus the audience's attention on the key parameters that support the student’s hypothesis.",
+                "action_verb": "Effectively simplify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Effectively form a narrative based on data available to provide context, insight, and interpretation to make the analysis more relevant to a given audience.",
+                "action_verb": "Effectively form",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Explain how data storytelling should include complete and accurate information, and consistent visuals for effective communication.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "DS.6†",
+          "statement": "The student will justify the design, use and effectiveness of different forms of data visualizations.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Conduct exploratory data analysis using visualization.",
+                "action_verb": "Conduct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Formulate questions from exploration of a data set to consider how data will communicate a story.",
+                "action_verb": "Formulate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Determine the effectiveness of different data visualization choices based on the data context from conventional statistical charts to unconventional/emerging data visualizations to more complex visualizations.",
+                "action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Create a visualization of a data set and summarize the representation using the context of the data.",
+                "action_verb": "Create",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Compare two or more different representations to ensure the design communicates the features and behavior of data sets.",
+                "action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Justify design choices (based on data set type, size, context, and audience) of data visualizations to highlight important features, trends, and insights.",
+                "action_verb": "Justify",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "DS.7",
+          "statement": "The student will be able to assess reliability of source data in preparation for mathematical modeling.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Explain why determining the reliability of big data sources is a key skill that data scientists use to build data trust across an organization.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Describe the difference between reliability of a data source compared to statistical reliability and validity in research analysis. Assess processing source data for reliability based on validity, completeness, and uniqueness.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "DS.8†",
+          "statement": "The student will be able to acquire and prepare big data sets for modeling and analysis.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Explain the pros and cons of collecting data versus acquiring it from existing sources.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Apply matrix operations using algebraic methods (with the support of technology tools) to: wrangle the data (sort, select, filter, and replace); clean the data; format and enrich the data; and combine and store the data.",
+                "action_verb": "Apply",
+                "examples": [
+                  "sort",
+                  "select",
+                  "filter",
+                  "replace"
+                ],
+                "constraints": []
+              },
+              {
+                "text": "Read data from different sources for preparation and analysis.",
+                "action_verb": "Read",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Identify important parameters about a big data set based on the context of data collected/acquired.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Define and document the process of ingesting, formatting, and cleaning data for future decision making by: making data more easily understood by a wider audience; and connecting data with existing contextual data.",
+                "action_verb": "Define",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "DS.9†",
+          "statement": "The student will select and analyze data models to make predictions, while assessing accuracy and sources of uncertainty.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Identify factors that contribute to the overall behavior of a data set (e.g., true values, bias, and noise).",
+                "action_verb": "Identify",
+                "examples": [
+                  "true values",
+                  "bias",
+                  "noise"
+                ],
+                "constraints": []
+              },
+              {
+                "text": "Fit models based on the behavior of the data, (e.g., models of univariate and bivariate data), in order to make predictions.",
+                "action_verb": "Fit",
+                "examples": [
+                  "univariate",
+                  "bivariate"
+                ],
+                "constraints": []
+              },
+              {
+                "text": "Distinguish between linear and nonlinear associations between variables using visualizations.",
+                "action_verb": "Distinguish",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Identify models that are overly complex and therefore fitting to random noise which decreases their predictive accuracy.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Use regression techniques to perform selection of optimal features.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Recognize the potential implications of removing features.",
+                "action_verb": "Recognize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Select the optimal model for a data set from among a large collection of models, using technological tools.",
+                "action_verb": "Select",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "DS.10†",
+          "statement": "The student will be able to summarize and interpret data represented in both conventional and emerging visualizations.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Apply descriptive statistics to explain measures of central tendency and measures of variability/dispersion to describe center and spread in visualizations of distributions.",
+                "action_verb": "Apply",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Define emerging visualizations and describe summarization of characteristics and relationships based on audience and purpose which may include: a heat map, which uses color to show changes and magnitude of a third variable to a two-dimensional plot; and a bubble chart, which is a multivariate graph that is both a scatterplot and a proportional area chart. Typically, each plotted point then represents a third variable by the area of its circle.",
+                "action_verb": "Define",
+                "examples": [
+                  "heat map",
+                  "bubble chart"
+                ],
+                "constraints": []
+              },
+              {
+                "text": "Interpret various emerging visualizations by describing patterns, trends, and relationships between and among the variables.",
+                "action_verb": "Interpret",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "DS.11",
+          "statement": "The student will select statistical models and testing to extract actionable knowledge directly from data.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Calculate the theoretical probability of random events and compare them to the observed frequencies.",
+                "action_verb": "Calculate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Describe the normal curve determined by the mean and standard deviation of a univariate data set.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Fit nonlinear models to data sets and use these models to predict unobserved data values.",
+                "action_verb": "Fit",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Select pairs of variables that identify meaningful clusters of data.",
+                "action_verb": "Select",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Select an appropriate statistical distribution and test its goodness of fit based on the context of the data being analyzed. Statistical distributions may include, but are not limited to Normal; Binomial; and Poisson.",
+                "action_verb": "Select",
+                "examples": [
+                  "Normal",
+                  "Binomial",
+                  "Poisson"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "DS.12†",
+          "statement": "The student will be able to select and utilize appropriate technological tools and functions within those tools to process and prepare data for analysis.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Utilize technology tools to be able to access data effectively from multiple sources (e.g., tables, column separated values, spreadsheets, documents, databases).",
+                "action_verb": "Utilize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Utilize tools and functions (in tools) to effectively explore the data for issues and errors before beginning to process it.",
+                "action_verb": "Utilize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Define the (tools and technological) process to optimally ingest data and to export data after processing.",
+                "action_verb": "Define",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Utilize tools and their functions to clean and validate data by: removing data that are incomplete, incorrect, or duplicated; removing extraneous data or outliers; and standardizing data to conform to contextual norms (e.g., privacy, sensitive data).",
+                "action_verb": "Utilize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Utilize tools and their functions to combine and store data by: merging multiple data sets for efficiency purposes; and optimizing storage of data based on volume, velocity, and variety.",
+                "action_verb": "Utilize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Utilize tools to format and store the data appropriately to allow for effective analysis.",
+                "action_verb": "Utilize",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "DS.13†",
+          "statement": "The student will be able to select and utilize appropriate technological tools and functions within those tools to analyze and communicate data effectively.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Select and utilize technology tools to effectively generate conventional and unconventional visualizations of data to explore patterns and/or analyze a large data set.",
+                "action_verb": "Select",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Utilize specific functions in technology tools to perform descriptive and inferential statistical analysis.",
+                "action_verb": "Utilize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Utilize coding to store and extract data more effectively for data analysis.",
+                "action_verb": "Utilize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Select and apply features of technology tools effectively to organize, summarize and gain insight from data.",
+                "action_verb": "Select",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Select the appropriate visualization based on context and audience and create it using technology tools to effectively communicate an idea.",
+                "action_verb": "Select",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "data science",
+    "data analysis",
+    "data visualization",
+    "data collection",
+    "data modeling",
+    "data literacy",
+    "data communication",
+    "technology tools"
+  ],
+  "cognitive_levels": [
+    {
+      "standard_id": "DS.1†",
+      "level": "understand"
+    },
+    {
+      "standard_id": "DS.2",
+      "level": "apply"
+    },
+    {
+      "standard_id": "DS.3†",
+      "level": "understand"
+    },
+    {
+      "standard_id": "DS.4",
+      "level": "analyze"
+    },
+    {
+      "standard_id": "DS.5†",
+      "level": "create"
+    },
+    {
+      "standard_id": "DS.6†",
+      "level": "evaluate"
+    },
+    {
+      "standard_id": "DS.7",
+      "level": "understand"
+    },
+    {
+      "standard_id": "DS.8†",
+      "level": "apply"
+    },
+    {
+      "standard_id": "DS.9†",
+      "level": "analyze"
+    },
+    {
+      "standard_id": "DS.10†",
+      "level": "apply"
+    },
+    {
+      "standard_id": "DS.11",
+      "level": "evaluate"
+    },
+    {
+      "standard_id": "DS.12†",
+      "level": "apply"
+    },
+    {
+      "standard_id": "DS.13†",
+      "level": "apply"
+    }
+  ],
+  "suggested_question_types": {
+    "identify": "multiple_choice",
+    "formulate": "short_answer",
+    "understand": "short_answer",
+    "define": "short_answer",
+    "explain": "short_answer",
+    "describe": "short_answer",
+    "create": "project",
+    "analyze": "problem_solving",
+    "evaluate": "short_answer",
+    "select": "multiple_choice",
+    "compare": "matching"
+  },
+  "_extraction_metadata": {
+    "source_file": "18-DataSci-Understanding the Standards.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 10212,
+    "prompt_tokens": 5320,
+    "completion_tokens": 4892
+  }
+}

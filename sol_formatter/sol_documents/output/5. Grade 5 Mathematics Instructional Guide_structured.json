@@ -1,0 +1,469 @@
+{
+  "document": {
+    "title": "Instructional Guide to Support 2023 Grade 5 Mathematics Standards of Learning",
+    "grade_level": "5",
+    "course_name": "Mathematics",
+    "year": 2023,
+    "introduction": "The Mathematics Instructional Guide, a companion document to the 2023 Mathematics Standards of Learning, amplifies the Standards of Learning by defining the core knowledge and skills in practice, supporting teachers and their instruction, and serving to transition classroom instruction from the 2016 Mathematics Standards of Learning to the newly adopted 2023 Mathematics Standards of Learning. Instructional supports are accessible in #GoOpenVA and support the decisions local school divisions must make concerning local curriculum development and how best to help students meet the goals of the standards. The local curriculum should include a variety of information sources, readings, learning experiences, and forms of assessment selected at the local level to create a rigorous instructional program. For a complete list of the changes by standard, the 2023 Virginia Mathematics Standards of Learning – Overview of Revisions is available and delineates in greater specificity the changes for each grade level and course. The Instructional Guide is divided into three sections: Understanding the Standard, Skills in Practice, and Concepts and Connections aligned to the Standard. The purpose of each is explained below.",
+    "strands": [
+      {
+        "code": "NS",
+        "name": "Number and Number Sense",
+        "standards": [
+          {
+            "id": "5.NS.1",
+            "statement": "The student will use reasoning and justification to identify and represent equivalency between fractions (with denominators that are thirds, eighths, and factors of 100) and decimals; and compare and order sets of fractions (proper, improper, and/or mixed numbers having denominators of 12 or less) and decimals (through thousandths).",
+            "knowledge_and_skills": [
+              {
+                "objective": "Use concrete and pictorial models to represent fractions with denominators that are thirds, eighths, and factors of 100 in their equivalent decimal form.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use concrete and pictorial models to represent decimals in their equivalent fraction form (thirds, eighths, and factors of 100).",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Identify equivalent relationships between decimals and fractions with denominators that are thirds, eighths, and factors of 100 in their equivalent decimal form, with and without models.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Compare (using symbols <, >, =) and order (least to greatest and greatest to least) a set of no more than four decimals and fractions (proper, improper) and/or mixed numbers using multiple strategies (e.g., benchmarks, place value, number lines). Justify solutions orally, in writing, or with a model.",
+                "action_verb": "Compare",
+                "examples": [
+                  "benchmarks",
+                  "place value",
+                  "number lines"
+                ],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "5.NS.2",
+            "statement": "The student will demonstrate an understanding of prime and composite numbers, and determine the prime factorization of a whole number up to 100.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Given a whole number up to 100, create a concrete or pictorial representation to demonstrate whether the number is prime or composite, and justify reasoning.",
+                "action_verb": "Create",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Classify, compare, and contrast whole numbers up to 100 using the characteristics prime and composite.",
+                "action_verb": "Classify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Determine the prime factorization for a whole number up to 100.",
+                "action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "CE",
+        "name": "Computation and Estimation",
+        "standards": [
+          {
+            "id": "5.CE.1",
+            "statement": "The student will estimate, represent, solve, and justify solutions to single-step and multistep contextual problems using addition, subtraction, multiplication, and division with whole numbers.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Estimate the sum, difference, product, and quotient of whole numbers in contextual problems.",
+                "action_verb": "Estimate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Represent, solve, and justify solutions to single-step and multistep contextual problems by applying strategies (e.g., estimation, properties of addition and multiplication) and algorithms, including the standard algorithm, involving addition, subtraction, multiplication, and division of whole numbers, with and without remainders, in which: sums, differences, and products do not exceed five digits; factors do not exceed two digits by three digits; divisors do not exceed two digits; or dividends do not exceed four digits.",
+                "action_verb": "Represent",
+                "examples": [
+                  "estimation",
+                  "properties of addition and multiplication"
+                ],
+                "constraints": [
+                  "sums, differences, and products do not exceed five digits",
+                  "factors do not exceed two digits by three digits",
+                  "divisors do not exceed two digits",
+                  "dividends do not exceed four digits"
+                ]
+              },
+              {
+                "objective": "Interpret the quotient and remainder when solving a contextual problem.",
+                "action_verb": "Interpret",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "5.CE.2",
+            "statement": "The student will estimate, represent, solve, and justify solutions to single-step and multistep problems, including those in context, using addition and subtraction of fractions with like and unlike denominators (with and without models), and solve single-step contextual problems involving multiplication of a whole number and a proper fraction, with models.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Determine the least common multiple of two numbers to find the least common denominator for two fractions.",
+                "action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Estimate and determine the sum or difference of two fractions (proper or improper) and/or mixed numbers, having like and unlike denominators limited to 2, 3, 4, 5, 6, 8, 10, and 12 (e.g.,  +  ,  , 3 + 2), and simplify the resulting fraction.",
+                "action_verb": "Estimate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Estimate and solve single-step and multistep contextual problems involving addition and subtraction with fractions (proper or improper) and/or mixed numbers having like and unlike denominators, with and without models.",
+                "action_verb": "Estimate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Solve single-step contextual problems involving multiplication of a whole number, limited to 12 or less, and a proper fraction (e.g., 9 × , 8 × ), with models.",
+                "action_verb": "Solve",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "MG",
+        "name": "Measurement and Geometry",
+        "standards": [
+          {
+            "id": "5.MG.1",
+            "statement": "The student will reason mathematically to solve problems, including those in context, that involve length, mass, and liquid volume using metric units.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Determine the most appropriate unit of measure to use in a contextual problem that involves metric units: length (millimeters, centimeters, meters, and kilometers); mass (grams and kilograms); and liquid volume (milliliters and liters).",
+                "action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Estimate and measure to solve contextual problems that involve metric units: length (millimeters, centimeters, and meters); mass (grams and kilograms); and liquid volume (milliliters and liters).",
+                "action_verb": "Estimate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Given the equivalent metric measure of one unit, in a contextual problem, determine the equivalent measurement within the metric system: length (millimeters, centimeters, meters, and kilometers); mass (grams and kilograms); and liquid volume (milliliters and liters).",
+                "action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "5.MG.2",
+            "statement": "The student will use multiple representations to solve problems, including those in context, involving perimeter, area, and volume.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Investigate and develop a formula for determining the area of a right triangle.",
+                "action_verb": "Investigate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Estimate and determine the area of a right triangle, with diagrams, when the base and the height are given in whole number units, in metric or U.S. Customary units, and record the solution with the appropriate unit of measure (e.g., 16 square inches).",
+                "action_verb": "Estimate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Describe volume as a measure of capacity and give examples of volume as a measurement in contextual situations.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Investigate and develop a formula for determining the volume of rectangular prisms using concrete objects.",
+                "action_verb": "Investigate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Solve problems, including those in context, to estimate and determine the volume of a rectangular prism using concrete objects, diagrams, and formulas when the length, width, and height are given in whole number units. Record the solution with the appropriate unit of measure (e.g., 12 cubic inches).",
+                "action_verb": "Solve",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Identify whether the application of the concept of perimeter, area, or volume is appropriate for a given situation.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Solve contextual problems that involve perimeter, area, and volume in standard units of measure.",
+                "action_verb": "Solve",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "5.MG.3",
+            "statement": "The student will classify and measure angles and triangles, and solve problems, including those in context.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Classify angles as right, acute, obtuse, or straight and justify reasoning.",
+                "action_verb": "Classify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Classify triangles as right, acute, or obtuse and equilateral, scalene, or isosceles and justify reasoning.",
+                "action_verb": "Classify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Identify congruent sides and right angles using geometric markings to denote properties of triangles.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Compare and contrast the properties of triangles.",
+                "action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Identify the appropriate tools (e.g., protractor, straightedge, angle ruler, available technology) to measure and draw angles.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Measure right, acute, obtuse, and straight angles, using appropriate tools, and identify measures in degrees.",
+                "action_verb": "Measure",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use models to prove that the sum of the interior angles of a triangle is 180 degrees and use the relationship to determine an unknown angle measure in a triangle.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Solve addition and subtraction contextual problems to determine unknown angle measures on a diagram.",
+                "action_verb": "Solve",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "PS",
+        "name": "Probability and Statistics",
+        "standards": [
+          {
+            "id": "5.PS.1",
+            "statement": "The student will apply the data cycle (formulate questions; collect or acquire data; organize and represent data; and analyze data and communicate results) with a focus on line plots (dot plots) and stem-and-leaf plots.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Formulate questions that require the collection or acquisition of data.",
+                "action_verb": "Formulate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Determine the data needed to answer a formulated question and collect or acquire existing data (limited to 30 or fewer data points) using various methods (e.g., polls, observations, measurements, experiments).",
+                "action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Organize and represent a data set using a line plot (dot plot) with a title, labeled axes, and a key, with and without the use of technology tools.",
+                "action_verb": "Organize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Organize and represent numerical data using a stem-and-leaf plot with a title and key, where the stems are listed in ascending order and the leaves are in ascending order, with or without commas between the leaves.",
+                "action_verb": "Organize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze data represented in line plots (dot plots) and stem-and-leaf plots and communicate results orally and in writing.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Describe the characteristics of the data represented in a line plot (dot plot) and stem-and-leaf plot as a whole (e.g., the shape and spread of the data).",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Make inferences about data represented in line plots (dot plots) and stem-and-leaf plots.",
+                "action_verb": "Make",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Identify parts of the data that have special characteristics and explain the meaning of the greatest, the least, or the same.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Draw conclusions about the data and make predictions based on the data to answer questions.",
+                "action_verb": "Draw",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Solve single-step and multistep addition and subtraction problems using data from line plots (dot plots) and stem-and-leaf plots.",
+                "action_verb": "Solve",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "5.PS.2",
+            "statement": "The student will solve contextual problems using measures of center and the range.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Describe mean as fair share.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Describe and determine the mean of a set of data values representing data from a given context as a measure of center.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Describe and determine the median of a set of data values representing data from a given context as a measure of center.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Describe and determine the mode of a set of data values representing data from a given context as a measure of center.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Describe and determine the range of a set of data values representing data from a given context as a measure of spread.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "5.PS.3",
+            "statement": "The student will determine the probability of an outcome by constructing a model of a sample space and using the Fundamental (Basic) Counting Principle.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Determine the probability of an outcome by constructing a sample space (with a total of 24 or fewer equally likely possible outcomes), using a tree diagram, list, or chart to represent and determine all possible outcomes.",
+                "action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Determine the number of possible outcomes by using the Fundamental (Basic) Counting Principle.",
+                "action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "PFA",
+        "name": "Patterns, Functions, and Algebra",
+        "standards": [
+          {
+            "id": "5.PFA.1",
+            "statement": "The student will identify, describe, extend, and create increasing and decreasing patterns with whole numbers, fractions, and decimals, including those in context, using various representations.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Identify, describe, extend, and create increasing and decreasing patterns using various representations (e.g., objects, pictures, numbers, number lines, input/output tables, function machines).",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Analyze an increasing or decreasing single-operation numerical pattern found in lists, input/output tables, and function machines, and generalize the change to identify the rule, extend the pattern, or identify missing terms.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Solve contextual problems that involve identifying, describing, and extending increasing and decreasing patterns using single-operation input and output rules.",
+                "action_verb": "Solve",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          },
+          {
+            "id": "5.PFA.2",
+            "statement": "The student will investigate and use variables in contextual problems.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Describe the concept of a variable (presented as a box, letter, or other symbol) as a representation of an unknown quantity.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Write an equation (with a single variable that represents an unknown quantity and one operation) from a contextual situation, using addition, subtraction, multiplication, or division.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Use an expression with a variable to represent a given verbal expression involving one operation.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective": "Create and write a word problem to match a given equation with a single variable and one operation.",
+                "action_verb": "Create",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "5. Grade 5 Mathematics Instructional Guide.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 49618,
+    "prompt_tokens": 45140,
+    "completion_tokens": 4478
+  }
+}

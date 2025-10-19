@@ -1,0 +1,590 @@
+{
+  "document": {
+    "title": "Instructional Guide to Support 2023 Grade 1 Mathematics Standards of Learning",
+    "grade_level": "1",
+    "course_name": "Mathematics",
+    "year": 2023,
+    "introduction": "The Mathematics Instructional Guide, a companion document to the 2023 Mathematics Standards of Learning, amplifies the Standards of Learning by defining the core knowledge and skills in practice, supporting teachers and their instruction, and serving to transition classroom instruction from the 2016 Mathematics Standards of Learning to the newly adopted 2023 Mathematics Standards of Learning. Instructional supports are accessible in #GoOpenVA and support the decisions local school divisions must make concerning local curriculum development and how best to help students meet the goals of the standards. The local curriculum should include a variety of information sources, readings, learning experiences, and forms of assessment selected at the local level to create a rigorous instructional program. For a complete list of the changes by standard, the 2023 Virginia Mathematics Standards of Learning – Overview of Revisions is available and delineates in greater specificity the changes for each grade level and course. The Instructional Guide is divided into three sections: Understanding the Standard, Skills in Practice, and Concepts and Connections aligned to the Standard. The purpose of each is explained below."
+  },
+  "strands": [
+    {
+      "code": "NS",
+      "name": "Number and Number Sense",
+      "standards": [
+        {
+          "id": "1.NS.1",
+          "statement": "The student will utilize flexible counting strategies to determine and describe quantities up to 120.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Count forward orally by ones from 0 to 120 starting at any number between 0 and 120.",
+                "action_verb": "Count",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Count backward orally by ones when given any number between 1 and 30.",
+                "action_verb": "Count",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Represent forward counting patterns when counting by groups of 5 and groups of 10 up to 120 using a variety of tools (e.g., objects, coins, 120 chart).",
+                "action_verb": "Represent",
+                "examples": [
+                  "objects",
+                  "coins",
+                  "120 chart"
+                ],
+                "constraints": null
+              },
+              {
+                "text": "Represent forward counting patterns when counting by groups of 2 up to at least 30 using a variety of tools (e.g., beaded number strings, number paths [a prelude to number lines], 120 chart).",
+                "action_verb": "Represent",
+                "examples": [
+                  "beaded number strings",
+                  "number paths",
+                  "120 chart"
+                ],
+                "constraints": null
+              },
+              {
+                "text": "Group a collection of up to 120 objects into tens and ones, and count to determine the total (e.g., 5 groups of ten and 6 ones is equal to 56 total objects).",
+                "action_verb": "Group",
+                "examples": [],
+                "constraints": "up to 120 objects"
+              },
+              {
+                "text": "Identify a penny, nickel, and dime by their attributes and describe the number of pennies equivalent to a nickel and a dime.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Count by ones, fives, or tens to determine the value of a collection of like coins (pennies, nickels, or dimes), whose total value is 100 cents or less.",
+                "action_verb": "Count",
+                "examples": [],
+                "constraints": "100 cents or less"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.NS.2",
+          "statement": "The student will represent, compare, and order quantities up to 120.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Read and write numerals 0-120 in sequence and out of sequence.",
+                "action_verb": "Read",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Estimate the number of objects (up to 120) in a given collection and justify the reasonableness of an answer.",
+                "action_verb": "Estimate",
+                "examples": [],
+                "constraints": "up to 120"
+              },
+              {
+                "text": "Create a concrete or pictorial representation of a number using tens and ones and write the corresponding numeral up to 120 (e.g., 47 can be represented as 47 ones or it can be grouped into 4 tens with 7 ones left over).",
+                "action_verb": "Create",
+                "examples": [
+                  "47 ones",
+                  "4 tens with 7 ones"
+                ],
+                "constraints": "up to 120"
+              },
+              {
+                "text": "Describe the number of groups of tens and ones when given a two-digit number and justify reasoning.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Compare two numbers between 0 and 120 represented pictorially or with concrete objects using the terms greater than, less than, or equal to.",
+                "action_verb": "Compare",
+                "examples": [],
+                "constraints": "between 0 and 120"
+              },
+              {
+                "text": "Order three sets, each set containing up to 120 objects, from least to greatest, and greatest to least.",
+                "action_verb": "Order",
+                "examples": [],
+                "constraints": "up to 120 objects"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.NS.3",
+          "statement": "The student will use mathematical reasoning and justification to solve contextual problems that involve partitioning models into two and four equal-sized parts.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Represent equal shares of a whole with two or four sharers, when given a contextual problem.",
+                "action_verb": "Represent",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Represent and name halves and fourths of a whole, using a region/area model (e.g., pie pieces, pattern blocks, paper folding, drawings) and a set model (e.g., eggs, marbles, counters) limited to two or four items.",
+                "action_verb": "Represent",
+                "examples": [
+                  "pie pieces",
+                  "pattern blocks",
+                  "paper folding",
+                  "drawings",
+                  "eggs",
+                  "marbles",
+                  "counters"
+                ],
+                "constraints": "limited to two or four items"
+              },
+              {
+                "text": "Describe and justify how shares are equal pieces or equal parts of the whole (limited to halves, fourths) when given a contextual problem.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": "limited to halves, fourths"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "CE",
+      "name": "Computation and Estimation",
+      "standards": [
+        {
+          "id": "1.CE.1",
+          "statement": "The student will recall with automaticity addition and subtraction facts within 10 and represent, solve, and justify solutions to single step problems, including those in context, using addition and subtraction with whole numbers within 20.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Recognize and describe with fluency part-part-whole relationships for numbers up to 10 in a variety of configurations.",
+                "action_verb": "Recognize",
+                "examples": [],
+                "constraints": "up to 10"
+              },
+              {
+                "text": "Demonstrate fluency with addition and subtraction within 10 by applying reasoning strategies (e.g., count on/count back, one more/one less, doubles, make ten).",
+                "action_verb": "Demonstrate",
+                "examples": [
+                  "count on",
+                  "count back",
+                  "one more",
+                  "one less",
+                  "doubles",
+                  "make ten"
+                ],
+                "constraints": "within 10"
+              },
+              {
+                "text": "Recall with automaticity addition and subtraction facts within 10.",
+                "action_verb": "Recall",
+                "examples": [],
+                "constraints": "within 10"
+              },
+              {
+                "text": "Investigate, recognize, and describe part-part-whole relationships for numbers up to 20 in a variety of configurations (e.g., beaded racks, double ten frames).",
+                "action_verb": "Investigate",
+                "examples": [
+                  "beaded racks",
+                  "double ten frames"
+                ],
+                "constraints": "up to 20"
+              },
+              {
+                "text": "Solve addition and subtraction problems within 20 using various strategies (e.g., inverse relationships: if 9 + 3 = 12 then 12 - 3 = 9; decomposition using known sums/differences: 9 + 7 can be thought of as 9 decomposed into 2 and 7, then use doubles, 7 + 7 = 14; 14 + 2 = 16 or decompose the 7 into 1 and 6; make a ten: 1 + 9 = 10; 10 + 6 = 16).",
+                "action_verb": "Solve",
+                "examples": [
+                  "inverse relationships",
+                  "decomposition",
+                  "make a ten"
+                ],
+                "constraints": "within 20"
+              },
+              {
+                "text": "Represent, solve, and justify solutions to single-step addition and subtraction problems (join, separate, and part-part-whole) within 20, including those in context, using words, objects, drawings, or numbers.",
+                "action_verb": "Represent",
+                "examples": [
+                  "words",
+                  "objects",
+                  "drawings",
+                  "numbers"
+                ],
+                "constraints": "within 20"
+              },
+              {
+                "text": "Determine the unknown whole number that will result in a sum or difference of 10 or 20 (e.g., 14 - __ = 10 or 15 + __ = 20).",
+                "action_verb": "Determine",
+                "examples": [],
+                "constraints": "sum or difference of 10 or 20"
+              },
+              {
+                "text": "Identify and use (+) as a symbol for addition and (-) as a symbol for subtraction.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Describe the equal symbol (=) as a balance representing an equivalent relationship between expressions on either side of the equal symbol (e.g., 6 and 1 is the same as 4 and 3; 6 + 1 is balanced with 4 + 3; 6 + 1 = 4 + 3).",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Use concrete materials to model, identify, and justify when two expressions are not equal (e.g., 10 - 3 is not equal to 3 + 5).",
+                "action_verb": "Use",
+                "examples": [
+                  "concrete materials"
+                ],
+                "constraints": null
+              },
+              {
+                "text": "Use concrete materials to model an equation that represents the relationship of two expressions of equal value.",
+                "action_verb": "Use",
+                "examples": [
+                  "concrete materials"
+                ],
+                "constraints": null
+              },
+              {
+                "text": "Write an equation that could be used to represent the solution to an oral, written, or picture problem.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": null
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "MG",
+      "name": "Measurement and Geometry",
+      "standards": [
+        {
+          "id": "1.MG.1",
+          "statement": "The student will reason mathematically using nonstandard units to measure and compare objects by length, weight, and volume.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Use nonstandard units to measure the lengths of two objects (units laid end to end with no gaps or overlaps) and compare the measurements using the terms longer/shorter, taller/shorter, or the same as.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Use nonstandard units to measure the weights of two objects (using a balance scale or a pan scale) and compare the measurements using the terms lighter, heavier, or the same as.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Use nonstandard units to measure the volumes of two containers and compare the measurements using the terms more, less, or the same as.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Measure the length, weight, or volume of the same object or container with two different units and describe how and why the measurements differ.",
+                "action_verb": "Measure",
+                "examples": [],
+                "constraints": null
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.MG.2",
+          "statement": "The student will describe, sort, draw, and name plane figures (circles, triangles, squares, and rectangles), and compose larger plane figures by combining simple plane figures.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Describe triangles, squares, and rectangles using the terms sides, vertices, and angles. Describe a circle using terms such as round and curved.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Sort plane figures based on their characteristics (e.g., number of sides, vertices, angles, curved).",
+                "action_verb": "Sort",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Draw and name the plane figure (circle, square, rectangle, triangle) when given information about the number of sides, vertices, and angles.",
+                "action_verb": "Draw",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Identify, name, and describe representations of circles, squares, rectangles, and triangles, regardless of orientation, in different environments and explain reasoning.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Recognize and name the angles found in rectangles and squares as right angles.",
+                "action_verb": "Recognize",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Compose larger plane figures by combining two or three simple plane figures (triangles, squares, and/or rectangles).",
+                "action_verb": "Compose",
+                "examples": [],
+                "constraints": null
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.MG.3",
+          "statement": "The student will demonstrate an understanding of the concept of passage of time (to the nearest hour and half-hour) and the calendar.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Identify different tools to measure time including clocks (analog and digital) and calendar.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Describe the units of time represented on a clock as minutes and hours.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Tell time to the hour and half-hour, using analog and digital clocks.",
+                "action_verb": "Tell",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Describe the location of the hour hand relative to time to the hour and half-hour on an analog clock.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Describe the location of the minute hand relative to time to the hour and half-hour on an analog clock.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Match the time shown on a digital clock to an analog clock to the hour and half-hour.",
+                "action_verb": "Match",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Identify specific days/dates on a calendar (e.g., What date is Saturday? How many Fridays are in October?).",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Use ordinal numbers first through tenth to describe the relative position of specific days/dates (e.g., What is the first Monday in October? What day of the week is May 6th?).",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Determine the day/date before and after a given day/date (e.g., Today is the 8th, so yesterday was the ?), and a date that is a specific number of days/weeks in the past or future (e.g., Tim’s birthday is in 10 days, what will be the date of his birthday?).",
+                "action_verb": "Determine",
+                "examples": [],
+                "constraints": null
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "PS",
+      "name": "Probability and Statistics",
+      "standards": [
+        {
+          "id": "1.PS.1",
+          "statement": "The student will apply the data cycle (pose questions; collect or acquire data; organize and represent data; and analyze data and communicate results) with a focus on object graphs, picture graphs, and tables.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Sort and classify concrete objects into appropriate subsets (categories) based on one or two attributes, such as size, shape, color, and/or thickness (e.g., sort a set of objects that are both red and thick).",
+                "action_verb": "Sort",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Describe and label attributes of a set of objects that has been sorted.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Pose questions, given a predetermined context, that require the collection of data (limited to 25 or fewer data points for no more than four categories).",
+                "action_verb": "Pose",
+                "examples": [],
+                "constraints": "25 or fewer data points for no more than four categories"
+              },
+              {
+                "text": "Determine the data needed to answer a posed question and collect the data using various methods (e.g., counting objects, drawing pictures, tallying).",
+                "action_verb": "Determine",
+                "examples": [
+                  "counting objects",
+                  "drawing pictures",
+                  "tallying"
+                ],
+                "constraints": null
+              },
+              {
+                "text": "Organize and represent a data set by sorting the collected data using various methods (e.g., tallying, T-charts).",
+                "action_verb": "Organize",
+                "examples": [
+                  "tallying",
+                  "T-charts"
+                ],
+                "constraints": null
+              },
+              {
+                "text": "Represent a data set (vertically or horizontally) using object graphs, picture graphs, and tables.",
+                "action_verb": "Represent",
+                "examples": [
+                  "object graphs",
+                  "picture graphs",
+                  "tables"
+                ],
+                "constraints": null
+              },
+              {
+                "text": "Analyze data represented in object graphs, picture graphs, and tables and communicate results: ask and answer questions about the data represented in object graphs, picture graphs, and tables (e.g., total number of data points represented, how many in each category, how many more or less are in one category than another); and draw conclusions about the data and make predictions based on the data.",
+                "action_verb": "Analyze",
+                "examples": [],
+                "constraints": null
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "PFA",
+      "name": "Patterns, Functions, and Algebra",
+      "standards": [
+        {
+          "id": "1.PFA.1",
+          "statement": "The student will identify, describe, extend, create, and transfer repeating patterns and increasing patterns using various representations.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Identify and describe repeating and increasing patterns.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": null
+              },
+              {
+                "text": "Analyze a repeating or increasing pattern and generalize the change to extend the pattern using objects, colors, movements, pictures, or geometric figures.",
+                "action_verb": "Analyze",
+                "examples": [
+                  "objects",
+                  "colors",
+                  "movements",
+                  "pictures",
+                  "geometric figures"
+                ],
+                "constraints": null
+              },
+              {
+                "text": "Create a repeating or increasing pattern using objects, pictures, movements, colors, or geometric figures.",
+                "action_verb": "Create",
+                "examples": [
+                  "objects",
+                  "pictures",
+                  "movements",
+                  "colors",
+                  "geometric figures"
+                ],
+                "constraints": null
+              },
+              {
+                "text": "Transfer a repeating or increasing pattern from one form to another.",
+                "action_verb": "Transfer",
+                "examples": [],
+                "constraints": null
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "counting",
+    "addition",
+    "subtraction",
+    "measurement",
+    "geometry",
+    "patterns",
+    "data analysis",
+    "time"
+  ],
+  "cognitive_levels": {
+    "1.NS.1": "apply",
+    "1.NS.2": "apply",
+    "1.NS.3": "apply",
+    "1.CE.1": "apply",
+    "1.MG.1": "apply",
+    "1.MG.2": "understand",
+    "1.MG.3": "understand",
+    "1.PS.1": "analyze",
+    "1.PFA.1": "create"
+  },
+  "suggested_question_types": {
+    "1.NS.1": [
+      "multiple_choice",
+      "problem_solving"
+    ],
+    "1.NS.2": [
+      "multiple_choice",
+      "short_answer"
+    ],
+    "1.NS.3": [
+      "short_answer"
+    ],
+    "1.CE.1": [
+      "problem_solving",
+      "short_answer"
+    ],
+    "1.MG.1": [
+      "short_answer"
+    ],
+    "1.MG.2": [
+      "short_answer"
+    ],
+    "1.MG.3": [
+      "multiple_choice",
+      "short_answer"
+    ],
+    "1.PS.1": [
+      "short_answer",
+      "multiple_choice"
+    ],
+    "1.PFA.1": [
+      "short_answer",
+      "matching"
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "1. Grade 1 Mathematics Instructional Guide.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 23682,
+    "prompt_tokens": 18604,
+    "completion_tokens": 5078
+  }
+}

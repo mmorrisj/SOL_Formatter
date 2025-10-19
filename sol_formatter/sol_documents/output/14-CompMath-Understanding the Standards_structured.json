@@ -1,0 +1,674 @@
+{
+  "document_metadata": {
+    "title": "2023 Mathematics Standards of Learning",
+    "grade_level": "Computer Mathematics",
+    "course_name": "Computer Mathematics",
+    "year": 2023
+  },
+  "introduction": "This course is intended to provide students with experiences in using computer programming techniques and skills to solve problems involving mathematical models. Students enrolled in Computer Mathematics are assumed to have studied the concepts and skills in Algebra 1 and beginning Geometry. Even though computer ideas should be introduced in the context of mathematical concepts, problem solving should be developed in the most general sense, allowing the techniques to be applied by students in many other environments. Strategies include defining the problem; developing, refining, and implementing a plan; and testing and revising the solution. Programming, ranging from simple programs involving only a few lines to complex programs involving subprograms, should permeate the entire course. Programming concepts, problem-solving strategies, and mathematical applications should be integrated throughout the course. These standards identify fundamental principles and concepts in the field of computer science that will be used within the context of mathematical problem solving in a variety of applications. As students develop and refine skills in logic, organization, and precise expression, they will apply those skills to enhance learning in all disciplines.",
+  "strands": [
+    {
+      "strand_code": "DRS",
+      "strand_name": "Data Representation and Storage",
+      "standards": [
+        {
+          "standard_id": "CM.DRS.1",
+          "standard_statement": "The student will represent data and convert data between different number systems.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Represent data in different number systems, including binary, decimal, and hexadecimal.",
+                "primary_action_verb": "Represent",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Convert data between number systems (e.g., binary to decimal, decimal to hexadecimal).",
+                "primary_action_verb": "Convert",
+                "examples": [
+                  "binary",
+                  "decimal",
+                  "hexadecimal"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.DRS.2",
+          "standard_statement": "The student will differentiate between variable data types based upon their characteristics.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Describe the characteristics of different variable data types, including Boolean, character, integer, decimal (double/float), and string.",
+                "primary_action_verb": "Describe",
+                "examples": [
+                  "Boolean",
+                  "character",
+                  "integer",
+                  "decimal",
+                  "string"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Differentiate between variable data types to determine the data type needed based upon intended use (e.g., character versus string, integer versus double/float).",
+                "primary_action_verb": "Differentiate",
+                "examples": [
+                  "character",
+                  "string",
+                  "integer",
+                  "double",
+                  "float"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.DRS.3",
+          "standard_statement": "The student will represent data using appropriate data structures.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Given a specific task or problem, determine the appropriate data structure (e.g., lists, arrays, objects) to represent data.",
+                "primary_action_verb": "Determine",
+                "examples": [
+                  "lists",
+                  "arrays",
+                  "objects"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Perform tasks related to lists or arrays (one-dimensional or two-dimensional), including declare a list or array (one-dimensional or two-dimensional); choose an appropriate data type for a list or an array; and fill the list or array with data.",
+                "primary_action_verb": "Perform",
+                "examples": [
+                  "one-dimensional",
+                  "two-dimensional"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Access and manipulate a particular element of a list or an array.",
+                "primary_action_verb": "Access",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Implement predefined objects to consolidate related information of different data types.",
+                "primary_action_verb": "Implement",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "CP",
+      "strand_name": "Components of Programming",
+      "standards": [
+        {
+          "standard_id": "CM.CP.1",
+          "standard_statement": "The student will design a step-by-step plan to perform a task or solve a problem, including those arising from mathematical or interdisciplinary contexts.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Design a step-by-step plan to perform a task or solve a problem using a flowchart or pseudocode that outlines the subtasks needed.",
+                "primary_action_verb": "Design",
+                "examples": [
+                  "flowchart",
+                  "pseudocode"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Define the variables needed to perform a task or solve a problem.",
+                "primary_action_verb": "Define",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Define the constraints of a task or problem (e.g., pre-conditions, post-conditions) to determine the desired input and output.",
+                "primary_action_verb": "Define",
+                "examples": [
+                  "pre-conditions",
+                  "post-conditions"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.CP.2",
+          "standard_statement": "The student will construct Boolean expressions and implement conditional statements.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Write and implement Boolean expressions using logical and relational operators (e.g., !, &&, ||, ==, <, >, >=, <=, !=).",
+                "primary_action_verb": "Write",
+                "examples": [
+                  "!",
+                  "&&",
+                  "||",
+                  "==",
+                  "<",
+                  ">",
+                  ">=",
+                  "<=",
+                  "!="
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Write and implement “if” conditional statements.",
+                "primary_action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Write and implement “if/else” conditional statements.",
+                "primary_action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Write and implement compound conditional statements (e.g., nested conditionals, chained conditional statements).",
+                "primary_action_verb": "Write",
+                "examples": [
+                  "nested conditionals",
+                  "chained conditional statements"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine which parts of an algorithm are executed based on a condition being true or false.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.CP.3",
+          "standard_statement": "The student will perform iteration with loops.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Write and implement “while” and “for” loops.",
+                "primary_action_verb": "Write",
+                "examples": [
+                  "while",
+                  "for"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Differentiate between loops that run a fixed number of times and loops that run an indefinite number of times (e.g., stopping dependent on variable conditions).",
+                "primary_action_verb": "Differentiate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify conditions that cause infinite loops.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the outcome of code segments that include loops.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.CP.4",
+          "standard_statement": "The student will write and implement the output phase of a computer program.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Write and implement the output phase of a computer program, which may include formatting output in text-based environments; displaying output through a graphical user interface; and sending output to a physical device (e.g., speakers, robots, LED lights).",
+                "primary_action_verb": "Write",
+                "examples": [
+                  "text-based environments",
+                  "graphical user interface",
+                  "speakers",
+                  "robots",
+                  "LED lights"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Write output to a file.",
+                "primary_action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.CP.5",
+          "standard_statement": "The student will write and implement the input phase of a computer program.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Write and implement input statements to store user given values into a program.",
+                "primary_action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Validate input data using exception coding (e.g., using a “while” loop to control valid input by a user).",
+                "primary_action_verb": "Validate",
+                "examples": [
+                  "while"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine what output a program will produce given a specific input.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.CP.6",
+          "standard_statement": "The student will implement library functions.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Implement library functions to process data.",
+                "primary_action_verb": "Implement",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Implement library functions to perform mathematical operations (e.g., random, absolute value, square root, power).",
+                "primary_action_verb": "Implement",
+                "examples": [
+                  "random",
+                  "absolute value",
+                  "square root",
+                  "power"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Implement void library functions and return library functions.",
+                "primary_action_verb": "Implement",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Implement overloaded library functions.",
+                "primary_action_verb": "Implement",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.CP.7",
+          "standard_statement": "The student will write and implement user-defined functions.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Write and implement a user-defined function to complete a task or sub-task.",
+                "primary_action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Write and implement void functions and return functions.",
+                "primary_action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Write and implement functions that accept parameters.",
+                "primary_action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.CP.8",
+          "standard_statement": "The student will implement pre-defined algorithms, including search routines and sort routines.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Differentiate between types of search routines.",
+                "primary_action_verb": "Differentiate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Differentiate between types of sort routines.",
+                "primary_action_verb": "Differentiate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Implement pre-defined algorithms.",
+                "primary_action_verb": "Implement",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Implement a search routine on a one-dimensional list or an array, including sequential search and binary search.",
+                "primary_action_verb": "Implement",
+                "examples": [
+                  "sequential search",
+                  "binary search"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Implement a sort routine on a one-dimensional list or an array (e.g., selection sort, insertion sort, merge sort).",
+                "primary_action_verb": "Implement",
+                "examples": [
+                  "selection sort",
+                  "insertion sort",
+                  "merge sort"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "AP",
+      "strand_name": "Applications of Programming",
+      "standards": [
+        {
+          "standard_id": "CM.AP.1",
+          "standard_statement": "The student will write and implement programs using sequencing, selection, and iteration to perform a specific task or solve a problem, including those arising from mathematical and interdisciplinary contexts.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Determine what components of programming are needed to implement a step-by-step plan to perform a specific task or solve a problem.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Write a computer program that includes sequencing, selection (conditionals), and iteration (loops).",
+                "primary_action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Write and implement computer programs to solve mathematical problems using formulas and equations, functions, probability and statistics, and data-analysis.",
+                "primary_action_verb": "Write",
+                "examples": [
+                  "formulas",
+                  "equations",
+                  "functions",
+                  "probability",
+                  "statistics",
+                  "data-analysis"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.AP.2",
+          "standard_statement": "The student will create documentation using written comments to annotate the intended purpose of the components of a user-created program.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Create documentation using written comments to describe the overall purpose of a program.",
+                "primary_action_verb": "Create",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Align a previously created step-by-step plan to a written program.",
+                "primary_action_verb": "Align",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe pre-conditions and post-conditions.",
+                "primary_action_verb": "Describe",
+                "examples": [
+                  "pre-conditions",
+                  "post-conditions"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Improve the readability of a program.",
+                "primary_action_verb": "Improve",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.AP.3",
+          "standard_statement": "The student will verify how programs access and process variables.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Verify that the variable types are aligned to the purpose of the algorithm.",
+                "primary_action_verb": "Verify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Verify that global variables are set to constant values before run time.",
+                "primary_action_verb": "Verify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Differentiate between the scopes of variables (e.g., global scope versus local scope) and verify the intended use.",
+                "primary_action_verb": "Differentiate",
+                "examples": [
+                  "global scope",
+                  "local scope"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.AP.4",
+          "standard_statement": "The student will translate a mathematical expression or statement into computer code.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Declare, initialize, and assign variables to represent mathematical expressions or statements.",
+                "primary_action_verb": "Declare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Implement order of operations, including logical and relational operators.",
+                "primary_action_verb": "Implement",
+                "examples": [
+                  "logical operators",
+                  "relational operators"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Translate a mathematical expression or statement into a programming statement(s).",
+                "primary_action_verb": "Translate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.AP.5",
+          "standard_statement": "The student will trace existing code to interpret the intended purpose.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Trace existing code of an algorithm to identify values at each stage of an algorithm; and predict return values of functions given specific arguments.",
+                "primary_action_verb": "Trace",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use tracing to describe the intended purpose of existing code for an algorithm.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "EP",
+      "strand_name": "Evaluation of Programming",
+      "standards": [
+        {
+          "standard_id": "CM.EP.1",
+          "standard_statement": "The student will test a program to match a sample output, using a set of data.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Produce a given output by entering a data set.",
+                "primary_action_verb": "Produce",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Test a program including boundary cases and inaccurate data types to verify the intended outcomes.",
+                "primary_action_verb": "Test",
+                "examples": [
+                  "boundary cases",
+                  "inaccurate data types"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.EP.2",
+          "standard_statement": "The student will identify errors and debug a program using various techniques.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Differentiate among syntax errors, runtime errors, and logic errors.",
+                "primary_action_verb": "Differentiate",
+                "examples": [
+                  "syntax errors",
+                  "runtime errors",
+                  "logic errors"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Debug a program using various techniques: interpret syntax and runtime error messages; place controlled breaks; output intermediate results; disable a section of code by converting it into a comment; trace code to identify logic errors; and use debugging tools available in the programming environment.",
+                "primary_action_verb": "Debug",
+                "examples": [
+                  "syntax error messages",
+                  "controlled breaks",
+                  "intermediate results",
+                  "comment",
+                  "trace code",
+                  "debugging tools"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "CM.EP.3",
+          "standard_statement": "The student will compare and contrast the efficiency of computer programs.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Compare and contrast the efficiency of computer programs in terms of complexity of algorithms with the same intended outcomes, memory space used, and run time.",
+                "primary_action_verb": "Compare",
+                "examples": [
+                  "complexity of algorithms",
+                  "memory space",
+                  "run time"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "programming",
+    "data representation",
+    "data structures",
+    "Boolean logic",
+    "conditional statements",
+    "loops",
+    "functions",
+    "algorithms",
+    "debugging",
+    "efficiency"
+  ],
+  "cognitive_levels": [
+    {
+      "level": "remember",
+      "description": "recall facts"
+    },
+    {
+      "level": "understand",
+      "description": "explain concepts"
+    },
+    {
+      "level": "apply",
+      "description": "use in new situations"
+    },
+    {
+      "level": "analyze",
+      "description": "break down and examine"
+    },
+    {
+      "level": "evaluate",
+      "description": "judge or critique"
+    },
+    {
+      "level": "create",
+      "description": "produce something new"
+    }
+  ],
+  "_extraction_metadata": {
+    "source_file": "14-CompMath-Understanding the Standards.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 11491,
+    "prompt_tokens": 6892,
+    "completion_tokens": 4599
+  }
+}

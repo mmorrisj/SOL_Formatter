@@ -1,0 +1,638 @@
+{
+  "document": {
+    "title": "Mathematics Standards of Learning for Virginia Public Schools",
+    "grade_level": "2023",
+    "course_name": "Probability and Statistics",
+    "year": 2023,
+    "introduction": "The following standards outline the content of a one-year course in Probability and Statistics. If a one-semester course is desired, the standards with a dagger (†) would apply. The purpose of the course is to present basic concepts and techniques for collecting and analyzing data, drawing conclusions, and making predictions. Technology tools will be used to assist in teaching and learning. Graphing technologies facilitate visualizing, analyzing, and understanding algebraic and statistical behaviors and provide a powerful tool for solving and verifying solutions.",
+    "strands": [
+      {
+        "code": "PS.DC",
+        "name": "Data in Context",
+        "standards": [
+          {
+            "id": "PS.DC.1†",
+            "statement": "The student will use a statistical cycle to formulate questions, describe types of data, data sources, and constraints within the context of a problem.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Define the stages of the statistical cycle and how each stage relates to the others.",
+                  "action_verb": "Define",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Formulate questions and conclusions based on context.",
+                  "action_verb": "Formulate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Understand the type of data relevant to the question at hand (e.g., quantitative versus categorical).",
+                  "action_verb": "Understand",
+                  "examples": [
+                    "quantitative",
+                    "categorical"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Compare and contrast population and sample, and parameter and statistic.",
+                  "action_verb": "Compare",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Identify and explain constraints of the statistical approach.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PS.DC.2†",
+            "statement": "The student will compare and contrast data collection methods to plan and conduct an observational study.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Investigate and describe sampling techniques (e.g., simple random sampling, stratified sampling, systematic sampling, cluster sampling).",
+                  "action_verb": "Investigate",
+                  "examples": [
+                    "simple random sampling",
+                    "stratified sampling",
+                    "systematic sampling",
+                    "cluster sampling"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine which sampling technique is best, given a particular context.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Investigate and explain biased influences inherent within sampling methods and various forms of response bias.",
+                  "action_verb": "Investigate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Use the statistical cycle to plan and conduct an observational study to answer a question or address a problem.",
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PS.DC.3†",
+            "statement": "The student will utilize the principles of experimental design to plan and conduct a well-designed experiment.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Describe the principles of experimental design, including: treatment/control groups; blinding/placebo effects; experimental units/subjects; and blocking/matched pairs and completely randomized designs.",
+                  "action_verb": "Describe",
+                  "examples": [
+                    "treatment/control groups",
+                    "blinding/placebo effects",
+                    "experimental units/subjects",
+                    "blocking/matched pairs",
+                    "completely randomized designs"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Evaluate the principles of experimental design to address comparison, randomization, replication, and control within the context of the problem.",
+                  "action_verb": "Evaluate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Compare and contrast controlled experiments and observational studies and the conclusions that may be drawn from each.",
+                  "action_verb": "Compare",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Use the statistical cycle to plan and conduct a well-designed experiment to answer a question or address a problem.",
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Select a data collection method appropriate for a given context.",
+                  "action_verb": "Select",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PS.DS",
+        "name": "Descriptive Statistics",
+        "standards": [
+          {
+            "id": "PS.DS.1†",
+            "statement": "The student will represent and analyze data visualizations of univariate quantitative data, including dot plots, stemplots, boxplots, cumulative frequency graphs, and histograms, to identify and describe patterns and departures from patterns, using central tendency, spread, clusters, gaps, and outliers, within the context of a problem.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Create and interpret graphical displays of data, including dot plots, stemplots, boxplots, cumulative frequency graphs, and histograms, using appropriate technology.",
+                  "action_verb": "Create",
+                  "examples": [
+                    "dot plots",
+                    "stemplots",
+                    "boxplots",
+                    "cumulative frequency graphs",
+                    "histograms"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Examine the graphs within the context of the problem by analyzing: shape; measures of center; spread; and unusual features of the data (e.g., outliers, clusters, gaps).",
+                  "action_verb": "Examine",
+                  "examples": [
+                    "shape",
+                    "measures of center",
+                    "spread",
+                    "outliers",
+                    "clusters",
+                    "gaps"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PS.DS.2†",
+            "statement": "The student will represent and analyze numerical characteristics of univariate quantitative data sets to describe patterns and departures from patterns within the context of a problem.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Interpret measures of central tendency: mean, median, and mode.",
+                  "action_verb": "Interpret",
+                  "examples": [
+                    "mean",
+                    "median",
+                    "mode"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Interpret measures of spread: range, interquartile range, variance, and standard deviation.",
+                  "action_verb": "Interpret",
+                  "examples": [
+                    "range",
+                    "interquartile range",
+                    "variance",
+                    "standard deviation"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Identify possible outliers, using an algorithm.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Investigate and explain the influence of outliers on a univariate data set.",
+                  "action_verb": "Investigate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Investigate and explain ways in which standard deviation addresses variability by examining the formula for standard deviation.",
+                  "action_verb": "Investigate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PS.DS.3†",
+            "statement": "The student will represent, compare, and analyze distributions of two or more univariate quantitative data sets, numerically and graphically.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Create graphical displays of data, including back-to-back stemplots, parallel dot plots, parallel boxplots, and histograms, using appropriate technology.",
+                  "action_verb": "Create",
+                  "examples": [
+                    "back-to-back stemplots",
+                    "parallel dot plots",
+                    "parallel boxplots",
+                    "histograms"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Compare and contrast two or more univariate data sets, numerically and graphically, within the context of a problem by analyzing: shape; measures of center; measures of spread; and unusual features of the data (e.g., clusters, gaps, outliers).",
+                  "action_verb": "Compare",
+                  "examples": [
+                    "shape",
+                    "measures of center",
+                    "measures of spread",
+                    "clusters",
+                    "gaps",
+                    "outliers"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PS.DS.4",
+            "statement": "The student will represent and analyze categorical data, using two-way tables and other graphical displays, to describe patterns and relationships.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Create and interpret graphical displays of univariate categorical data, including bar graphs within the context of the problem, using appropriate technology.",
+                  "action_verb": "Create",
+                  "examples": [
+                    "bar graphs"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Create and interpret graphical displays comparing distributions of two or more univariate categorical data sets including segmented and side-by-side bar graphs within the context of the problem, using appropriate technology.",
+                  "action_verb": "Create",
+                  "examples": [
+                    "segmented bar graphs",
+                    "side-by-side bar graphs"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Generate and interpret a two-way table as a summary of the information obtained from two categorical variables.",
+                  "action_verb": "Generate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Calculate and interpret marginal, relative, and conditional frequencies to analyze data in a two-way table within the context of a problem.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PS.DS.5",
+            "statement": "The student will represent and analyze quantitative bivariate data with scatterplots to identify and describe the relationship between two variables.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Create scatterplots, using appropriate technology.",
+                  "action_verb": "Create",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Examine and interpret scatterplots in the context of the problem by analyzing: the form of relationship for linear and nonlinear trends; the direction of the relationship for positive, negative, or no association; the strength of the relationship such as strong, moderate, or weak; and the presence of unusual features within the data (e.g., clusters, gaps, influential points, outliers).",
+                  "action_verb": "Examine",
+                  "examples": [
+                    "linear trends",
+                    "nonlinear trends",
+                    "positive association",
+                    "negative association",
+                    "strong relationship",
+                    "moderate relationship",
+                    "weak relationship",
+                    "clusters",
+                    "gaps",
+                    "influential points",
+                    "outliers"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PS.DS.6",
+            "statement": "The student will create and interpret a linear model using the least squares regression method to assess the relationship between two quantitative variables.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Create the least squares regression model using technology to interpret the contextual meaning of the slope and y-intercept.",
+                  "action_verb": "Create",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Using technology, calculate and interpret the correlation coefficient, r, within the context of a problem.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Using technology, calculate and interpret the coefficient of determination, r2, within the context of a problem.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Use regression lines to make predictions, and identify the limitations of the predictions, such as extrapolation.",
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Calculate and interpret a residual to understand the error of a prediction.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Using technology, calculate and interpret the standard deviation of the residuals, s.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PS.P",
+        "name": "Probability",
+        "standards": [
+          {
+            "id": "PS.P.1†",
+            "statement": "The student will organize information and apply probability rules to compute probabilities of events within the context of a problem.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Given two or more events, determine whether the events are complementary, dependent, independent, and/or mutually exclusive, and compute the probability of those events.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Represent and calculate probabilities using Venn diagrams, tree diagrams, and two-way tables.",
+                  "action_verb": "Represent",
+                  "examples": [
+                    "Venn diagrams",
+                    "tree diagrams",
+                    "two-way tables"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Apply the addition rule, the multiplication rule, and complementary rule to calculate probabilities.",
+                  "action_verb": "Apply",
+                  "examples": [
+                    "addition rule",
+                    "multiplication rule",
+                    "complementary rule"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Calculate conditional probabilities to determine the association or independence of two events.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PS.P.2",
+            "statement": "The student will represent and interpret situations using discrete random distributions, including binomial distributions.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Identify discrete random variables and create a table to represent valid discrete probability distributions within the context of a problem.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Calculate and interpret the mean (expected value) and standard deviation for a discrete random variable within the context of a problem.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine if a discrete random variable satisfies the conditions for a binomial distribution.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Design and conduct a simulation of a binomial distribution.",
+                  "action_verb": "Design",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Calculate and interpret probabilities from a binomial distribution within the context of a problem.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Calculate the mean and standard deviation for binomial distributions.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Describe the center, shape, and spread of a discrete random variable within the context of a problem.",
+                  "action_verb": "Describe",
+                  "examples": [
+                    "center",
+                    "shape",
+                    "spread"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PS.P.3†",
+            "statement": "The student will represent and interpret situations using normal distributions.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Compare and contrast discrete and continuous distributions.",
+                  "action_verb": "Compare",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Represent probability as the area under the curve of a normal distribution using the Empirical Rule and graphing technology.",
+                  "action_verb": "Represent",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Describe the center, shape, and spread of normal distributions within the context of a problem.",
+                  "action_verb": "Describe",
+                  "examples": [
+                    "center",
+                    "shape",
+                    "spread"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Compare and contrast two or more sets of normally distributed data using z-scores, percentiles, or probabilities within the context of a problem.",
+                  "action_verb": "Compare",
+                  "examples": [
+                    "z-scores",
+                    "percentiles",
+                    "probabilities"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Standardize a data value from a normal distribution and interpret the z-score within the context of a problem.",
+                  "action_verb": "Standardize",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Calculate and interpret probabilities of a normal distribution using technology within the context of a problem.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PS.IS",
+        "name": "Inferential Statistics",
+        "standards": [
+          {
+            "id": "PS.IS.1",
+            "statement": "The student will apply properties of sampling distributions and inference procedures to make decisions about population proportions.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Describe the shape, center, and spread of the sampling distribution of a proportion within the context of a problem.",
+                  "action_verb": "Describe",
+                  "examples": [
+                    "shape",
+                    "center",
+                    "spread"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Given a problem, construct a one sample z confidence interval: identify the basic conditions for inference: random sample, independence, and normality; calculate a confidence interval using technology; and interpret the interval within the context of the problem.",
+                  "action_verb": "Construct",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Explain how changes in confidence level and sample size affect width of the confidence interval and margin of error.",
+                  "action_verb": "Explain",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Calculate and interpret a point estimate and margin of error of a confidence interval for a proportion within the context of the problem.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Explain how and why the hypothesis testing procedure allows one to reach a statistical decision.",
+                  "action_verb": "Explain",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given a problem, apply the one sample z hypothesis testing procedures: construct appropriate null and alternate hypotheses; identify the basic conditions for inference: random sample; independence, and normality; calculate and interpret the p-value using technology; determine and justify whether to reject the null hypothesis; and interpret the results within the context of the problem.",
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Use the statistical cycle to plan and conduct a statistical study about a proportion to answer a question or address a problem with inference.",
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "PS.IS.2",
+            "statement": "The student will apply properties of sampling distributions and inference procedures to make decisions about populations.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Describe the shape, center, and spread of the sampling distribution of a mean within the context of a problem.",
+                  "action_verb": "Describe",
+                  "examples": [
+                    "shape",
+                    "center",
+                    "spread"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Calculate and interpret a point estimate and a margin of error for a confidence interval of a mean within the context of a problem.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Describe the use of the Central Limit Theorem in satisfying the assumptions and conditions for inference about a mean.",
+                  "action_verb": "Describe",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Identify the properties of a t distribution.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given a problem, construct a one sample t confidence interval: identify the basic conditions for inference: random sample, independence, and approximate normality; calculate a confidence interval using technology; and interpret the interval within the context of the problem.",
+                  "action_verb": "Construct",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given a problem, apply the one sample t hypothesis testing procedures: construct appropriate null and alternate hypotheses; identify the basic conditions for inference: random sample, independence, and approximate normality; calculate and interpret the p value using technology; determine and justify whether to reject the null hypothesis; and interpret the results within the context of the problem.",
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "15-ProbStat-2023-Approved-Math-SOL.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 7616,
+    "prompt_tokens": 2840,
+    "completion_tokens": 4776
+  }
+}

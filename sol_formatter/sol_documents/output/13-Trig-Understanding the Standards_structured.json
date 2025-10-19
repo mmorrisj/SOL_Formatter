@@ -1,0 +1,340 @@
+{
+  "document": {
+    "title": "2023 Mathematics Standards of Learning",
+    "grade_level": "High School",
+    "course_name": "Trigonometry",
+    "year": 2023,
+    "introduction": "The standards below outline the content for a one-semester course in Trigonometry. Trigonometry includes the study of trigonometric definitions, applications, graphing, and solving trigonometric equations and inequalities. Emphasis should also be placed on using connections between right triangle ratios, trigonometric functions, and circular functions. In addition, the application of trigonometric concepts should be included throughout the course of study. Oral and written communication concerning the language of mathematics, logic of procedure, and interpretation of results should also permeate the course. Technology tools will be used to assist in teaching and learning. Graphing technologies facilitate visualizing, analyzing, and understanding algebraic and statistical behaviors and provide a powerful tool for solving and verifying solutions.",
+    "strands": [
+      {
+        "code": "TT",
+        "name": "Triangle Trigonometry",
+        "standards": [
+          {
+            "id": "T.TT.1",
+            "statement": "The student will determine the sine, cosine, tangent, cotangent, secant, and cosecant of the acute angles in a right triangle and use these ratios to solve for missing sides and angle measures, including application in contextual problems.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Define and represent the six triangular trigonometric ratios (sine, cosine, tangent, cosecant, secant, and cotangent) of an angle in a right triangle.",
+                  "action_verb": "Define",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Describe the relationships between side lengths in special right triangles (30°-60°-90° and 45°-45°-90°).",
+                  "action_verb": "Describe",
+                  "examples": [
+                    "30°-60°-90°",
+                    "45°-45°-90°"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Use the trigonometric functions, the Pythagorean Theorem, the Law of Sines, and the Law of Cosines to solve contextual problems.",
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Represent and solve contextual problems involving right triangles, including problems involving angles of elevation and depression.",
+                  "action_verb": "Represent",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "T.TT.2",
+            "statement": "The student will find the area of any triangle and solve for the lengths of the sides and measures of the angles in a non-right triangle using the Law of Sines and the Law of Cosines.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Apply the Law of Sines, and the Law of Cosines, as appropriate, to find missing sides and angles in non-right triangles.",
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Recognize the ambiguous case when applying the Law of Sines and the potential for two triangle solutions in some situations.",
+                  "action_verb": "Recognize",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve problems that integrate the use of the Law of Sines and the Law of Cosines and the triangle area formula (Area = absinC, where a and b are triangle sides and C is the included angle) to find the area of any triangle, including those in contextual problems.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "CT",
+        "name": "Circular Trigonometry",
+        "standards": [
+          {
+            "id": "T.CT.1",
+            "statement": "The student will determine the degree and radian measure of angles; sketch angles in standard position on a coordinate plane; and determine the sine, cosine, tangent, cosecant, secant, and cotangent of an angle, given a point on the terminal side of an angle in standard position or the value of a trigonometric function of the angle.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Define a radian as a unit of angle measure and determine the relationship between the radian measure of an angle and the length of the intercepted arc in a circle.",
+                  "action_verb": "Define",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine the degree and radian measure of angles to include both negative and positive rotations in the coordinate plane.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Find both positive and negative coterminal angles for a given angle.",
+                  "action_verb": "Find",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Identify the quadrant or axis in/on which the terminal side of an angle lies.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Draw a reference right triangle when given a point on the terminal side of an angle in standard position.",
+                  "action_verb": "Draw",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Draw a reference right triangle when given the value of a trigonometric function of an angle (sine, cosine, tangent, cosecant, secant, and cotangent).",
+                  "action_verb": "Draw",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine the value of any trigonometric function (sine, cosine, tangent, cosecant, secant, and cotangent) when given a point on the terminal side of an angle in standard position.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given one trigonometric function value, determine the other five trigonometric function values.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Calculate the length of an arc of a circle in radians.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Calculate the area of a sector of a circle.",
+                  "action_verb": "Calculate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "T.CT.2",
+            "statement": "The student will develop and apply the properties of the unit circle in degrees and radians.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Convert between radian and degree measure of special angles of the unit circle without the use of technology.",
+                  "action_verb": "Convert",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Define the six circular trigonometric functions of an angle in standard position on the unit circle.",
+                  "action_verb": "Define",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Apply knowledge of right triangle trigonometry, special right triangles, and the properties of the unit circle to determine trigonometric functions values of special angles (0°, 30°, 45°, 60°, and 90°) and their related angles in degree and radians without the use of technology.",
+                  "action_verb": "Apply",
+                  "examples": [
+                    "0°",
+                    "30°",
+                    "45°",
+                    "60°",
+                    "90°"
+                  ],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "GT",
+        "name": "Graphs of Trigonometric Functions",
+        "standards": [
+          {
+            "id": "T.GT.1",
+            "statement": "The student will graph and analyze trigonometric functions and apply trigonometric functions to represent periodic phenomena.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Sketch the graph of the six parent trigonometric functions (sine, cosine, tangent, cosecant, secant, and cotangent) for at least a two-period interval.",
+                  "action_verb": "Sketch",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine the domain and range, amplitude, period, and asymptote locations for a trigonometric function, given a graph or an equation.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Describe the effects of changing the parameters (A, B, C, or D in the standard form of a trigonometric equation) on the graph of the function using graphing technology.",
+                  "action_verb": "Describe",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Sketch the graph of a transformed sine, cosine, and tangent function written in standard form by using transformations for at least a two-period interval, including both positive and negative values for the domain.",
+                  "action_verb": "Sketch",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Apply trigonometric functions and their graphs to represent periodic phenomena.",
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "T.GT.2",
+            "statement": "The student will graph the six inverse trigonometric functions.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Determine the domain and range of the inverse trigonometric functions.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Use the restrictions on the domain of an inverse trigonometric function to determine a value of the inverse trigonometric function.",
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Graph inverse trigonometric functions.",
+                  "action_verb": "Graph",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "IE",
+        "name": "Identities and Equations",
+        "standards": [
+          {
+            "id": "T.IE.1",
+            "statement": "The student will evaluate expressions involving the six trigonometric functions and the inverse sine, cosine, and tangent functions.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Determine the values of trigonometric functions, with and without graphing technology.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine angle measures by using the inverse trigonometric functions, with and without a graphing technology.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Evaluate composite functions that involve trigonometric functions and inverse trigonometric functions.",
+                  "action_verb": "Evaluate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "T.IE.2",
+            "statement": "The student will use basic trigonometric identity substitutions to simplify and verify trigonometric identities.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Use trigonometric identities to make algebraic substitutions to simplify and verify trigonometric identities. The basic trigonometric identities include: reciprocal identities; Pythagorean identities; sum and difference identities; double-angle identities; and, half-angle identities.",
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Apply the sum, difference, and half-angle identities to evaluate trigonometric function values of angles that are not integer multiples of the special angles to solve problems, including contextual situations.",
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "T.IE.3",
+            "statement": "The student will solve trigonometric equations and inequalities.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Solve trigonometric equations with and without restricted domains algebraically and graphically.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve trigonometric inequalities algebraically and graphically.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Verify and justify algebraic solutions to trigonometric equations and inequalities, using graphing technology.",
+                  "action_verb": "Verify",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "13-Trig-Understanding the Standards.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 8290,
+    "prompt_tokens": 5376,
+    "completion_tokens": 2914
+  }
+}

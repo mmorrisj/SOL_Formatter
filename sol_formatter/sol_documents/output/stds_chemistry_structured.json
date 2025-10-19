@@ -1,0 +1,417 @@
+{
+  "document": {
+    "title": "Science Standards of Learning for Public Schools",
+    "grade_level": "High School",
+    "course_name": "Chemistry",
+    "year": 2023,
+    "introduction": "The Science Standards of Learning for Virginia Public Schools identify academic content for essential components of the science curriculum at different grade levels. The content of the standards, in conjunction with effective instruction, provide a platform for creating scientifically literate students. The Science Standards of Learning reflect a vertical progression of content and practices. The Standards of Learning contain content strands or topics that progress in complexity as they are studied at various grade levels in grades K-5 and are represented indirectly throughout the middle and high school courses. These strands are Scientific and Engineering Practices, Force, Motion, and Energy, Matter, Living Systems and Processes, Earth and Space Systems, Earth Resources. Six critical components for achieving science literacy are 1) Goals; 2) Investigate and Understand; 3) Nature of Science; 4) Science and Engineering Practices; 5) K-12 Safety; and 6) Instructional Technology. These six components support the Profile of a Virginia Graduate and an integrated instructional approach that incorporates science, technology, engineering, and mathematics (STEM). It is imperative to science instruction that the local curriculum consider and address how these components are incorporated in the design of the K-12 science program.",
+    "strands": [
+      {
+        "code": "CH",
+        "name": "Chemistry",
+        "standards": [
+          {
+            "id": "CH.1",
+            "statement": "The student will demonstrate an understanding of scientific and engineering practices by asking questions and defining problems.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "ask questions that arise from careful observation of phenomena, examination of a model or theory, unexpected results, and/or to seek additional information",
+                  "action_verb": "ask",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "determine which questions can be investigated within the scope of the school laboratory",
+                  "action_verb": "determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "make hypotheses that specify what happens to a dependent variable when an independent variable is manipulated",
+                  "action_verb": "make",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "generate hypotheses based on research and scientific principles",
+                  "action_verb": "generate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "define design problems that involve the development of a process or system with interacting components, criteria and constraints",
+                  "action_verb": "define",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "individually and collaboratively plan and conduct observational and experimental investigations",
+                  "action_verb": "plan",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "plan and conduct investigations or test design solutions in a safe manner, including planning for response to emergency situations",
+                  "action_verb": "plan",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "select and use appropriate tools and technology to collect, record, analyze, and evaluate data",
+                  "action_verb": "select",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "record and present data in an organized format that communicates relationships and quantities in appropriate mathematical or algebraic forms",
+                  "action_verb": "record",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "use data in building and revising models, supporting explanations for phenomena, or testing solutions to problems",
+                  "action_verb": "use",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "solve problems using mathematical manipulations including the International System of Units (SI), scientific notation, derived units, significant digits, and dimensional analysis",
+                  "action_verb": "solve",
+                  "examples": [
+                    "International System of Units (SI)",
+                    "scientific notation"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "analyze data using tools, technologies, and/or models (e.g., computational, mathematical) to make valid and reliable scientific claims or determine an optimal design solution",
+                  "action_verb": "analyze",
+                  "examples": [
+                    "computational",
+                    "mathematical"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "analyze data graphically and use graphs to make predictions",
+                  "action_verb": "analyze",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "differentiate between accuracy and precision of measurements",
+                  "action_verb": "differentiate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "consider limitations of data analysis when analyzing and interpreting data",
+                  "action_verb": "consider",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "analyze data to optimize a design",
+                  "action_verb": "analyze",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "construct and revise explanations based on valid and reliable evidence obtained from a variety of sources",
+                  "action_verb": "construct",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "apply scientific ideas, principles, and/or evidence to provide an explanation of phenomena or design solutions",
+                  "action_verb": "apply",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "compare and evaluate competing arguments in light of currently accepted explanations and new scientific evidence",
+                  "action_verb": "compare",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "construct arguments or counterarguments based on data and evidence",
+                  "action_verb": "construct",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "differentiate between scientific hypothesis, theory, and law",
+                  "action_verb": "differentiate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "evaluate the merits and limitations of models",
+                  "action_verb": "evaluate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "develop, revise, and/or use models based on evidence to illustrate or predict relationships",
+                  "action_verb": "develop",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "use models and simulations to visualize and explain the movement of particles, to represent chemical reactions, to formulate mathematical equations, and to interpret data sets",
+                  "action_verb": "use",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "compare, integrate, and evaluate sources of information presented in different media or formats to address a scientific question or solve a problem",
+                  "action_verb": "compare",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "gather, read, and evaluate scientific and/or technical information from multiple authoritative sources, assessing the evidence and credibility of each source",
+                  "action_verb": "gather",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "communicate scientific and/or technical information about phenomena and/or a design process in multiple formats",
+                  "action_verb": "communicate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "CH.2",
+            "statement": "The student will investigate and understand that elements have properties based on their atomic structure. The periodic table is an organizational tool for elements based on these properties.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "average atomic mass, isotopes, mass number, and atomic number",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "nuclear decay",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "trends within groups and periods including atomic radii, electronegativity, shielding effect, and ionization energy",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "electron configurations, valence electrons, excited electrons, and ions",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "historical and quantum models",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "CH.3",
+            "statement": "The student will investigate and understand that atoms are conserved in chemical reactions. Knowledge of chemical properties of the elements can be used to describe and predict chemical interactions.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "chemical formulas are models used to represent the number of each type of atom in a substance",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "substances are named based on the number of atoms and the type of interactions between atoms",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "balanced chemical equations model rearrangement of atoms in chemical reactions",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "atoms bond based on electron interactions",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "molecular geometry is predictive of physical and chemical properties",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "reaction types can be predicted and classified",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "CH.4",
+            "statement": "The student will investigate and understand that molar relationships compare and predict chemical quantities.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Avogadro’s principle is the basis for molar relationships",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "stoichiometry mathematically describes quantities in chemical composition and in chemical reactions",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "CH.5",
+            "statement": "The student will investigate and understand that solutions behave in predictable and quantifiable ways.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "molar relationships determine solution concentration",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "changes in temperature can affect solubility",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "extent of dissociation defines types of electrolytes",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "pH and pOH quantify acid and base dissociation",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "colligative properties depend on the extent of dissociation",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "CH.6",
+            "statement": "The student will investigate and understand that the phases of matter are explained by the kinetic molecular theory.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "pressure and temperature define the phase of a substance",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "properties of ideal gases are described by gas laws",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "intermolecular forces affect physical properties",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "CH.7",
+            "statement": "The student will investigate and understand that thermodynamics explains the relationship between matter and energy.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "heat energy affects matter and interactions of matter",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "heating curves provide information about a substance",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "reactions are endothermic or exothermic",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "energy changes in reactions occur as bonds are broken and formed",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "collision theory predicts the rate of reactions",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "rates of reactions depend on catalysts and activation energy",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "enthalpy and entropy determine the extent of a reaction",
+                  "action_verb": "understand",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "stds_chemistry.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 7056,
+    "prompt_tokens": 3944,
+    "completion_tokens": 3112
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "document_metadata": {
+    "title": "Standards Side by Side: Grade One-Grade Three",
+    "grade_level": "Grade One-Grade Three",
+    "course_name": "Foundations for Reading and Writing",
+    "year": 2023
+  },
+  "introduction": "This document outlines the standards for reading and writing for grades one through three, focusing on foundational skills, vocabulary development, reading comprehension, writing processes, and language usage.",
+  "strands": [
+    {
+      "code": "FFR",
+      "name": "Foundations for Reading",
+      "standards": [
+        {
+          "id": "FFR.1",
+          "statement": "Print Concepts",
+          "knowledge_and_skills": []
+        },
+        {
+          "id": "FFR.2",
+          "statement": "Phonological and Phonemic Awareness",
+          "knowledge_and_skills": [
+            {
+              "objective": "Isolate sounds in four and five phoneme words.",
+              "sub_objectives": [],
+              "action_verb": "Isolate",
+              "examples": [],
+              "constraints": []
+            },
+            {
+              "objective": "Demonstrate ability to blend words with four and five phonemes, including words with consonant digraphs (e.g., th, sh, ch, wh) and consonant blends (e.g., fr, st, bl).",
+              "sub_objectives": [],
+              "action_verb": "Demonstrate",
+              "examples": [
+                "th",
+                "sh",
+                "ch",
+                "wh",
+                "fr",
+                "st",
+                "bl"
+              ],
+              "constraints": []
+            },
+            {
+              "objective": "Demonstrate the ability to segment words with four and five phonemes, including words with consonant digraphs (e.g., th, sh, ch) and consonant blends (e.g., fr, st, bl).",
+              "sub_objectives": [],
+              "action_verb": "Demonstrate",
+              "examples": [
+                "th",
+                "sh",
+                "ch",
+                "fr",
+                "st",
+                "bl"
+              ],
+              "constraints": []
+            }
+          ]
+        },
+        {
+          "id": "FFR.3",
+          "statement": "Phonics and Word Analysis",
+          "knowledge_and_skills": []
+        }
+      ]
+    },
+    {
+      "code": "RV",
+      "name": "Reading and Vocabulary",
+      "standards": [
+        {
+          "id": "RV.1",
+          "statement": "Vocabulary Development and Word Analysis",
+          "knowledge_and_skills": [
+            {
+              "objective": "Discuss meanings of words in context from a variety of texts.",
+              "sub_objectives": [],
+              "action_verb": "Discuss",
+              "examples": [],
+              "constraints": []
+            },
+            {
+              "objective": "Identify antonyms and synonyms of familiar words to deepen understanding of word meaning and relationships.",
+              "sub_objectives": [],
+              "action_verb": "Identify",
+              "examples": [],
+              "constraints": []
+            },
+            {
+              "objective": "Ask for the meaning of unknown words and make connections to familiar words.",
+              "sub_objectives": [],
+              "action_verb": "Ask",
+              "examples": [],
+              "constraints": []
+            },
+            {
+              "objective": "Use vocabulary across content areas.",
+              "sub_objectives": [],
+              "action_verb": "Use",
+              "examples": [],
+              "constraints": []
+            },
+            {
+              "objective": "Determine the meaning of an unknown word using frequently occurring root words and inflectional affixes (e.g. -s, -ing, -ed).",
+              "sub_objectives": [],
+              "action_verb": "Determine",
+              "examples": [
+                "-s",
+                "-ing",
+                "-ed"
+              ],
+              "constraints": []
+            },
+            {
+              "objective": "Distinguish shades of meaning among verbs and adjectives.",
+              "sub_objectives": [],
+              "action_verb": "Distinguish",
+              "examples": [],
+              "constraints": []
+            },
+            {
+              "objective": "Identify the purpose of simple reference materials (e.g. picture dictionary, digital dictionary).",
+              "sub_objectives": [],
+              "action_verb": "Identify",
+              "examples": [
+                "picture dictionary",
+                "digital dictionary"
+              ],
+              "constraints": []
+            },
+            {
+              "objective": "Increase and develop breadth of vocabulary knowledge by listening to high quality, complex text.",
+              "sub_objectives": [],
+              "action_verb": "Increase",
+              "examples": [],
+              "constraints": []
+            },
+            {
+              "objective": "Use newly learned words and phrases in discussions and speaking activities.",
+              "sub_objectives": [],
+              "action_verb": "Use",
+              "examples": [],
+              "constraints": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "RL",
+      "name": "Reading Literary Text",
+      "standards": [
+        {
+          "id": "RL.1",
+          "statement": "Key Ideas and Plot Details",
+          "knowledge_and_skills": [
+            {
+              "objective": "Retell familiar stories sequentially and demonstrate an understanding of the story structure, the central message or lesson, and the details.",
+              "sub_objectives": [],
+              "action_verb": "Retell",
+              "examples": [],
+              "constraints": []
+            },
+            {
+              "objective": "Identify the elements of a familiar story, including the characters, setting, and important events (e.g., conflict and resolution).",
+              "sub_objectives": [],
+              "action_verb": "Identify",
+              "examples": [
+                "conflict",
+                "resolution"
+              ],
+              "constraints": []
+            },
+            {
+              "objective": "Ask and answer literal (who, what, when, where) or inferential (how, why) questions about what is read.",
+              "sub_objectives": [],
+              "action_verb": "Ask",
+              "examples": [],
+              "constraints": []
+            },
+            {
+              "objective": "Generate predictions about story characters and events using the text.",
+              "sub_objectives": [],
+              "action_verb": "Generate",
+              "examples": [],
+              "constraints": []
+            }
+          ]
+        },
+        {
+          "id": "RL.2",
+          "statement": "Craft and Style",
+          "knowledge_and_skills": [
+            {
+              "objective": "Standards that address Craft and Style are introduced in Grade Three.",
+              "sub_objectives": [],
+              "action_verb": "Introduce",
+              "examples": [],
+              "constraints": []
+            }
+          ]
+        },
+        {
+          "id": "RL.3",
+          "statement": "Integration of Concepts",
+          "knowledge_and_skills": []
+        }
+      ]
+    },
+    {
+      "code": "RI",
+      "name": "Reading Informational Text",
+      "standards": [
+        {
+          "id": "RI.1",
+          "statement": "Key Ideas and Confirming Details",
+          "knowledge_and_skills": []
+        },
+        {
+          "id": "RI.2",
+          "statement": "Craft and Style",
+          "knowledge_and_skills": []
+        },
+        {
+          "id": "RI.3",
+          "statement": "Integration of Concepts",
+          "knowledge_and_skills": []
+        }
+      ]
+    },
+    {
+      "code": "FFW",
+      "name": "Foundations for Writing",
+      "standards": [
+        {
+          "id": "FFW.1",
+          "statement": "Handwriting",
+          "knowledge_and_skills": []
+        },
+        {
+          "id": "FFW.2",
+          "statement": "Spelling",
+          "knowledge_and_skills": []
+        }
+      ]
+    },
+    {
+      "code": "W",
+      "name": "Writing",
+      "standards": [
+        {
+          "id": "W.1",
+          "statement": "Modes and Purposes for Writing",
+          "knowledge_and_skills": []
+        },
+        {
+          "id": "W.2",
+          "statement": "Organization and Composition",
+          "knowledge_and_skills": []
+        },
+        {
+          "id": "W.3",
+          "statement": "Usage and Mechanics",
+          "knowledge_and_skills": []
+        }
+      ]
+    },
+    {
+      "code": "LU",
+      "name": "Language Usage",
+      "standards": [
+        {
+          "id": "LU.1",
+          "statement": "Grammar",
+          "knowledge_and_skills": []
+        },
+        {
+          "id": "LU.2",
+          "statement": "Mechanics",
+          "knowledge_and_skills": []
+        }
+      ]
+    },
+    {
+      "code": "C",
+      "name": "Communication and Multimodal Literacy",
+      "standards": [
+        {
+          "id": "C.1",
+          "statement": "Communication, Listening, and Collaboration",
+          "knowledge_and_skills": []
+        },
+        {
+          "id": "C.2",
+          "statement": "Speaking & Presentation of Ideas",
+          "knowledge_and_skills": []
+        },
+        {
+          "id": "C.3",
+          "statement": "Integrating Multimodal Literacy",
+          "knowledge_and_skills": []
+        },
+        {
+          "id": "C.4",
+          "statement": "Examining Media Messages",
+          "knowledge_and_skills": []
+        }
+      ]
+    },
+    {
+      "code": "R",
+      "name": "Research",
+      "standards": [
+        {
+          "id": "R.1",
+          "statement": "Evaluation and Synthesis of Information",
+          "knowledge_and_skills": []
+        }
+      ]
+    }
+  ],
+  "_extraction_metadata": {
+    "source_file": "1-3 - Side By Side  - 2024.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 8690,
+    "prompt_tokens": 6621,
+    "completion_tokens": 2069
+  }
+}

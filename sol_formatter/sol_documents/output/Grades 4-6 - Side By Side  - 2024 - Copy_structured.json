@@ -1,0 +1,300 @@
+{
+  "document_metadata": {
+    "title": "Standards Side by Side: Grade Four – Grade Six",
+    "grade_level": "4-6",
+    "course_name": "Foundations for Reading and Writing",
+    "year": 2023
+  },
+  "introduction": "This document outlines the standards for reading and writing for grades four through six, focusing on developing skilled readers and writers through various strategies and practices.",
+  "strands": [
+    {
+      "strand_code": "FFR",
+      "strand_name": "Foundations for Reading",
+      "standards": [
+        {
+          "standard_id": "FFR.3",
+          "standard_statement": "Use knowledge of syllabication and syllable types to decode and encode words.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Use knowledge of morphology (suffixes, prefixes, root/base) to decode words.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Read grade-level high-frequency words, including decodable and irregular words, with automaticity and accuracy.",
+                "primary_action_verb": "Read",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "RV",
+      "strand_name": "Reading and Vocabulary",
+      "standards": [
+        {
+          "standard_id": "RV.1",
+          "standard_statement": "Develop general academic language and content specific vocabulary by listening to, reading, and discussing a variety of texts relevant to a grade four topic or subject area.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Discuss meanings of complex words and phrases acquired through conversations and literature.",
+                "primary_action_verb": "Discuss",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the meaning of complex words using frequently occurring root words and inflectional affixes (e.g. -s, -ing, -ed).",
+                "primary_action_verb": "Determine",
+                "examples": [
+                  "-s",
+                  "-ing",
+                  "-ed"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "RL",
+      "strand_name": "Reading Literary Text",
+      "standards": [
+        {
+          "standard_id": "RL.1",
+          "standard_statement": "Summarize the theme of stories, dramas, or poetry, including the thematic topic (e.g., courage, loyalty, family) and how characters respond to challenges.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Describe the central conflict and explain the resolution using an understanding of text structure and events from the plot as evidence.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Analyze characters in-depth, drawing on specific details from the text, including their words, actions, or a character’s thoughts.",
+                "primary_action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "RI",
+      "strand_name": "Reading Informational Text",
+      "standards": [
+        {
+          "standard_id": "RI.1",
+          "standard_statement": "Summarize the main idea of multi-paragraph texts and the specific paragraphs within them, explaining how key details support the main ideas.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Summarize events, procedures, ideas, or concepts in historical, scientific, or technical texts, including what happened and why.",
+                "primary_action_verb": "Summarize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Distinguish between fact and opinion and explain how an author uses reasons and evidence to support opinions within texts.",
+                "primary_action_verb": "Distinguish",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "FFW",
+      "strand_name": "Foundations for Writing",
+      "standards": [
+        {
+          "standard_id": "FFW.1",
+          "standard_statement": "Maintain legible printing.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Maintain legible cursive.",
+                "primary_action_verb": "Maintain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Sign his/her first and last name.",
+                "primary_action_verb": "Sign",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "W",
+      "strand_name": "Writing",
+      "standards": [
+        {
+          "standard_id": "W.1",
+          "standard_statement": "Write personal or fictional narratives that are logically organized around a central problem or experience.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Write expository texts to examine a topic that develops the focus with facts, details, or other information and uses linking words to connect ideas.",
+                "primary_action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Write persuasive pieces on topics or texts that express a clear opinion supported by facts, details, and reasons.",
+                "primary_action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "LU",
+      "strand_name": "Language Usage",
+      "standards": [
+        {
+          "standard_id": "LU.1",
+          "standard_statement": "Use commas in series, dates, addresses, and letters in writing.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Use commas and quotation marks to indicate dialogue in writing.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use apostrophes to form contractions and to show possession in writing.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "C",
+      "strand_name": "Communication and Multimodal Literacy",
+      "standards": [
+        {
+          "standard_id": "C.1",
+          "standard_statement": "Participate in a range of sustained collaborative discussions with diverse partners on grade four topics and texts.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Listen actively and speak using agreed-upon discussion rules.",
+                "primary_action_verb": "Listen",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Respectfully build on others’ ideas and clearly express their own.",
+                "primary_action_verb": "Respectfully",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "R",
+      "strand_name": "Research",
+      "standards": [
+        {
+          "standard_id": "R.1",
+          "standard_statement": "Construct and formulate questions about a topic.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Identify search terms to locate information on the topic and gather relevant information from various print and digital sources.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Organize and synthesize information from the print and digital resources determining the relevance and reliability of the information gathered.",
+                "primary_action_verb": "Organize",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "reading",
+    "writing",
+    "vocabulary",
+    "literary analysis",
+    "informational text",
+    "collaboration",
+    "research"
+  ],
+  "cognitive_levels": [
+    {
+      "level": "remember",
+      "description": "recall facts"
+    },
+    {
+      "level": "understand",
+      "description": "explain concepts"
+    },
+    {
+      "level": "apply",
+      "description": "use in new situations"
+    },
+    {
+      "level": "analyze",
+      "description": "break down and examine"
+    },
+    {
+      "level": "evaluate",
+      "description": "judge or critique"
+    },
+    {
+      "level": "create",
+      "description": "produce something new"
+    }
+  ],
+  "suggested_question_types": {
+    "identify": "multiple_choice, matching",
+    "solve": "problem_solving, computational",
+    "compare": "matching, short_answer",
+    "represent": "graphical, short_answer",
+    "explain": "short_answer",
+    "true_false": "verification"
+  },
+  "_extraction_metadata": {
+    "source_file": "Grades 4-6 - Side By Side  - 2024 - Copy.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 9349,
+    "prompt_tokens": 7335,
+    "completion_tokens": 2014
+  }
+}

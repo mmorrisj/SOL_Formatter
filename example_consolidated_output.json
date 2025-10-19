@@ -1,0 +1,341 @@
+{
+  "total_documents": 3,
+  "successful": 3,
+  "failed": 0,
+  "total_tokens_used": 25626,
+  "documents": [
+    {
+      "document_metadata": {
+        "title": "Mathematics Standards of Learning for Virginia Public Schools",
+        "grade_level": "Grade 1",
+        "course_name": "Mathematics",
+        "year": "2023",
+        "state": "Virginia"
+      },
+      "introduction": "In Grade 1, instructional time focuses on developing an understanding of addition, subtraction, and strategies for addition and subtraction within 20; developing an understanding of place value and whole number relationships, including grouping in tens and ones; developing an understanding of linear measurement and measuring lengths as iterating length units; and reasoning about attributes of and composing and decomposing geometric shapes.",
+      "strands": [
+        {
+          "strand_code": "NS",
+          "strand_name": "Number and Number Sense",
+          "strand_description": "Students develop number sense and understanding of place value.",
+          "standards": [
+            {
+              "standard_id": "1.NS.1",
+              "standard_statement": "The student will utilize flexible counting strategies to determine and describe quantities up to 120.",
+              "knowledge_and_skills": [
+                {
+                  "objective_text": "Count forward by ones to 120, starting at any number.",
+                  "sub_objectives": [],
+                  "action_verb": "count",
+                  "examples": [],
+                  "constraints": ["up to 120", "by ones"]
+                },
+                {
+                  "objective_text": "Count backward by ones from 30.",
+                  "sub_objectives": [],
+                  "action_verb": "count",
+                  "examples": [],
+                  "constraints": ["from 30", "by ones"]
+                },
+                {
+                  "objective_text": "Count forward and backward by tens to 120 from a given multiple of ten.",
+                  "sub_objectives": [],
+                  "action_verb": "count",
+                  "examples": [],
+                  "constraints": ["to 120", "by tens", "from multiple of ten"]
+                }
+              ],
+              "tags": ["counting", "number_sense", "skip_counting", "sequences"],
+              "cognitive_level": "apply",
+              "suggested_question_types": ["multiple_choice", "fill_in_blank", "short_answer"]
+            },
+            {
+              "standard_id": "1.NS.2",
+              "standard_statement": "The student will identify, represent, compare, and order whole numbers up to 120.",
+              "knowledge_and_skills": [
+                {
+                  "objective_text": "Identify the place and value of each digit in a two-digit or three-digit number.",
+                  "sub_objectives": [],
+                  "action_verb": "identify",
+                  "examples": ["in 352, the 5 is in the tens place and has a value of 50"],
+                  "constraints": ["two-digit or three-digit number"]
+                },
+                {
+                  "objective_text": "Use place value understanding to compare and order whole numbers within 100.",
+                  "sub_objectives": [],
+                  "action_verb": "use",
+                  "examples": [],
+                  "constraints": ["within 100"]
+                },
+                {
+                  "objective_text": "Represent numbers using concrete objects, pictures, and numerals.",
+                  "sub_objectives": [],
+                  "action_verb": "represent",
+                  "examples": ["base-10 blocks", "place value mats"],
+                  "constraints": []
+                }
+              ],
+              "tags": ["place_value", "number_representation", "comparing_numbers", "ordering_numbers", "whole_numbers"],
+              "cognitive_level": "understand",
+              "suggested_question_types": ["multiple_choice", "matching", "graphical", "short_answer"]
+            }
+          ]
+        },
+        {
+          "strand_code": "CE",
+          "strand_name": "Computation and Estimation",
+          "standards": [
+            {
+              "standard_id": "1.CE.1",
+              "standard_statement": "The student will demonstrate an understanding of equality through the use of the equal sign.",
+              "knowledge_and_skills": [
+                {
+                  "objective_text": "Recognize that the equal sign relates equivalent quantities.",
+                  "sub_objectives": [],
+                  "action_verb": "recognize",
+                  "examples": ["7 = 7", "8 = 5 + 3"],
+                  "constraints": []
+                },
+                {
+                  "objective_text": "Determine an unknown quantity in a whole number sentence.",
+                  "sub_objectives": [],
+                  "action_verb": "determine",
+                  "examples": ["? = 3 + 2", "7 = ? + 4"],
+                  "constraints": ["whole numbers"]
+                }
+              ],
+              "tags": ["equality", "equations", "number_sentences", "problem_solving"],
+              "cognitive_level": "understand",
+              "suggested_question_types": ["multiple_choice", "problem_solving", "fill_in_blank"]
+            }
+          ]
+        }
+      ],
+      "_extraction_metadata": {
+        "source_file": "1-2023-Approved-Math-SOL.docx",
+        "model": "gpt-4o-mini",
+        "temperature": 0.1,
+        "tokens_used": 8542,
+        "prompt_tokens": 6821,
+        "completion_tokens": 1721
+      }
+    },
+    {
+      "document_metadata": {
+        "title": "Mathematics Standards of Learning for Virginia Public Schools",
+        "grade_level": "Grade 5",
+        "course_name": "Mathematics",
+        "year": "2023",
+        "state": "Virginia"
+      },
+      "introduction": "In Grade 5, instructional time focuses on developing fluency with addition and subtraction of fractions, and developing understanding of multiplication and division of fractions in limited cases; extending division to two-digit divisors; and developing understanding of operations with decimals to the hundredths place.",
+      "strands": [
+        {
+          "strand_code": "NS",
+          "strand_name": "Number and Number Sense",
+          "standards": [
+            {
+              "standard_id": "5.NS.1",
+              "standard_statement": "The student will read, write, represent, compare, and order whole numbers through the millions period.",
+              "knowledge_and_skills": [
+                {
+                  "objective_text": "Read and write whole numbers through millions in standard form, written form, and expanded form.",
+                  "sub_objectives": [],
+                  "action_verb": "read",
+                  "examples": ["standard form: 4,328,576", "written form: four million, three hundred twenty-eight thousand, five hundred seventy-six"],
+                  "constraints": ["through millions"]
+                },
+                {
+                  "objective_text": "Compare and order whole numbers through millions.",
+                  "sub_objectives": [],
+                  "action_verb": "compare",
+                  "examples": [],
+                  "constraints": ["through millions"]
+                }
+              ],
+              "tags": ["whole_numbers", "place_value", "millions", "number_representation", "comparing_numbers"],
+              "cognitive_level": "understand",
+              "suggested_question_types": ["multiple_choice", "short_answer", "matching"]
+            }
+          ]
+        },
+        {
+          "strand_code": "CE",
+          "strand_name": "Computation and Estimation",
+          "standards": [
+            {
+              "standard_id": "5.CE.1",
+              "standard_statement": "The student will estimate, determine, and verify sums and differences of fractions and mixed numbers, using multiple strategies.",
+              "knowledge_and_skills": [
+                {
+                  "objective_text": "Estimate sums and differences of fractions and mixed numbers.",
+                  "sub_objectives": [],
+                  "action_verb": "estimate",
+                  "examples": [],
+                  "constraints": ["fractions and mixed numbers"]
+                },
+                {
+                  "objective_text": "Determine sums and differences of fractions having like and unlike denominators.",
+                  "sub_objectives": [
+                    "Limited to denominators of 12 or less"
+                  ],
+                  "action_verb": "determine",
+                  "examples": [],
+                  "constraints": ["denominators of 12 or less", "like and unlike denominators"]
+                },
+                {
+                  "objective_text": "Determine sums and differences of mixed numbers.",
+                  "sub_objectives": [
+                    "Limited to denominators of 12 or less",
+                    "May involve regrouping"
+                  ],
+                  "action_verb": "determine",
+                  "examples": [],
+                  "constraints": ["denominators of 12 or less", "may involve regrouping"]
+                }
+              ],
+              "tags": ["fractions", "mixed_numbers", "addition", "subtraction", "estimation", "computation"],
+              "cognitive_level": "apply",
+              "suggested_question_types": ["problem_solving", "computational", "multiple_choice"]
+            }
+          ]
+        }
+      ],
+      "_extraction_metadata": {
+        "source_file": "5-2023-Approved-Math-SOL.docx",
+        "model": "gpt-4o-mini",
+        "temperature": 0.1,
+        "tokens_used": 9214,
+        "prompt_tokens": 7103,
+        "completion_tokens": 2111
+      }
+    },
+    {
+      "document_metadata": {
+        "title": "Mathematics Standards of Learning for Virginia Public Schools",
+        "grade_level": "Algebra 1",
+        "course_name": "Algebra 1",
+        "year": "2023",
+        "state": "Virginia"
+      },
+      "introduction": "The Algebra 1 Standards of Learning emphasize the understanding of and proficiency with essential algebraic concepts and skills in a variety of contexts. Instruction should build on prior knowledge and provide students with opportunities to develop a deep understanding.",
+      "strands": [
+        {
+          "strand_code": "EO",
+          "strand_name": "Expressions and Operations",
+          "standards": [
+            {
+              "standard_id": "A.EO.1",
+              "standard_statement": "The student will represent verbal quantitative situations algebraically and evaluate these expressions for given replacement values of the variables.",
+              "knowledge_and_skills": [
+                {
+                  "objective_text": "Translate verbal quantitative situations into algebraic expressions and vice versa.",
+                  "sub_objectives": [],
+                  "action_verb": "translate",
+                  "examples": ["'five more than a number' becomes x + 5"],
+                  "constraints": []
+                },
+                {
+                  "objective_text": "Evaluate algebraic expressions for given replacement values of the variables.",
+                  "sub_objectives": [],
+                  "action_verb": "evaluate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ],
+              "tags": ["algebraic_expressions", "verbal_expressions", "evaluation", "variables", "translation"],
+              "cognitive_level": "apply",
+              "suggested_question_types": ["multiple_choice", "short_answer", "problem_solving"]
+            }
+          ]
+        },
+        {
+          "strand_code": "EI",
+          "strand_name": "Equations and Inequalities",
+          "standards": [
+            {
+              "standard_id": "A.EI.1",
+              "standard_statement": "The student will solve multi-step linear equations in one variable algebraically.",
+              "knowledge_and_skills": [
+                {
+                  "objective_text": "Solve multi-step linear equations in one variable.",
+                  "sub_objectives": [],
+                  "action_verb": "solve",
+                  "examples": ["3x + 5 = 20", "2(x - 4) = 10"],
+                  "constraints": ["one variable", "linear equations"]
+                },
+                {
+                  "objective_text": "Confirm solutions to linear equations.",
+                  "sub_objectives": [],
+                  "action_verb": "confirm",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "objective_text": "Identify equations with one solution, no solution, or infinitely many solutions.",
+                  "sub_objectives": [],
+                  "action_verb": "identify",
+                  "examples": ["2x = 2x (infinitely many)", "2x = 2x + 1 (no solution)"],
+                  "constraints": []
+                }
+              ],
+              "tags": ["linear_equations", "solving_equations", "multi-step", "algebraic_methods"],
+              "cognitive_level": "apply",
+              "suggested_question_types": ["problem_solving", "computational", "multiple_choice"]
+            }
+          ]
+        },
+        {
+          "strand_code": "F",
+          "strand_name": "Functions",
+          "standards": [
+            {
+              "standard_id": "A.F.1",
+              "standard_statement": "The student will investigate and explain characteristics of quadratic functions.",
+              "knowledge_and_skills": [
+                {
+                  "objective_text": "Determine whether a relationship is a function given a set of data.",
+                  "sub_objectives": [],
+                  "action_verb": "determine",
+                  "examples": ["tables", "graphs", "mappings"],
+                  "constraints": []
+                },
+                {
+                  "objective_text": "Identify characteristics of quadratic functions from graphs, tables, or equations.",
+                  "sub_objectives": [
+                    "Vertex",
+                    "Axis of symmetry",
+                    "Zeros/x-intercepts",
+                    "y-intercept",
+                    "Domain and range"
+                  ],
+                  "action_verb": "identify",
+                  "examples": [],
+                  "constraints": ["quadratic functions"]
+                },
+                {
+                  "objective_text": "Sketch the graph of a quadratic function.",
+                  "sub_objectives": [],
+                  "action_verb": "sketch",
+                  "examples": [],
+                  "constraints": []
+                }
+              ],
+              "tags": ["quadratic_functions", "graphing", "function_characteristics", "vertex", "parabolas"],
+              "cognitive_level": "analyze",
+              "suggested_question_types": ["graphical", "multiple_choice", "short_answer", "problem_solving"]
+            }
+          ]
+        }
+      ],
+      "_extraction_metadata": {
+        "source_file": "9-Alg1-2023-Approved-Math-SOL.docx",
+        "model": "gpt-4o-mini",
+        "temperature": 0.1,
+        "tokens_used": 7870,
+        "prompt_tokens": 5692,
+        "completion_tokens": 2178
+      }
+    }
+  ]
+}

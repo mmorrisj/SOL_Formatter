@@ -1,0 +1,612 @@
+{
+  "document": {
+    "metadata": {
+      "title": "Mathematics Standards of Learning for Virginia Public Schools",
+      "grade_level": "7",
+      "course_name": "Mathematics",
+      "year": 2023
+    },
+    "introduction": "The Grade 7 Standards continue to emphasize the foundations of Algebra. The Standards address the representation and comparison of rational numbers using exponents, scientific notation, and square roots. Students continue to develop proficiency in operations with rational numbers and solving problems in context by expanding their study from Grade 6. Students will build on the concept of ratios to solve problems involving proportional reasoning, which is emphasized throughout the Grade 7 Standards. Students will solve problems involving volume and surface area and focus on the relationships among the properties of quadrilaterals. In addition, students will continue to apply the data cycle and extend the application to histograms. Probability is investigated through comparing experimental results to theoretical expectations. Students continue to develop their understanding of solving linear equations and inequalities in one variable by applying the properties of real numbers. Students investigate proportional relationships and begin to develop a concept of slope as rate of change. The building of mathematical knowledge can be enhanced by using technology tools when used strategically and to complement further learning during grades 6-8. The use of appropriate technology and the interpretation of the results from applying technology tools must be an integral part of teaching, learning, and assessment. However, facility in the use of technology shall not be regarded as a substitute for a student’s understanding of quantitative and algebraic concepts or for proficiency in basic computations. Students must learn to use a variety of methods and tools to compute, including paper and pencil, mental arithmetic, estimation, and the use of instructional technology. Graphing utilities, spreadsheets, calculators, dynamic applications, and other technological tools support mathematical problem solving, reasoning, and justification, as well as application in science, engineering, business and industry, government, and practical affairs. In grades 6-8, the acquisition of specialized mathematical vocabulary and language builds as students continue to deepen their understanding of mathematics through communication and problem solving. Problem solving increases in complexity as students progress into middle and high school. Students continue to build upon their mathematical knowledge by participating in problem-solving activities that promote higher levels of critical thinking and analysis.",
+    "strands": [
+      {
+        "code": "NS",
+        "name": "Number and Number Sense",
+        "standards": [
+          {
+            "id": "7.NS.1",
+            "statement": "The student will investigate and describe the concept of exponents for powers of ten and compare and order numbers greater than zero written in scientific notation.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Investigate and describe powers of 10 with negative exponents by examining patterns.",
+                  "action_verb": "Investigate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Represent a power of 10 with a negative exponent in fraction and decimal form.",
+                  "action_verb": "Represent",
+                  "examples": [
+                    "fraction",
+                    "decimal"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Convert between numbers greater than 0 written in scientific notation and decimals.",
+                  "action_verb": "Convert",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Compare and order no more than four numbers greater than 0 written in scientific notation.",
+                  "action_verb": "Compare",
+                  "examples": [],
+                  "constraints": [
+                    "no more than four"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.NS.2",
+            "statement": "The student will reason and use multiple strategies to compare and order rational numbers.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Use multiple strategies (e.g., benchmarks, number line, equivalency) to compare (using symbols <, >, =) and order (a set of no more than four) rational numbers expressed as integers, fractions (proper or improper), mixed numbers, decimals, and percents.",
+                  "action_verb": "Use",
+                  "examples": [
+                    "benchmarks",
+                    "number line",
+                    "equivalency"
+                  ],
+                  "constraints": [
+                    "no more than four"
+                  ]
+                },
+                {
+                  "text": "Justify solutions orally, in writing or with a model.",
+                  "action_verb": "Justify",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.NS.3",
+            "statement": "The student will recognize and describe the relationship between square roots and perfect squares.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Determine the positive square root of a perfect square from 0 to 400.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": [
+                    "from 0 to 400"
+                  ]
+                },
+                {
+                  "text": "Describe the relationship between square roots and perfect squares.",
+                  "action_verb": "Describe",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "CE",
+        "name": "Computation and Estimation",
+        "standards": [
+          {
+            "id": "7.CE.1",
+            "statement": "The student will estimate, solve, and justify solutions to multistep contextual problems involving operations with rational numbers.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Estimate, solve, and justify solutions to contextual problems involving addition, subtraction, multiplication, and division with rational numbers expressed as integers, fractions (proper or improper), mixed numbers, and decimals.",
+                  "action_verb": "Estimate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.CE.2",
+            "statement": "The student will solve problems, including those in context, involving proportional relationships.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Given a proportional relationship between two quantities, create and use a ratio table to determine missing values.",
+                  "action_verb": "Create",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Write and solve a proportion that represents a proportional relationship between two quantities to find a missing value, including problems in context.",
+                  "action_verb": "Write",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Apply proportional reasoning to solve problems in context, including converting units of measurement, when given the conversion factor.",
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Estimate and determine the percentage of a given whole number, including but not limited to the use of benchmark percentages.",
+                  "action_verb": "Estimate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "MG",
+        "name": "Measurement and Geometry",
+        "standards": [
+          {
+            "id": "7.MG.1",
+            "statement": "The student will investigate and determine the volume formula for right cylinders and the surface area formulas for rectangular prisms and right cylinders and apply the formulas in context.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Develop the formulas for determining the volume of right cylinders and solve problems, including those in contextual situations, using concrete objects, diagrams, and formulas.",
+                  "action_verb": "Develop",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Develop the formulas for determining the surface area of rectangular prisms and right cylinders and solve problems, including those in contextual situations, using concrete objects, two-dimensional diagrams, nets, and formulas.",
+                  "action_verb": "Develop",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine if a problem in context, involving a rectangular prism or right cylinder, represents the application of volume or surface area.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Describe how the volume of a rectangular prism is affected when one measured attribute is multiplied by a factor of , , , 2, 3, or 4, including those in contextual situations.",
+                  "action_verb": "Describe",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Describe how the surface area of a rectangular prism is affected when one measured attribute is multiplied by a factor of  or 2, including those in contextual situations.",
+                  "action_verb": "Describe",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.MG.2",
+            "statement": "The student will solve problems and justify relationships of similarity using proportional reasoning.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Identify corresponding congruent angles of similar quadrilaterals and triangles, through the use of geometric markings.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Identify corresponding sides of similar quadrilaterals and triangles.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given two similar quadrilaterals or triangles, write similarity statements using symbols.",
+                  "action_verb": "Write",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Write proportions to express the relationships between the lengths of corresponding sides of similar quadrilaterals and triangles.",
+                  "action_verb": "Write",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Recognize and justify if two quadrilaterals or triangles are similar using the ratios of corresponding side lengths.",
+                  "action_verb": "Recognize",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve a proportion to determine a missing side length of similar quadrilaterals or triangles.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given angle measures in a quadrilateral or triangle, determine unknown angle measures in a similar quadrilateral or triangle.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Apply proportional reasoning to solve problems in context including scale drawings.",
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": [
+                    "denominators no greater than 12",
+                    "decimals no less than tenths"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.MG.3",
+            "statement": "The student will compare and contrast quadrilaterals based on their properties and determine unknown side lengths and angle measures of quadrilaterals.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Compare and contrast properties of the following quadrilaterals: parallelogram, rectangle, square, rhombus, and trapezoid.",
+                  "action_verb": "Compare",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Sort and classify quadrilaterals as parallelograms, rectangles, trapezoids, rhombi, and/or squares based on their properties.",
+                  "action_verb": "Sort",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given a diagram, determine an unknown angle measure in a quadrilateral, using properties of quadrilaterals.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given a diagram, determine an unknown side length in a quadrilateral using properties of quadrilaterals.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.MG.4",
+            "statement": "The student will apply dilations of polygons in the coordinate plane.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Given a preimage in the coordinate plane, identify the coordinates of the image of a polygon that has been dilated.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": [
+                    "scale factors limited to , , 2, 3, or 4"
+                  ]
+                },
+                {
+                  "text": "Sketch the image of a dilation of a polygon limited to a scale factor of , , 2, 3, or 4.",
+                  "action_verb": "Sketch",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Identify and describe dilations in context including, but not limited to, scale drawings and graphic design.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PS",
+        "name": "Probability and Statistics",
+        "standards": [
+          {
+            "id": "7.PS.1",
+            "statement": "The student will use statistical investigation to determine the probability of an event and investigate and describe the difference between the experimental and theoretical probability.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Determine the theoretical probability of an event.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Given the results of a statistical investigation, determine the experimental probability of an event.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Describe changes in the experimental probability as the number of trials increases.",
+                  "action_verb": "Describe",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Investigate and describe the difference between the probability of an event found through experiment or simulation versus the theoretical probability of that same event.",
+                  "action_verb": "Investigate",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.PS.2",
+            "statement": "The student will apply the data cycle (formulate questions; collect or acquire data; organize and represent data; and analyze data and communicate results) with a focus on histograms.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Formulate questions that require the collection or acquisition of data with a focus on histograms.",
+                  "action_verb": "Formulate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine the data needed to answer a formulated question and collect the data (or acquire existing data) using various methods (e.g., observations, measurement, surveys, experiments).",
+                  "action_verb": "Determine",
+                  "examples": [
+                    "observations",
+                    "measurement",
+                    "surveys",
+                    "experiments"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Determine how sample size and randomness will ensure that the data collected is a sample that is representative of a larger population.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Organize and represent numerical data using histograms with and without the use of technology.",
+                  "action_verb": "Organize",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Investigate and explain how using different intervals could impact the representation of the data in a histogram.",
+                  "action_verb": "Investigate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Compare data represented in histograms with the same data represented in other graphs, including but not limited to line plots (dot plots), circle graphs, and stem-and-leaf plots, and justify which graphical representation best represents the data.",
+                  "action_verb": "Compare",
+                  "examples": [
+                    "line plots",
+                    "circle graphs",
+                    "stem-and-leaf plots"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Analyze data represented in histograms by making observations and drawing conclusions.",
+                  "action_verb": "Analyze",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "code": "PFA",
+        "name": "Patterns, Functions, and Algebra",
+        "standards": [
+          {
+            "id": "7.PFA.1",
+            "statement": "The student will investigate and analyze proportional relationships between two quantities using verbal descriptions, tables, equations in y = mx form, and graphs, including problems in context.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Determine the slope, m, as the rate of change in a proportional relationship between two quantities given a table of values, graph, or contextual situation and write an equation in the form y = mx to represent the direct variation relationship.",
+                  "action_verb": "Determine",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Identify and describe a line with a slope that is positive, negative, or zero (0), given a graph.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Graph a line representing a proportional relationship, between two quantities given an ordered pair on the line and the slope, m, as rate of change.",
+                  "action_verb": "Graph",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Graph a line representing a proportional relationship between two quantities given the equation of the line in the form y = mx, where m represents the slope as rate of change.",
+                  "action_verb": "Graph",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Make connections between and among representations of a proportional relationship between two quantities using problems in context, tables, equations, and graphs.",
+                  "action_verb": "Make",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.PFA.2",
+            "statement": "The student will simplify numerical expressions, simplify and generate equivalent algebraic expressions in one variable, and evaluate algebraic expressions for given replacement values of the variables.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Use the order of operations and apply the properties of real numbers to simplify numerical expressions.",
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": [
+                    "exponents limited to 1, 2, 3, or 4",
+                    "bases limited to positive integers"
+                  ]
+                },
+                {
+                  "text": "Represent equivalent algebraic expressions in one variable using concrete manipulatives and pictorial representations (e.g., colored chips, algebra tiles).",
+                  "action_verb": "Represent",
+                  "examples": [
+                    "colored chips",
+                    "algebra tiles"
+                  ],
+                  "constraints": []
+                },
+                {
+                  "text": "Simplify and generate equivalent algebraic expressions in one variable by applying the order of operations and properties of real numbers.",
+                  "action_verb": "Simplify",
+                  "examples": [],
+                  "constraints": [
+                    "only linear and numeric terms"
+                  ]
+                },
+                {
+                  "text": "Use the order of operations and apply the properties of real numbers to evaluate algebraic expressions for given replacement values of the variables.",
+                  "action_verb": "Use",
+                  "examples": [],
+                  "constraints": [
+                    "exponents limited to 1, 2, 3, or 4",
+                    "bases limited to positive integers",
+                    "limit the number of replacements to no more than three per expression"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.PFA.3",
+            "statement": "The student will write and solve two-step linear equations in one variable, including problems in context, that require the solution of a two-step linear equation in one variable.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Represent and solve two-step linear equations in one variable using a variety of concrete materials and pictorial representations.",
+                  "action_verb": "Represent",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Apply properties of real numbers and properties of equality to solve two-step linear equations in one variable.",
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Confirm algebraic solutions to linear equations in one variable.",
+                  "action_verb": "Confirm",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Write a two-step linear equation in one variable to represent a verbal situation, including those in context.",
+                  "action_verb": "Write",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Create a verbal situation in context given a two-step linear equation in one variable.",
+                  "action_verb": "Create",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve problems in context that require the solution of a two-step linear equation.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "7.PFA.4",
+            "statement": "The student will write and solve one- and two-step linear inequalities in one variable, including problems in context, that require the solution of a one- and two-step linear inequality in one variable.",
+            "knowledge_and_skills": {
+              "objectives": [
+                {
+                  "text": "Apply properties of real numbers and the addition, subtraction, multiplication, and division properties of inequality to solve one- and two-step inequalities in one variable.",
+                  "action_verb": "Apply",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Investigate and explain how the solution set of a linear inequality is affected by multiplying or dividing both sides of the inequality statement by a rational number less than zero.",
+                  "action_verb": "Investigate",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Represent solutions to one- or two-step linear inequalities in one variable algebraically and graphically using a number line.",
+                  "action_verb": "Represent",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Write one- or two-step linear inequalities in one variable to represent a verbal situation, including those in context.",
+                  "action_verb": "Write",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Create a verbal situation in context given a one or two-step linear inequality in one variable.",
+                  "action_verb": "Create",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Solve problems in context that require the solution of a one- or two-step inequality.",
+                  "action_verb": "Solve",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Identify a numerical value(s) that is part of the solution set of a given one- or two-step linear inequality in one variable.",
+                  "action_verb": "Identify",
+                  "examples": [],
+                  "constraints": []
+                },
+                {
+                  "text": "Describe the differences and similarities between solving linear inequalities in one variable and linear equations in one variable.",
+                  "action_verb": "Describe",
+                  "examples": [],
+                  "constraints": []
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "7-2023-Approved-Math-SOL.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 8937,
+    "prompt_tokens": 3772,
+    "completion_tokens": 5165
+  }
+}

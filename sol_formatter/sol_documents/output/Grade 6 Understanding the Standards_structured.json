@@ -1,0 +1,1012 @@
+{
+  "document": {
+    "title": "Understanding the Standards",
+    "grade_level": "6",
+    "course_name": "English",
+    "year": 2023,
+    "introduction": "At the sixth-grade level, the student will demonstrate the ability to work with diverse teams working respectfully with others, participating both as a facilitator and contributor. There is a continued emphasis on text reading and fluency as the student begins to read and comprehend more complex literary and informational texts. In sixth grade, the student will take a deeper look at plot development and be able to explain how an author’s style impacts the reader’s interpretation of a text. There is an increased emphasis on informational reading by creating objective summaries and drawing inferences using textual evidence. These critical-thinking skills are foundational to technical reading and writing and are transferable across content areas. At the sixth-grade level, the student will continue to develop as both reader and writer. The student will also plan, draft, revise, and edit writing in a variety of forms to include multi-paragraph compositions with an emphasis on the development of elaboration and unity. Additionally, the student will be introduced to writing thesis statements. The student will be expected to have greater control over the conventions of writing. In addition, the student will evaluate the validity and authenticity of texts, and will research, organize, evaluate, and communicate information. The student will also learn to cite both primary and secondary sources and follow ethical and legal guidelines for gathering and using information. These skills are necessary for success in future postsecondary education and workplace environments.",
+    "strands": [
+      {
+        "code": "DSR",
+        "name": "Developing Skilled Readers and Building Reading Stamina",
+        "standards": [
+          {
+            "id": "6.DSR",
+            "statement": "The student will build knowledge and comprehension skills from reading a range of challenging, content-rich texts. This includes fluently reading and gathering evidence from grade-level complex texts, reading widely on topics to gain purposeful knowledge and vocabulary, and using reading strategies when comprehension breaks down.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Read a variety of grade-level complex text with accuracy, automaticity, appropriate rate, and meaningful expression in successive readings to support comprehension.",
+                "action_verb": "Read",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "problem_solving",
+                  "computational"
+                ]
+              },
+              {
+                "objective": "Proficiently read and comprehend a variety of literary and informational texts that exhibit complexity at the lower range of the grade 6-8 band.",
+                "action_verb": "Read",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "multiple_choice",
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "When responding to text through discussion and/or writing, draw several pieces of evidence from grade-level complex texts to support claims, conclusions, and inferences.",
+                "action_verb": "Draw",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "analyze",
+                "suggested_question_types": [
+                  "short_answer",
+                  "matching"
+                ]
+              },
+              {
+                "objective": "Regularly engage in reading a series of conceptually related texts organized around topics of study to build knowledge and vocabulary.",
+                "action_verb": "Engage",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer",
+                  "problem_solving"
+                ]
+              },
+              {
+                "objective": "Use reading strategies as needed to aid and monitor comprehension when encountering challenging sections of text.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer",
+                  "problem_solving"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "RV",
+        "name": "Reading and Vocabulary",
+        "standards": [
+          {
+            "id": "6.RV",
+            "statement": "The student will systematically build vocabulary and word knowledge based on grade six content and texts.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Develop and accurately use general academic language and content-specific vocabulary by listening to, reading, and discussing a variety of grade-six texts and topics.",
+                "action_verb": "Develop",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer",
+                  "multiple_choice"
+                ]
+              },
+              {
+                "objective": "Use context and sentence structure to determine multiple meanings of words and clarify the meanings of unfamiliar words and phrases.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer",
+                  "problem_solving"
+                ]
+              },
+              {
+                "objective": "Apply knowledge of Greek and Latin roots and affixes to predict the meaning of unfamiliar words.",
+                "action_verb": "Apply",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "multiple_choice",
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Use the relationship between particular words including synonyms and antonyms to better understand each word.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "matching",
+                  "multiple_choice"
+                ]
+              },
+              {
+                "objective": "Explain the construction and meaning of figurative language, including simile, hyperbole, metaphor, and personification.",
+                "action_verb": "Explain",
+                "examples": [
+                  "simile",
+                  "hyperbole",
+                  "metaphor",
+                  "personification"
+                ],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Clarify the meaning of an unknown word or select the applicable definition of a word from a text by using word reference materials.",
+                "action_verb": "Clarify",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "multiple_choice",
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Use general and specialized word-reference materials, print and digital, to identify word origins and derivations and pronunciation.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer",
+                  "problem_solving"
+                ]
+              },
+              {
+                "objective": "Use newly learned words and phrases in multiple contexts, including in students’ discussions and speaking and writing activities.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer",
+                  "multiple_choice"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "RL",
+        "name": "Reading Literary Text",
+        "standards": [
+          {
+            "id": "6.RL",
+            "statement": "The student will use textual evidence to demonstrate comprehension and build knowledge from a variety of grade-level complex literary texts read to include short stories, literary nonfiction, novels, poetry, and drama.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Summarize texts, including determining the central theme of stories, plays, or poems, and how they are conveyed through specific details.",
+                "action_verb": "Summarize",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Describe plot developments in stories and dramas by examining the exposition, initiating event, central conflict, rising action, climax, falling action, and resolution.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Differentiate between internal and external conflicts and explain how they impact character development and plot.",
+                "action_verb": "Differentiate",
+                "examples": [
+                  "individual vs. Individual",
+                  "individual vs. Nature",
+                  "individual vs. Society",
+                  "individual vs. Technology",
+                  "individual vs. Self"
+                ],
+                "constraints": [],
+                "cognitive_level": "analyze",
+                "suggested_question_types": [
+                  "short_answer",
+                  "matching"
+                ]
+              },
+              {
+                "objective": "Explain how static and dynamic characters impact the plot.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Explain the role of the protagonist and antagonist on plot events.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6.RL.2",
+            "statement": "Describe the poetic elements in prose and poetry and their intended impact on the reader.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Describe the poetic elements in prose and poetry (e.g., rhyme, rhythm, repetition, alliteration, and onomatopoeia) and their intended impact on the reader.",
+                "action_verb": "Describe",
+                "examples": [
+                  "rhyme",
+                  "rhythm",
+                  "repetition",
+                  "alliteration",
+                  "onomatopoeia"
+                ],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Explain elements of author’s style as purposeful choices to develop tone.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Explain how an author develops the point of view of the narrator or speaker in a text and influences how events are described.",
+                "action_verb": "Explain",
+                "examples": [
+                  "first-person",
+                  "third-person limited",
+                  "third-person omniscient"
+                ],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6.RL.3",
+            "statement": "Describe how the interactions between individuals, settings, events, and ideas within a text influence one another.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Describe how the interactions between individuals, settings, events, and ideas within a text influence one another.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Compare and contrast details in two or more paired literary fiction and nonfiction texts on the same topic or with similar themes.",
+                "action_verb": "Compare",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "analyze",
+                "suggested_question_types": [
+                  "matching",
+                  "short_answer"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "RI",
+        "name": "Reading Informational Text",
+        "standards": [
+          {
+            "id": "6.RI",
+            "statement": "The student will use textual evidence to demonstrate comprehension and build knowledge from grade-level complex informational texts read.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Summarize texts, including their main idea(s) and how they are developed with specific details.",
+                "action_verb": "Summarize",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Describe how a key individual, event or idea is introduced, illustrated, and elaborated in historical, scientific or technical texts.",
+                "action_verb": "Describe",
+                "examples": [
+                  "examples",
+                  "anecdotes"
+                ],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Trace the argument and specific claims in texts, distinguishing claims that are supported by evidence and reasons, from claims that are not.",
+                "action_verb": "Trace",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "analyze",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6.RI.2",
+            "statement": "Determine the purpose of text features and explain how an author’s word choice, organizational pattern, and language structure convey the author’s purpose.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Determine the purpose of text features.",
+                "action_verb": "Determine",
+                "examples": [
+                  "boldface",
+                  "italics",
+                  "graphics",
+                  "headings"
+                ],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Explain how an author’s word choice, organizational pattern, and language structure convey the author’s purpose.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Explain how an author establishes and conveys a perspective or purpose in an informational text.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6.RI.3",
+            "statement": "Describe ideas within and between selections including how specific sentences, paragraphs, or sections contribute to the development of ideas.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Describe ideas within and between selections including how specific sentences, paragraphs, or sections contribute to the development of ideas.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Compare and contrast one author’s presentation of ideas or events with another’s identifying where the texts agree or disagree.",
+                "action_verb": "Compare",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "analyze",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "W",
+        "name": "Writing",
+        "standards": [
+          {
+            "id": "6.W",
+            "statement": "The student will compose various works for diverse audiences and purposes, linked to grade six content and texts.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Write narratives to entertain, to share a personal experience, or to alter an existing story that uses narrative techniques to develop the character, event(s), and experience(s).",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "create",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Write expository texts to examine a topic or concept, logically conveying ideas and information using text structures such as description, comparison, or cause-effect to create cohesion.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "create",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Write persuasively about topics or texts, including media messages, supporting well-defined claims with clear reasons and evidence that are logically grouped.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "create",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Write reflectively in response to text(s) read to demonstrate thinking with details, examples, and other evidence from the text(s).",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "create",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6.W.2",
+            "statement": "Generate and organize ideas using the writing process to develop multi-paragraph texts.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Compose a thesis statement that focuses the topic and introduces the piece clearly.",
+                "action_verb": "Compose",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "create",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Establish a central idea incorporating evidence and maintaining an organized structure to fit the form and topic.",
+                "action_verb": "Establish",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "create",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Elaborate and support ideas, using relevant facts, definitions, details, quotations, and/or examples.",
+                "action_verb": "Elaborate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "create",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Use transitions to show relationships between ideas, signal a shift or change in the writer’s thoughts, and make sentences clearer.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "create",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Select vocabulary and information to enhance the central idea, tone, and voice.",
+                "action_verb": "Select",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "create",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Expand and embed ideas to create sentence variety.",
+                "action_verb": "Expand",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "create",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Provide a concluding statement or section.",
+                "action_verb": "Provide",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "create",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6.W.3",
+            "statement": "Revise writing for clarity of content, word choice, sentence variety, and transition among paragraphs.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Revise writing for clarity of content, word choice, sentence variety, and transition among paragraphs.",
+                "action_verb": "Revise",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Self-and peer-edit for capitalization, spelling, punctuation, sentence structure, paragraphing, and Standard English.",
+                "action_verb": "Self-and peer-edit",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "LU",
+        "name": "Language Usage",
+        "standards": [
+          {
+            "id": "6.LU",
+            "statement": "The student will use the conventions of Standard English when speaking and writing differentiating between contexts that call for formal English and situations where informal discourse is more appropriate.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Construct simple, compound, and complex sentences to communicate ideas clearly and add variety to writing.",
+                "action_verb": "Construct",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Use pronoun-antecedent agreement, including indefinite and reflexive pronouns when speaking and writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Use adverbs to modify verbs, adjectives, and other adverbs to express manner, place, time, frequency, degree, and level of certainty precisely when speaking and writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Use phrases and clauses within a sentence and apply appropriate subject-verb agreement when speaking and writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Form and use often confusing verbs correctly in sentences.",
+                "action_verb": "Form",
+                "examples": [
+                  "lie/lay",
+                  "sit/set",
+                  "rise/raise"
+                ],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6.LU.2",
+            "statement": "Construct complete sentences with appropriate punctuation, avoiding comma splices and run-ons in writing.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Construct complete sentences with appropriate punctuation, avoiding comma splices and run-ons in writing.",
+                "action_verb": "Construct",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Use and punctuate dialogue and direct quotations appropriately in writing.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Recognize and consistently spell frequently used words accurately.",
+                "action_verb": "Recognize",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "remember",
+                "suggested_question_types": [
+                  "multiple_choice"
+                ]
+              },
+              {
+                "objective": "Consult reference materials to check and correct spelling.",
+                "action_verb": "Consult",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "C",
+        "name": "Communication and Multimodal Literacies",
+        "standards": [
+          {
+            "id": "6.C",
+            "statement": "The student will develop effective oral communication and collaboration skills to build a community of learners that process, understand, and interpret content together.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Facilitate and contribute to a range of sustained collaborative discussions with diverse partners on grade six topics and texts.",
+                "action_verb": "Facilitate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Listen actively through verbal and nonverbal communication and using agreed-upon discussion rules.",
+                "action_verb": "Listen",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Work respectfully by building on others’ ideas and showing value for others’ ideas and contributions.",
+                "action_verb": "Work",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Ask relevant questions to clarify others’ perspectives.",
+                "action_verb": "Ask",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Communicate agreement or tactful disagreement with others’ ideas, using carefully constructed responses.",
+                "action_verb": "Communicate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Paraphrase and summarize key ideas being discussed by using ample evidence, examples, or details to support opinions and conclusions.",
+                "action_verb": "Paraphrase",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Evaluate the effectiveness of participant interactions and one’s own contributions to the collaborative work.",
+                "action_verb": "Evaluate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "evaluate",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6.C.2",
+            "statement": "Report orally on a topic or present an opinion.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Clearly communicate information in an organized or succinct manner.",
+                "action_verb": "Communicate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Provide evidence to support the main idea.",
+                "action_verb": "Provide",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Use language, vocabulary, and style appropriate to the audience, topic, and purpose.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Use verbal communication skills, such as volume, tone, and enunciation to enhance the overall message.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Use nonverbal skills, such as proper posture and stance, gestures, and eye movement to enhance the overall message.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Encourage audience participation through planned interactions.",
+                "action_verb": "Encourage",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Reference source material as appropriate during the presentation.",
+                "action_verb": "Reference",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6.C.3",
+            "statement": "Use media and visual literacy skills to select, organize, and create multimodal content.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Use media and visual literacy skills to select, organize, and create multimodal content that articulates the purpose of the presentation.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Craft and publish audience-specific media messages that present claims and findings in a logical sequence.",
+                "action_verb": "Craft",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "create",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6.C.4",
+            "statement": "Interpret information presented in diverse media formats and explain how it contributes to the topic.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Interpret information presented in diverse media formats and explain how it contributes to the topic.",
+                "action_verb": "Interpret",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Explain how media messages are intentionally constructed to impact a specific audience.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "understand",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Explain the characteristics and analyze the effectiveness of a variety of media messages.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "analyze",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "R",
+        "name": "Research",
+        "standards": [
+          {
+            "id": "6.R",
+            "statement": "The student will conduct research and read a series of conceptually related texts on selected topics to build knowledge on grade-six content and texts, solve problems, and support cross-curricular learning.",
+            "knowledge_and_skills": [
+              {
+                "objective": "Formulate appropriately narrow questions about a research topic and refocus the inquiry when appropriate.",
+                "action_verb": "Formulate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Collect information from multiple sources, using search terms effectively.",
+                "action_verb": "Collect",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Organize and synthesize information from multiple sources evaluating the relevance, usefulness, validity, and credibility of each source.",
+                "action_verb": "Organize",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Develop notes that include important concepts and summaries, including quoting, summarizing, and paraphrasing research findings.",
+                "action_verb": "Develop",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Organize and share findings in formal and informal oral or written formats.",
+                "action_verb": "Organize",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Give credit for information quoted or paraphrased using standard citations.",
+                "action_verb": "Give",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              },
+              {
+                "objective": "Demonstrate ethical and responsible use of all sources, including the Internet, Artificial Intelligence (AI), and new technologies.",
+                "action_verb": "Demonstrate",
+                "examples": [],
+                "constraints": [],
+                "cognitive_level": "apply",
+                "suggested_question_types": [
+                  "short_answer"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_extraction_metadata": {
+    "source_file": "Grade 6 Understanding the Standards.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 17659,
+    "prompt_tokens": 10626,
+    "completion_tokens": 7033
+  }
+}

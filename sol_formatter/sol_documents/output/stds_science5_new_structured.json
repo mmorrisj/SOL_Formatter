@@ -1,0 +1,565 @@
+{
+  "document_metadata": {
+    "title": "Science Standards of Learning for Public Schools",
+    "grade_level": "5",
+    "course_name": "Science",
+    "year": 2023
+  },
+  "introduction": "The Science Standards of Learning for Virginia Public Schools identify academic content for essential components of the science curriculum at different grade levels. The content of the standards, in conjunction with effective instruction, provide a platform for creating scientifically literate students. The Science Standards of Learning reflect a vertical progression of content and practices. The Standards of Learning contain content strands or topics that progress in complexity as they are studied at various grade levels in grades K-5 and are represented indirectly throughout the middle and high school courses. These strands are Scientific and Engineering Practices, Force, Motion, and Energy, Matter, Living Systems and Processes, Earth and Space Systems, Earth Resources. Six critical components for achieving science literacy are 1) Goals; 2) Investigate and Understand; 3) Nature of Science; 4) Science and Engineering Practices; 5) K-12 Safety; and 6) Instructional Technology. These six components support the Profile of a Virginia Graduate and an integrated instructional approach that incorporates science, technology, engineering, and mathematics (STEM). It is imperative to science instruction that the local curriculum consider and address how these components are incorporated in the design of the K-12 science program.",
+  "strands": [
+    {
+      "strand_code": "SE",
+      "strand_name": "Scientific and Engineering Practices",
+      "standards": [
+        {
+          "standard_id": "5.1",
+          "standard_statement": "The student will demonstrate an understanding of scientific and engineering practices by asking questions and defining problems, planning and carrying out investigations, interpreting, analyzing, and evaluating data, constructing and critiquing conclusions and explanations, developing and using models, obtaining, evaluating, and communicating information.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Ask testable questions based on observations and predict reasonable outcomes based on patterns.",
+                "primary_action_verb": "Ask",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Develop hypotheses as cause-and-effect relationships.",
+                "primary_action_verb": "Develop",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Define design problems that can be solved through the development of an object, tool, process, or system.",
+                "primary_action_verb": "Define",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Collaboratively plan and conduct investigations to produce data.",
+                "primary_action_verb": "Collaboratively",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify independent variable, dependent variables, and constants.",
+                "primary_action_verb": "Identify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine data that should be collected to answer a testable question.",
+                "primary_action_verb": "Determine",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Take metric measurements using appropriate tools.",
+                "primary_action_verb": "Take",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use tools and/or materials to design and/or build a device that solves a specific problem.",
+                "primary_action_verb": "Use",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Represent and analyze data using tables and graphs.",
+                "primary_action_verb": "Represent",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Organize simple data sets to reveal patterns that suggest relationships.",
+                "primary_action_verb": "Organize",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Compare and contrast data collected by different groups and discuss similarities and differences in their findings.",
+                "primary_action_verb": "Compare",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use data to evaluate and refine design solutions.",
+                "primary_action_verb": "Use",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Construct and/or support arguments with evidence, data, and/or a model.",
+                "primary_action_verb": "Construct",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe how scientific ideas apply to design solutions.",
+                "primary_action_verb": "Describe",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Generate and compare multiple solutions to problems based on how well they meet the criteria and constraints.",
+                "primary_action_verb": "Generate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Develop models using an analogy, example, or abstract representation to describe a scientific principle or design solution.",
+                "primary_action_verb": "Develop",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify limitations of models.",
+                "primary_action_verb": "Identify",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Read and comprehend reading-level-appropriate texts and/or other reliable media.",
+                "primary_action_verb": "Read",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Communicate scientific information, design ideas, and/or solutions with others.",
+                "primary_action_verb": "Communicate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "FME",
+      "strand_name": "Force, Motion, and Energy",
+      "standards": [
+        {
+          "standard_id": "5.2",
+          "standard_statement": "The student will investigate and understand that energy can take many forms.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Energy is the ability to do work or to cause change.",
+                "primary_action_verb": "Investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "There are many different forms of energy.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Energy can be transformed.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Energy is conserved.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "5.3",
+          "standard_statement": "The student will investigate and understand that there is a relationship between force and energy of moving objects.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Moving objects have kinetic energy.",
+                "primary_action_verb": "Investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Motion is described by an object’s direction and speed.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Changes in motion are related to net force and mass.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "When objects collide, the contact forces transfer energy and can change objects’ motion.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Friction is a force that opposes motion.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "5.4",
+          "standard_statement": "The student will investigate and understand that electricity is transmitted and used in daily life.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Electricity flows easily through conductors but not insulators.",
+                "primary_action_verb": "Investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Electricity flows through closed circuits.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Static electricity can be generated by rubbing certain materials together.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Electrical energy can be transformed into radiant, mechanical, and thermal energy.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "A current flowing through a wire creates a magnetic field.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "5.5",
+          "standard_statement": "The student will investigate and understand that sound can be produced and transmitted.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Sound is produced when an object or substance vibrates.",
+                "primary_action_verb": "Investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Sound is the transfer of energy.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Different media transmit sound differently.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Sound waves have many uses and applications.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "5.6",
+          "standard_statement": "The student will investigate and understand that visible light has certain characteristics and behaves in predictable ways.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Visible light is radiant energy that moves in transverse waves.",
+                "primary_action_verb": "Investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "The visible spectrum includes light with different wavelengths.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Matter influences the path of light.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Radiant energy can be transformed into thermal, mechanical, and electrical energy.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "M",
+      "strand_name": "Matter",
+      "standards": [
+        {
+          "standard_id": "5.7",
+          "standard_statement": "The student will investigate and understand that matter has properties and interactions.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Matter is composed of atoms.",
+                "primary_action_verb": "Investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Substances can be mixed together without changes in their physical properties.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Energy has an effect on the phases of matter.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "ESS",
+      "strand_name": "Earth and Space Systems",
+      "standards": [
+        {
+          "standard_id": "5.8",
+          "standard_statement": "The student will investigate and understand that Earth constantly changes.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Earth’s internal energy causes movement of material within the Earth.",
+                "primary_action_verb": "Investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Plate tectonics describe movement of the crust.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "The rock cycle models the transformation of rocks.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Processes such as weathering, erosion, and deposition change the surface of the Earth.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Fossils and geologic patterns provide evidence of Earth’s change.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "ER",
+      "strand_name": "Earth Resources",
+      "standards": [
+        {
+          "standard_id": "5.9",
+          "standard_statement": "The student will investigate and understand that the conservation of energy resources is important.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Some sources of energy are considered renewable and others are not.",
+                "primary_action_verb": "Investigate",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Individuals and communities have means of conserving both energy and matter.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Advances in technology improve the ability to transfer and transform energy.",
+                "primary_action_verb": "Understand",
+                "sub_objectives": [],
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "scientific practices",
+    "engineering practices",
+    "energy",
+    "force",
+    "motion",
+    "electricity",
+    "sound",
+    "light",
+    "matter",
+    "earth systems",
+    "earth resources",
+    "conservation"
+  ],
+  "cognitive_levels": [
+    {
+      "level": "remember",
+      "objectives": [
+        "Identify independent variable, dependent variables, and constants.",
+        "Read and comprehend reading-level-appropriate texts and/or other reliable media."
+      ]
+    },
+    {
+      "level": "understand",
+      "objectives": [
+        "Energy is the ability to do work or to cause change.",
+        "There are many different forms of energy.",
+        "Energy can be transformed.",
+        "Energy is conserved.",
+        "Moving objects have kinetic energy.",
+        "Motion is described by an object’s direction and speed.",
+        "Changes in motion are related to net force and mass.",
+        "When objects collide, the contact forces transfer energy and can change objects’ motion.",
+        "Friction is a force that opposes motion.",
+        "Electricity flows through closed circuits.",
+        "Static electricity can be generated by rubbing certain materials together.",
+        "Electrical energy can be transformed into radiant, mechanical, and thermal energy.",
+        "A current flowing through a wire creates a magnetic field.",
+        "Sound is the transfer of energy.",
+        "Different media transmit sound differently.",
+        "Sound waves have many uses and applications.",
+        "Visible light is radiant energy that moves in transverse waves.",
+        "The visible spectrum includes light with different wavelengths.",
+        "Matter influences the path of light.",
+        "Radiant energy can be transformed into thermal, mechanical, and electrical energy.",
+        "Substances can be mixed together without changes in their physical properties.",
+        "Energy has an effect on the phases of matter.",
+        "Plate tectonics describe movement of the crust.",
+        "The rock cycle models the transformation of rocks.",
+        "Processes such as weathering, erosion, and deposition change the surface of the Earth.",
+        "Fossils and geologic patterns provide evidence of Earth’s change.",
+        "Some sources of energy are considered renewable and others are not.",
+        "Individuals and communities have means of conserving both energy and matter.",
+        "Advances in technology improve the ability to transfer and transform energy."
+      ]
+    },
+    {
+      "level": "apply",
+      "objectives": [
+        "Use tools and/or materials to design and/or build a device that solves a specific problem.",
+        "Use data to evaluate and refine design solutions.",
+        "Communicate scientific information, design ideas, and/or solutions with others."
+      ]
+    },
+    {
+      "level": "analyze",
+      "objectives": [
+        "Compare and contrast data collected by different groups and discuss similarities and differences in their findings.",
+        "Generate and compare multiple solutions to problems based on how well they meet the criteria and constraints."
+      ]
+    }
+  ],
+  "suggested_question_types": {
+    "identify": "multiple_choice, matching",
+    "solve": "problem_solving, computational",
+    "compare": "matching, short_answer",
+    "represent": "graphical, short_answer",
+    "explain": "short_answer",
+    "true_false": "verification"
+  },
+  "_extraction_metadata": {
+    "source_file": "stds_science5_new.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 7979,
+    "prompt_tokens": 3806,
+    "completion_tokens": 4173
+  }
+}

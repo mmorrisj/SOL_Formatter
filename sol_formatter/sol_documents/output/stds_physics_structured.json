@@ -1,0 +1,218 @@
+{
+  "document_metadata": {
+    "title": "Science Standards of Learning for Public Schools",
+    "grade_level": "K-12",
+    "course_name": "Science",
+    "year": 2023
+  },
+  "introduction": "The Science Standards of Learning for Virginia Public Schools identify academic content for essential components of the science curriculum at different grade levels. The content of the standards, in conjunction with effective instruction, provide a platform for creating scientifically literate students. The Science Standards of Learning reflect a vertical progression of content and practices. The Standards of Learning contain content strands or topics that progress in complexity as they are studied at various grade levels in grades K-5 and are represented indirectly throughout the middle and high school courses. These strands are Scientific and Engineering Practices, Force, Motion, and Energy, Matter, Living Systems and Processes, Earth and Space Systems, Earth Resources. Six critical components for achieving science literacy are 1) Goals; 2) Investigate and Understand; 3) Nature of Science; 4) Science and Engineering Practices; 5) K-12 Safety; and 6) Instructional Technology. These six components support the Profile of a Virginia Graduate and an integrated instructional approach that incorporates science, technology, engineering, and mathematics (STEM). It is imperative to science instruction that the local curriculum consider and address how these components are incorporated in the design of the K-12 science program.",
+  "strands": [
+    {
+      "strand_code": "PH",
+      "strand_name": "Physics",
+      "standards": [
+        {
+          "standard_id": "PH.1",
+          "standard_statement": "The student will demonstrate an understanding of scientific and engineering practices by.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "asking questions and defining problems",
+                "sub_objectives": [
+                  "ask questions that arise from careful observation of phenomena, examination of a model or theory, unexpected results, and/or to seek additional information",
+                  "determine which questions can be investigated within the scope of the school laboratory",
+                  "make hypotheses that specify what happens to a dependent variable when an independent variable is manipulated",
+                  "generate hypotheses based on research and scientific principles",
+                  "define design problems that involves the development of a process or system with interacting components and criteria and constraints"
+                ],
+                "action_verb": "asking",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "planning and carrying out investigations",
+                "sub_objectives": [
+                  "individually and collaboratively plan and conduct observational and experimental investigations",
+                  "plan and conduct investigations or test design solutions in a safe manner",
+                  "select and use appropriate tools and technology to collect, record, analyze, and evaluate data"
+                ],
+                "action_verb": "planning",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "interpreting, analyzing, and evaluating data",
+                "sub_objectives": [
+                  "record and present data in an organized format that communicates relationships and quantities in appropriate mathematical or algebraic forms",
+                  "use data in building and revising models, supporting an explanation for phenomena, or testing solutions to problems",
+                  "analyze data using tools, technologies, and/or models (e.g., computational, mathematical, statistical) in order to make valid and reliable scientific claims or determine an optimal design solution",
+                  "analyze data graphically and use graphs to make predictions",
+                  "consider limitations of data analysis when analyzing and interpreting data",
+                  "evaluate the effects of new data on a working explanation and/or model of a proposed process or system",
+                  "analyze data to optimize a design"
+                ],
+                "action_verb": "interpreting",
+                "examples": [
+                  "computational",
+                  "mathematical",
+                  "statistical"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "constructing and critiquing conclusions and explanations",
+                "sub_objectives": [
+                  "make quantitative and/or qualitative claims based on data",
+                  "construct and revise explanations based on valid and reliable evidence obtained from a variety of sources",
+                  "apply scientific ideas, principles, and/or evidence to provide an explanation of phenomena or design solutions",
+                  "compare and evaluate competing arguments in light of currently accepted explanations and new scientific evidence",
+                  "construct arguments or counterarguments based on data and evidence",
+                  "differentiate between scientific hypothesis, theory, and law"
+                ],
+                "action_verb": "constructing",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "developing and using models",
+                "sub_objectives": [
+                  "evaluate the merits and limitations of models",
+                  "identify and communicate components of a system orally, graphically, textually, and mathematically",
+                  "develop and/or use models (including mathematical and computational) and simulations to visualize, explain, and predict phenomena and to interpret data sets"
+                ],
+                "action_verb": "developing",
+                "examples": [
+                  "mathematical",
+                  "computational"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "obtaining, evaluating, and communicating information",
+                "sub_objectives": [
+                  "compare, integrate, and evaluate sources of information presented in different media or formats to address a scientific question or solve a problem",
+                  "gather, read, and evaluate scientific and/or technical information from multiple authoritative sources, assessing the evidence and credibility of each source",
+                  "communicate scientific and/or technical information about phenomena and/or a design process in multiple formats"
+                ],
+                "action_verb": "obtaining",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "PH.2",
+          "standard_statement": "The student will investigate and understand, through mathematical and experimental processes, that there are relationships between position and time. Key topics include displacement, velocity, and uniform acceleration; linear motion; uniform circular motion; and projectile motion.",
+          "knowledge_and_skills": {
+            "objectives": [],
+            "action_verb": "investigate",
+            "examples": [],
+            "constraints": []
+          }
+        },
+        {
+          "standard_id": "PH.3",
+          "standard_statement": "The student will investigate and understand, through mathematical and experimental processes, that there are relationships among force, mass, and acceleration. Key laws include Newton’s laws of motion; and Newton’s law of universal gravitation.",
+          "knowledge_and_skills": {
+            "objectives": [],
+            "action_verb": "investigate",
+            "examples": [],
+            "constraints": []
+          }
+        },
+        {
+          "standard_id": "PH.4",
+          "standard_statement": "The student will investigate and understand, through mathematical and experimental processes, that conservation laws govern all interactions. Key ideas include momentum is conserved unless an impulse acts on the system; and mechanical energy is conserved unless work is done on, by, or within the system.",
+          "knowledge_and_skills": {
+            "objectives": [],
+            "action_verb": "investigate",
+            "examples": [],
+            "constraints": []
+          }
+        },
+        {
+          "standard_id": "PH.5",
+          "standard_statement": "The student will investigate and understand, through mathematical and experimental processes, that waves transmit energy and move in predictable patterns. Key ideas include waves have specific characteristics; wave interactions are part of everyday experiences; and light and sound transmit energy as waves.",
+          "knowledge_and_skills": {
+            "objectives": [],
+            "action_verb": "investigate",
+            "examples": [],
+            "constraints": []
+          }
+        },
+        {
+          "standard_id": "PH.6",
+          "standard_statement": "The student will investigate and understand, through mathematical and experimental processes, that optical systems form a variety of images. Key ideas include the laws of reflection and refraction describe light behavior; and ray diagrams model light as it travels through different media.",
+          "knowledge_and_skills": {
+            "objectives": [],
+            "action_verb": "investigate",
+            "examples": [],
+            "constraints": []
+          }
+        },
+        {
+          "standard_id": "PH.7",
+          "standard_statement": "The student will investigate and understand, through mathematical and experimental processes, that fields provide a unifying description of force at a distance. Key ideas include gravitational, electric, and magnetic forces can be described using the field concept; and field strength diminishes with increased distance from the source.",
+          "knowledge_and_skills": {
+            "objectives": [],
+            "action_verb": "investigate",
+            "examples": [],
+            "constraints": []
+          }
+        },
+        {
+          "standard_id": "PH.8",
+          "standard_statement": "The student will investigate and understand, through mathematical and experimental processes, that electrical circuits are a system used to transfer energy. Key ideas include circuit components have different functions within the system; Ohm’s law relates voltage, current, and resistance; different types of circuits have different characteristics and are used for different purposes; electrical power is related to the elements in a circuit; and electrical circuits have everyday applications.",
+          "knowledge_and_skills": {
+            "objectives": [],
+            "action_verb": "investigate",
+            "examples": [],
+            "constraints": []
+          }
+        },
+        {
+          "standard_id": "PH.9",
+          "standard_statement": "The student will investigate and understand that extremely large and extremely small quantities are not necessarily described by the same laws as those studied in Newtonian physics. Topics, such as these listed, may be included: wave/particle duality; quantum mechanics and uncertainty; relativity; nuclear physics; solid state physics; nanotechnology; superconductivity; the standard model; and dark matter and dark energy.",
+          "knowledge_and_skills": {
+            "objectives": [],
+            "action_verb": "investigate",
+            "examples": [],
+            "constraints": []
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "science",
+    "physics",
+    "scientific practices",
+    "engineering",
+    "investigation",
+    "data analysis",
+    "energy",
+    "forces",
+    "motion",
+    "waves",
+    "optics",
+    "electricity",
+    "quantum mechanics"
+  ],
+  "cognitive_level": "understand",
+  "suggested_question_types": [
+    "problem_solving",
+    "computational",
+    "short_answer",
+    "multiple_choice",
+    "matching"
+  ],
+  "_extraction_metadata": {
+    "source_file": "stds_physics.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 6164,
+    "prompt_tokens": 3954,
+    "completion_tokens": 2210
+  }
+}

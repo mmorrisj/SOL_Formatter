@@ -1,0 +1,669 @@
+{
+  "document_metadata": {
+    "title": "Foundations for Reading",
+    "grade_level": "Grade 1",
+    "course_name": "Foundations for Reading",
+    "year": 2023
+  },
+  "introduction": "Developing foundational literacy skills is a priority in first grade. These skills include phonological and phonemic awareness, print awareness, phonics, fluency, language usage and handwriting. A student in first grade will learn and apply more complex phonics patterns when reading and writing while increasing their automaticity in reading words and connected text. The student will gain fluency when reading and rereading both phonetically controlled and uncontrolled texts. While foundational skills are a focus, it is equally important that the student continue to build world and word knowledge. Immersing the student in a text and language rich environment supports the student’s development of communication skills, vocabulary, comprehension, and an appreciation for reading and writing. The first-grade student will apply comprehension strategies when reading and listening to literary and informational texts and collaborating in classroom discussions. To support knowledge building, an emphasis will be given on materials connected to mathematics, science, and history and social science. The first-grade student will write in a variety of forms for specific purposes.",
+  "strands": [
+    {
+      "code": "FFR",
+      "name": "Foundations for Reading",
+      "standards": [
+        {
+          "id": "1.FFR.2",
+          "statement": "The student will orally identify and produce various phonemes (individual sounds) within words to develop phonemic awareness in support of decoding (reading) and encoding (spelling).",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Isolate sounds in four and five phoneme words.",
+                "action_verb": "Isolate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Demonstrate ability to blend words with four and five phonemes, including words with consonant digraphs (e.g., th, sh, ch) and consonant blends (e.g., fr, st, bl).",
+                "action_verb": "Demonstrate",
+                "examples": [
+                  "th",
+                  "sh",
+                  "ch",
+                  "fr",
+                  "st",
+                  "bl"
+                ],
+                "constraints": []
+              },
+              {
+                "text": "Demonstrate the ability to segment words with four and five phonemes, including words with consonant digraphs (e.g., th, sh, ch) and consonant blends (e.g., fr, st, bl).",
+                "action_verb": "Demonstrate",
+                "examples": [
+                  "th",
+                  "sh",
+                  "ch",
+                  "fr",
+                  "st",
+                  "bl"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.FFR.3",
+          "statement": "The student will apply phonetic principles to read and spell words.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Decode and encode words with short vowels to include blends with digraphs, closed syllables (CVC, CCVC, CVCC, CCVCC).",
+                "action_verb": "Decode",
+                "examples": [
+                  "CVC",
+                  "CCVC",
+                  "CVCC",
+                  "CCVCC"
+                ],
+                "constraints": []
+              },
+              {
+                "text": "Decode and encode words with long vowels, open syllables, (CV, CCV) and vowel-consonant-e (CVCE, CCVCE).",
+                "action_verb": "Decode",
+                "examples": [
+                  "CV",
+                  "CCV",
+                  "CVCE",
+                  "CCVCE"
+                ],
+                "constraints": []
+              },
+              {
+                "text": "Use letter-sound correspondences to decode words containing common vowel teams and r-controlled vowels.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Decode multisyllabic words following basic patterns by breaking the words into syllables.",
+                "action_verb": "Decode",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Read grade-level high-frequency words, including decodable and irregular words with automaticity and accuracy.",
+                "action_verb": "Read",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Write grade-level high-frequency words with automaticity and accuracy.",
+                "action_verb": "Write",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "DSR",
+      "name": "Developing Skilled Readers and Building Reading Stamina",
+      "standards": [
+        {
+          "id": "1.DSR",
+          "statement": "The student will build knowledge and comprehension skills from reading and listening to a range of challenging, content-rich texts. This includes fluently reading decodable texts and gathering evidence from reading widely (through content-rich read alouds) on topics to gain worthwhile knowledge and vocabulary.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Use knowledge of letter-sound correspondences to read a variety of decodable and grade-level texts with accuracy, automaticity, appropriate rate, and meaningful expression in successive readings to support comprehension.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Monitor while reading to confirm or self-correct word recognition and understanding, as necessary (Reading Fluency, K-12).",
+                "action_verb": "Monitor",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "With prompting and support, when responding to text through discussions and/or writing, draw several pieces of evidence from read-alouds to support claims, conclusions, and inferences, including quoting or paraphrasing from texts accurately and tracing where relevant evidence is located (Textual Evidence, K-12).",
+                "action_verb": "Draw",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Regularly engage in listening to a series of conceptually related texts organized around topics of study to build knowledge and vocabulary.",
+                "action_verb": "Engage",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "RV",
+      "name": "Reading and Vocabulary",
+      "standards": [
+        {
+          "id": "1.RV",
+          "statement": "The student will systematically build vocabulary and word knowledge based on grade-one content and texts heard or read.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Discuss meanings of words in context from a variety of texts.",
+                "action_verb": "Discuss",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Identify antonyms and synonyms of familiar words to deepen understanding of word meaning and relationships.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Ask for the meaning of unknown words and make connections to familiar words.",
+                "action_verb": "Ask",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Use vocabulary across content areas.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Determine the meaning of an unknown word using frequently occurring root words and inflectional affixes (e.g. -s, -ing, -ed).",
+                "action_verb": "Determine",
+                "examples": [
+                  "-s",
+                  "-ing",
+                  "-ed"
+                ],
+                "constraints": []
+              },
+              {
+                "text": "Distinguish shades of meaning among verbs and adjectives.",
+                "action_verb": "Distinguish",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Identify the purpose of simple reference materials (e.g. picture dictionary, digital dictionary).",
+                "action_verb": "Identify",
+                "examples": [
+                  "picture dictionary",
+                  "digital dictionary"
+                ],
+                "constraints": []
+              },
+              {
+                "text": "Increase and develop breadth of vocabulary knowledge by listening to high quality, complex text.",
+                "action_verb": "Increase",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Use newly learned words and phrases in discussions and speaking activities.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "RL",
+      "name": "Reading Literary Text",
+      "standards": [
+        {
+          "id": "1.RL.1",
+          "statement": "The student will use textual evidence to demonstrate comprehension and build knowledge from a variety of literary texts heard or read including fantasy, humor, fable/fairy tale, realistic fiction, historical fiction, and folklore/tall tale.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Retell familiar stories sequentially and demonstrate an understanding of the story structure, the central message or lesson, and the details.",
+                "action_verb": "Retell",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Identify the elements of a familiar story, including the characters, setting, and important events (e.g., conflict and resolution).",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Ask and answer literal (who, what, when, where) or inferential (how, why) questions about what is read.",
+                "action_verb": "Ask",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Generate predictions about story characters and events using the text.",
+                "action_verb": "Generate",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.RL.3",
+          "statement": "Set a purpose for reading by providing a guiding question, activating prior (experience) and background (content) knowledge.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Make connections between characters, settings, and major events in stories heard, using key details.",
+                "action_verb": "Make",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Compare and contrast the adventures or experiences of characters in stories heard, using key details.",
+                "action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "RI",
+      "name": "Reading Informational Text",
+      "standards": [
+        {
+          "id": "1.RI.1",
+          "statement": "The student will use textual evidence to demonstrate comprehension and build knowledge from a variety of informational texts heard or read.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Ask and answer literal (who, what, when, where) and inferential (why, how) questions about what is read, including demonstrating an understanding of the main topics.",
+                "action_verb": "Ask",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Identify the main idea and supporting details of a text.",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Explain the difference between facts and opinions in a text.",
+                "action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.RI.2",
+          "statement": "Identify and use common text features to gain information, table of contents, headings, bolded words, and pictures, captions, and diagrams.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Distinguish between information provided by pictures or other illustrations and information provided by the words in a text.",
+                "action_verb": "Distinguish",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.RI.3",
+          "statement": "Identify basic similarities in and differences between two texts on the same topic.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Describe the connection between two individuals, events, ideas, or pieces of information in a text.",
+                "action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "FFW",
+      "name": "Foundations for Writing",
+      "standards": [
+        {
+          "id": "1.FFW.1",
+          "statement": "The student will print legibly in manuscript.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Use functional pencil grasp for letter formation.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Accurately and automatically form all capital and lowercase letters and numbers using manuscript letter formation.",
+                "action_verb": "Form",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Accurately and automatically apply spaces between written words in phrases or sentence-level writing.",
+                "action_verb": "Apply",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.FFW.2",
+          "statement": "The student will use phoneme-grapheme (sound/symbol) correspondence to encode (spell) single-syllable words containing closed syllables (cvc, ccvc, cvcc, and ccvcc), open syllables (cv, ccv), vowel-consonant-e (cvce, ccvce).",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Encode (spell) 2-syllable words (e.g., pancake) following basic patterns by breaking the words into syllables.",
+                "action_verb": "Encode",
+                "examples": [
+                  "pancake"
+                ],
+                "constraints": []
+              },
+              {
+                "text": "Use phoneme/grapheme (sound/symbol) correspondences to encode (spell) grade-level high-frequency words with automaticity and accuracy.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "W",
+      "name": "Writing",
+      "standards": [
+        {
+          "id": "1.W",
+          "statement": "The student will write in a variety of forms for diverse audiences and purposes linked to grade one content and texts.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Use a combination of drawing, dictating, and writing to recount two or more sequenced events or experiences and include details about the events and characters.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Use a combination of drawing, dictating, and writing to compose informative/expository texts that name a topic and supply some facts about the topic.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Use a combination of drawing, dictating, and writing to compose opinion pieces that state an opinion and supply a reason for the opinion.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Use a combination of drawing, dictating, and writing about text(s) read or heard in which students share their thinking with a couple of supporting details from the text.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.W.2",
+          "statement": "With guidance and support, use a variety of prewriting activities, such as brainstorming, drawing and graphic organizers, to generate ideas and draft writing or dictation.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Identifying the audience and purpose of the writing (e.g., letters, stories, journals, etc.).",
+                "action_verb": "Identifying",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Composing a series of simple sentences focused on the topic, including sentences with a subject and predicate, subject/verb agreement, and one or more descriptive adjectives.",
+                "action_verb": "Composing",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.W.3",
+          "statement": "With guidance and support from adults, edit writing for conventions e.g., spelling, capitalization, usage, punctuation.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Edit writing for conventions.",
+                "action_verb": "Edit",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "LU",
+      "name": "Language Usage",
+      "standards": [
+        {
+          "id": "1.LU.1",
+          "statement": "The student will use conventions of Standard English when speaking and writing, differentiating between contexts that call for formal English and situations where informal discourse is more appropriate.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Produce and expand simple sentences, including a noun, verb, and adjective.",
+                "action_verb": "Produce",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Use personal and possessive pronouns to represent nouns.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Use frequently occurring adjectives to describe specific objects (quantity, size, age, shape, color, or location).",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Form and use simple verb tenses (past, present, and future) for regular verbs.",
+                "action_verb": "Form",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Use proper verb tense and correct subject-verb agreement.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Use articles correctly (e.g., a, an, the).",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Use interrogatives to ask questions in complete sentences (e.g., who, what, where, when, why, how).",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.LU.2",
+          "statement": "Capitalize the first word in a sentence, proper nouns, and the pronoun I.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Identify statements and questions and, use correct ending punctuation (e.g., period, questions mark, and exclamation points).",
+                "action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Use conventional spelling of words with commonly taught spelling patterns and for frequently occurring irregular words.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "C",
+      "name": "Communication and Multimodal Literacies",
+      "standards": [
+        {
+          "id": "1.C",
+          "statement": "The student will develop effective oral communication and collaboration skills to build a community of learners that process, understand, and interpret content together.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Participate in a range of collaborative discussions (one-on-one, in groups, and teacher-led) on grade one topics and texts.",
+                "action_verb": "Participate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Listen actively and follow agreed-upon rules for participating in discussions (e.g., waiting for a turn to speak without unnecessary interruptions and staying on topic).",
+                "action_verb": "Listen",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Respectfully build on others’ ideas and express their own clearly.",
+                "action_verb": "Respectfully",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Ask questions to seek help, get information, or clarify information for further understanding.",
+                "action_verb": "Ask",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Express ideas and needs in complete sentences.",
+                "action_verb": "Express",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "id": "1.C.2",
+          "statement": "Describe people, places, things, and events with relevant details and using appropriate vocabulary.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "Speak audibly with appropriate pacing, prosody, and voice level.",
+                "action_verb": "Speak",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Participate in a variety of oral language activities, including choral speaking and recitation of short poems, rhymes, songs, and stories with repeated patterns and refrains.",
+                "action_verb": "Participate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Retell, create, and dictate stories, rhymes, poems, and events in sequential order using drama, props, and/or pictures indicating first, next, and last events in a story.",
+                "action_verb": "Retell",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "R",
+      "name": "Research",
+      "standards": [
+        {
+          "id": "1.R",
+          "statement": "The student will conduct research and listen to a series of conceptually related texts on selected topics to build knowledge on grade-level topics or solve problems using available resources.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "text": "With prompting and support, generate research questions related to a given topic.",
+                "action_verb": "Generate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Locate and collect information related to the given topic from pictures, texts, people, or provided sources.",
+                "action_verb": "Locate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "Use templates to organize the information collected (e.g., charts, graphs).",
+                "action_verb": "Use",
+                "examples": [
+                  "charts",
+                  "graphs"
+                ],
+                "constraints": []
+              },
+              {
+                "text": "Use drawing, writing, or dictation to record facts and information collected from research.",
+                "action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "text": "In small or large group settings, informally share recorded information collected from research.",
+                "action_verb": "Share",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "_extraction_metadata": {
+    "source_file": "1_Understanding the Standards.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 15267,
+    "prompt_tokens": 10040,
+    "completion_tokens": 5227
+  }
+}

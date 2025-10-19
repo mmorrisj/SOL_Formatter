@@ -1,0 +1,614 @@
+{
+  "document_metadata": {
+    "title": "2023 Mathematics Standards of Learning",
+    "grade_level": "High School",
+    "course_name": "Mathematical Analysis",
+    "year": 2023
+  },
+  "introduction": "Students enrolled in Mathematical Analysis are assumed to have mastered Algebra 1, Geometry, and Algebra 2 concepts. Mathematical Analysis develops students’ understanding of algebraic and transcendental functions, parametric and polar equations, sequences and series, and vectors. The content of this course serves as appropriate preparation for a calculus course. Technology tools will be used to assist in teaching and learning. Graphing technologies facilitate visualizing, analyzing, and understanding algebraic and statistical behaviors and provide a powerful tool for solving and verifying solutions.",
+  "strands": [
+    {
+      "strand_code": "CF",
+      "strand_name": "Characteristics of Functions",
+      "standards": [
+        {
+          "standard_id": "MA.CF.1",
+          "standard_statement": "The student will identify and analyze the properties of polynomial, rational, piecewise-defined, absolute value, radical, and step functions and sketch the graphs of the functions.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Use mathematical reasoning to identify polynomial, rational, piecewise-defined, absolute value, radical, and step functions, given an equation or graph.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Given multiple representations of a polynomial, rational, piecewise-defined, absolute value, radical, and step function, analyze:",
+                "sub_objectives": [
+                  "domain and range",
+                  "roots (including complex roots)",
+                  "intercepts",
+                  "symmetry (including even and odd functions)",
+                  "asymptotes (horizontal, vertical, and oblique/slant)",
+                  "points of discontinuity",
+                  "intervals for which the function is increasing, decreasing or constant",
+                  "end behavior",
+                  "relative and/or absolute maximum and minimum points"
+                ],
+                "primary_action_verb": "analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Sketch the graph of a polynomial, rational, piecewise-defined, absolute value, radical, and step function.",
+                "primary_action_verb": "Sketch",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "MA.CF.2",
+          "standard_statement": "The student will determine the limit of a function if it exists.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Verify estimates about the limit of a function using graphing technology.",
+                "primary_action_verb": "Verify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the limit of a function algebraically and verify with graphing technology.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the limit of a function numerically and verify with graphing technology.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use proper limit notation, including when describing the end behavior of a function.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "As the variable approaches a finite number, determine the limit of a function numerically by direct substitution.",
+                "primary_action_verb": "determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the limit of a function using algebraic manipulation.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Estimate the limit of a function using a table.",
+                "primary_action_verb": "Estimate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the limit of a function from a given graph.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "As the variable approaches positive or negative infinity, analyze the limit of a function to describe the end behavior.",
+                "primary_action_verb": "analyze",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "MA.CF.3",
+          "standard_statement": "The student will analyze and describe the continuity of functions.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Describe continuity of a function.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use mathematical notation to communicate and describe the continuity of functions including polynomial, rational, piecewise, absolute value, radical, and step function, using graphical and algebraic methods.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Prove continuity at a point, using the definition.",
+                "primary_action_verb": "Prove",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Classify types of discontinuity based on which condition of continuity is violated.",
+                "primary_action_verb": "Classify",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "FR",
+      "strand_name": "Functional Relationships",
+      "standards": [
+        {
+          "standard_id": "MA.FR.1",
+          "standard_statement": "The student will analyze compositions of functions to determine and verify inverses of functions.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Construct the composition of functions algebraically and graphically.",
+                "primary_action_verb": "Construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the domain and range of composite functions algebraically and graphically.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Develop the inverse of a function algebraically and graphically.",
+                "primary_action_verb": "Develop",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Compare the domain and range of the inverse of a function with the original function, both algebraically and graphically.",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use mathematical reasoning to generalize and communicate the criteria for an inverse function to exist.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "MA.FR.2",
+          "standard_statement": "The student will analyze the characteristics of exponential and logarithmic functions, and sketch the graphs of the functions.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Generalize characteristics of exponential and logarithmic functions from an equation or a graph.",
+                "primary_action_verb": "Generalize",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Define e and estimate its value.",
+                "primary_action_verb": "Define",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Convert between equations written in logarithmic and exponential form.",
+                "primary_action_verb": "Convert",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use laws of exponents and properties of logarithms to solve equations and simplify expressions.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Represent contextual problems, using exponential and logarithmic functions, to include common and natural logarithms.",
+                "primary_action_verb": "Represent",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Sketch the graph of exponential and logarithmic functions and identify asymptotes, end behavior, intercepts, domain, and range.",
+                "primary_action_verb": "Sketch",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "MA.FR.3",
+          "standard_statement": "The student will analyze sequences and finite series, and model and solve problems in context using sequences and series.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Use and interpret the notation: ∑, n, nth, and an.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Derive the formulas associated with arithmetic and geometric sequences and series.",
+                "primary_action_verb": "Derive",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the nth term, an, for an arithmetic or geometric sequence.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the sum, Sn, if it exists, of an arithmetic or geometric series.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Model and solve problems in context, using sequences and series.",
+                "primary_action_verb": "Model",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Distinguish between a convergent and divergent series.",
+                "primary_action_verb": "Distinguish",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe convergent series in relation to the concept of a limit.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "AG",
+      "strand_name": "Analytic Geometry",
+      "standards": [
+        {
+          "standard_id": "MA.AG.1",
+          "standard_statement": "The student will identify and analyze the properties of conic sections and sketch a graph given an equation.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Given a translation or rotation matrix, determine an equation for the transformed function or conic section.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Convert between standard and general forms of conic equations by completing the square.",
+                "primary_action_verb": "Convert",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Graph conic sections from equations written in general or standard form using transformations.",
+                "primary_action_verb": "Graph",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify characteristics of conic sections including center, vertices, axes, symmetry, foci, directrix, eccentricity, and asymptotes.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Represent applications of conic sections.",
+                "primary_action_verb": "Represent",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "MA.AG.2",
+          "standard_statement": "The student will use parametric equations to model and solve problems in context.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Graph and analyze parametric equations and use the graph to determine solutions.",
+                "primary_action_verb": "Graph",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use parametric equations to model contextual problems, including motion over time.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "MA.AG.3",
+          "standard_statement": "The student will perform operations with vectors in the coordinate plane.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Use vector notation.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Perform the operations of addition, subtraction, and scalar multiplication, graphically and algebraically on vectors.",
+                "primary_action_verb": "Perform",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Find the dot (inner) product of two vectors and use it to determine the angle between two vectors.",
+                "primary_action_verb": "Find",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine if two vectors are orthogonal.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Express complex numbers in vector notation.",
+                "primary_action_verb": "Express",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Verify properties of the dot product.",
+                "primary_action_verb": "Verify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the components of a vector.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the norm (magnitude) of a vector.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Find a unit vector in the same direction of a given vector.",
+                "primary_action_verb": "Find",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Apply vectors to problems in context.",
+                "primary_action_verb": "Apply",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "MA.AG.4",
+          "standard_statement": "The student will investigate and identify the characteristics of the graphs of polar equations.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Classify polar equations (rose, cardioid, limaçon, lemniscate, spiral, and circle), given the graph or the equation.",
+                "primary_action_verb": "Classify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the effects of changes in the parameters of polar equations on the graph, using graphing technology.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Convert between polar and rectangular forms of coordinates.",
+                "primary_action_verb": "Convert",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Convert between complex numbers written in rectangular form and polar form.",
+                "primary_action_verb": "Convert",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Convert equations between polar and rectangular forms.",
+                "primary_action_verb": "Convert",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine and verify the intersection of the graphs of two polar equations, using graphing technology.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "MA.AG.5",
+          "standard_statement": "The student will use matrices to organize data and will add and subtract matrices, multiply matrices, multiply matrices by a scalar, and use matrices to solve systems of equations.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Multiply matrices by a scalar.",
+                "primary_action_verb": "Multiply",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Add, subtract, and multiply matrices.",
+                "primary_action_verb": "Add",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Represent problems with a system of no more than three linear equations.",
+                "primary_action_verb": "Represent",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Express a system of linear equations as a matrix equation.",
+                "primary_action_verb": "Express",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Solve a system of equations using matrices.",
+                "primary_action_verb": "Solve",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the inverse of a two-by-two or three-by-three matrix using paper and pencil.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Verify two matrices are inverses using matrix multiplication.",
+                "primary_action_verb": "Verify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Verify the commutative and associative properties for matrix addition and multiplication.",
+                "primary_action_verb": "Verify",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "functions",
+    "limits",
+    "continuity",
+    "compositions",
+    "inverses",
+    "exponential functions",
+    "logarithmic functions",
+    "sequences",
+    "series",
+    "conic sections",
+    "parametric equations",
+    "vectors",
+    "polar equations",
+    "matrices"
+  ],
+  "cognitive_levels": [
+    {
+      "standard_id": "MA.CF.1",
+      "cognitive_level": "understand"
+    },
+    {
+      "standard_id": "MA.CF.2",
+      "cognitive_level": "apply"
+    },
+    {
+      "standard_id": "MA.CF.3",
+      "cognitive_level": "analyze"
+    },
+    {
+      "standard_id": "MA.FR.1",
+      "cognitive_level": "analyze"
+    },
+    {
+      "standard_id": "MA.FR.2",
+      "cognitive_level": "understand"
+    },
+    {
+      "standard_id": "MA.FR.3",
+      "cognitive_level": "apply"
+    },
+    {
+      "standard_id": "MA.AG.1",
+      "cognitive_level": "analyze"
+    },
+    {
+      "standard_id": "MA.AG.2",
+      "cognitive_level": "apply"
+    },
+    {
+      "standard_id": "MA.AG.3",
+      "cognitive_level": "apply"
+    },
+    {
+      "standard_id": "MA.AG.4",
+      "cognitive_level": "analyze"
+    },
+    {
+      "standard_id": "MA.AG.5",
+      "cognitive_level": "apply"
+    }
+  ],
+  "suggested_question_types": [
+    {
+      "action_verb": "Use",
+      "question_type": "problem_solving"
+    },
+    {
+      "action_verb": "analyze",
+      "question_type": "short_answer"
+    },
+    {
+      "action_verb": "Determine",
+      "question_type": "problem_solving"
+    },
+    {
+      "action_verb": "Sketch",
+      "question_type": "graphical"
+    },
+    {
+      "action_verb": "Represent",
+      "question_type": "short_answer"
+    },
+    {
+      "action_verb": "Verify",
+      "question_type": "true_false"
+    }
+  ],
+  "_extraction_metadata": {
+    "source_file": "17-MathAnalysis-Understanding the Standards.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 9542,
+    "prompt_tokens": 5141,
+    "completion_tokens": 4401
+  }
+}

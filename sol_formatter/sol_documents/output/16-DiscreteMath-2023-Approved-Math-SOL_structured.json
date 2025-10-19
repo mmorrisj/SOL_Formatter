@@ -1,0 +1,756 @@
+{
+  "document_metadata": {
+    "title": "Mathematics Standards of Learning for Virginia Public Schools",
+    "grade_level": "2023 Discrete Mathematics",
+    "course_name": "Discrete Mathematics",
+    "year": 2023
+  },
+  "introduction": "The following standards outline the content of a one-year course in Discrete Mathematics. If a one-semester course is desired, the standards with a dagger (†) would apply. Discrete Mathematics may be described as the study of mathematical properties of sets and systems that have a countable (discrete) number of elements. With the advent of modern technology, discrete (discontinuous) models have become as important as continuous models. In this course, the main focus is problem solving in a discrete setting. Techniques that are not considered in the current traditional courses of algebra, geometry, and calculus will be utilized. As students solve problems, they will analyze and determine whether a solution exists (existence problems), investigate how many solutions exist (counting problems), and focus on finding the best solution (optimization problems). Connections will be made to other disciplines. The importance of discrete mathematics has been influenced by technology. Technology tools will be used to assist in teaching and learning. Graphing technologies facilitate visualizing, analyzing, and understanding algebraic and statistical behaviors and provide a powerful tool for solving and verifying solutions.",
+  "strands": [
+    {
+      "strand_code": "LR",
+      "strand_name": "Logical Reasoning",
+      "standards": [
+        {
+          "standard_id": "DM.LR.1†",
+          "standard_statement": "The student will use reasoning to develop and apply logical arguments.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Use Venn diagrams to codify and solve logic problems.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Express logical statements in symbolic form.",
+                "primary_action_verb": "Express",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Represent a conditional statement as its converse, inverse, and contrapositive.",
+                "primary_action_verb": "Represent",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe how symbolic logic can be used to map the processes of computer applications.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Construct a truth table to display all possible input combinations and their outputs.",
+                "primary_action_verb": "Construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify the rules of inference and model basic logical statements including De Morgan’s Law.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Apply logical reasoning to model contextual situations and make decisions.",
+                "primary_action_verb": "Apply",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "DM.LR.2†",
+          "standard_statement": "The student will apply logic and proof techniques in the construction of a sound argument.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Apply informal logical reasoning to contextual problems (e.g., predicting the behavior of software, solving puzzles).",
+                "primary_action_verb": "Apply",
+                "examples": [
+                  "predicting the behavior of software",
+                  "solving puzzles"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Outline the basic structure of a proof technique (e.g., direct proof, proof by contradiction, induction).",
+                "primary_action_verb": "Outline",
+                "examples": [
+                  "direct proof",
+                  "proof by contradiction",
+                  "induction"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Deduce the best type of proof for a given problem.",
+                "primary_action_verb": "Deduce",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use the rules of inference to construct direct proofs and proofs by contradiction.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Construct induction proofs involving summations and inequalities.",
+                "primary_action_verb": "Construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use a truth table to prove the logical equivalence of statements.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "DM.LR.3†",
+          "standard_statement": "The student will apply Boolean algebra to represent and analyze the function of logical gates and circuits.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Explain basic properties of Boolean algebra: duality, complements, and standard forms.",
+                "primary_action_verb": "Explain",
+                "examples": [
+                  "duality",
+                  "complements",
+                  "standard forms"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Represent verbal statements as Boolean expressions.",
+                "primary_action_verb": "Represent",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Apply Boolean algebra to prove identities and simplify expressions.",
+                "primary_action_verb": "Apply",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Generate truth tables that encode the truth and falsity of two or more statements.",
+                "primary_action_verb": "Generate",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Explain the operation of discrete logic gates.",
+                "primary_action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe the relationship between Boolean algebra and electronic circuits.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Analyze a combinational network using Boolean expressions.",
+                "primary_action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Design simple combinational networks that use NAND (AND followed by NOT), NOR (OR followed by NOT), and XOR (exclusive-OR) gates.",
+                "primary_action_verb": "Design",
+                "examples": [
+                  "NAND",
+                  "NOR",
+                  "XOR"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "DM.LR.4",
+          "standard_statement": "The student will use mathematical induction to prove formulas and mathematical statements.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Compare and contrast inductive and deductive reasoning.",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Explain the relationship between weak and strong induction.",
+                "primary_action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Construct induction proofs involving a divisibility argument.",
+                "primary_action_verb": "Construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Prove the Binomial Theorem through mathematical induction.",
+                "primary_action_verb": "Prove",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "SNT",
+      "strand_name": "Set and Number Theory",
+      "standards": [
+        {
+          "standard_id": "DM.SNT.1†",
+          "standard_statement": "The student will identify and use the properties of sets and set operations.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Compare and contrast sets, relations, and functions.",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Express relationships between sets using Venn diagrams.",
+                "primary_action_verb": "Express",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe a set using set-builder notation.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Construct new sets using the set operations intersection, union, difference, and complement.",
+                "primary_action_verb": "Construct",
+                "examples": [
+                  "intersection",
+                  "union",
+                  "difference",
+                  "complement"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify the laws of set theory (e.g., associative, commutative, distributive, De Morgan’s Law).",
+                "primary_action_verb": "Identify",
+                "examples": [
+                  "associative",
+                  "commutative",
+                  "distributive",
+                  "De Morgan’s Law"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use the principle of inclusion and exclusion to determine the size of a set.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use the properties of set operations to prove set equality.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "DM.SNT.2†",
+          "standard_statement": "The student will apply the formulas of combinatorics.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Create a tree diagram to represent relationships between independent events.",
+                "primary_action_verb": "Create",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use the Fundamental (Basic) Counting Principle to determine the number of possible outcomes of an event.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the number of combinations possible when subsets of r elements are selected from a set of n elements without regard to order.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the number of permutations possible when r objects selected from n objects are ordered.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use the pigeonhole principle to solve packing problems to facilitate proofs.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Construct a proof by induction using principles of combinatorics.",
+                "primary_action_verb": "Construct",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "DM.SNT.3",
+          "standard_statement": "The student will use Pascal’s Triangle to analyze numerical patterns and relationships.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Construct Pascal’s Triangle.",
+                "primary_action_verb": "Construct",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Expand binomials having positive integral exponents, using the Binomial Theorem and Pascal’s Triangle.",
+                "primary_action_verb": "Expand",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Compare the binomial coefficient to the calculation of combinations.",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify the Fibonacci numbers within Pascal’s Triangle.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "GT",
+      "strand_name": "Graph Theory",
+      "standards": [
+        {
+          "standard_id": "DM.GT.1†",
+          "standard_statement": "The student will represent problems using vertex-edge graphs. The concepts of degree, connectedness, paths, planarity, and directed graphs will be analyzed.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Illustrate the basic terminology of graph theory (e.g., vertex, edge, graph, degree of a vertex).",
+                "primary_action_verb": "Illustrate",
+                "examples": [
+                  "vertex",
+                  "edge",
+                  "graph",
+                  "degree of a vertex"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use graphs to map situations in which the vertices represent objects, and edges represent a particular relationship between objects.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify and describe degree and connectedness.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine whether a graph is planar or nonplanar.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Analyze the relationship between faces, edges, and vertices using Euler’s formula (F = E – V + 2).",
+                "primary_action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use directed graphs (digraphs) to represent situations with restrictions in traversal possibilities.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine when graphs are trees.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "DM.GT.2†",
+          "standard_statement": "The student will solve problems through analysis and application of circuits, cycles, Euler paths, Euler circuits, Hamilton paths, and Hamilton circuits. Optimal solutions will be determined using existing algorithms and student-created algorithms.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Determine whether a graph has an Euler circuit or path, and determine the circuit or path, if it exists.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine whether a graph has a Hamilton circuit or path, and determine the circuit or path, if it exists.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Count the number of Hamilton circuits for a complete graph with n vertices.",
+                "primary_action_verb": "Count",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use an Euler circuit algorithm to solve optimization problems.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "DM.GT.3†",
+          "standard_statement": "The student will apply graphs to conflict-resolution problems, such as graph coloring, scheduling, matching, and optimization.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Model projects consisting of several subtasks, using a graph.",
+                "primary_action_verb": "Model",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use graphs to resolve conflicts that arise in scheduling.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use graph coloring to determine the chromatic number of a graph.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "DM.GT.4",
+          "standard_statement": "The student will recognize and apply algorithms to solve configuration, conflict-resolution, and sorting problems.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Recognize algorithms such as nearest neighbor, brute force, and cheapest link as they apply to graphs.",
+                "primary_action_verb": "Recognize",
+                "examples": [
+                  "nearest neighbor",
+                  "brute force",
+                  "cheapest link"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use Kruskal’s algorithm to determine the shortest spanning tree of a connected graph.",
+                "primary_action_verb": "Use",
+                "examples": [
+                  "Kruskal’s algorithm"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use Prim’s algorithm to determine the shortest spanning tree of a connected graph.",
+                "primary_action_verb": "Use",
+                "examples": [
+                  "Prim’s algorithm"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use Dijkstra’s algorithm to determine the shortest spanning tree of a connected graph.",
+                "primary_action_verb": "Use",
+                "examples": [
+                  "Dijkstra’s algorithm"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "DM.GT.5",
+          "standard_statement": "The student will use algorithms to schedule tasks to determine a minimum project time.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Specify in a digraph the order in which tests are to be performed.",
+                "primary_action_verb": "Specify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify the critical path to determine the earliest completion time (minimum project time).",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use the list-processing algorithm to determine an optimal schedule.",
+                "primary_action_verb": "Use",
+                "examples": [
+                  "list-processing algorithm"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Create and test scheduling algorithms.",
+                "primary_action_verb": "Create",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "strand_code": "CM",
+      "strand_name": "Computational Methods",
+      "standards": [
+        {
+          "standard_id": "DM.CM.1†",
+          "standard_statement": "The student will describe and apply sorting and searching algorithms used in processing and communicating information.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Select and apply a sorting algorithm, such as a bubble sort, merge sort, or network sort.",
+                "primary_action_verb": "Select",
+                "examples": [
+                  "bubble sort",
+                  "merge sort",
+                  "network sort"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe the advantages and disadvantages of various sorting algorithms.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Analyze the knapsack and bin-packing problems.",
+                "primary_action_verb": "Analyze",
+                "examples": [
+                  "knapsack",
+                  "bin-packing"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Select and apply search algorithms to analyze problems.",
+                "primary_action_verb": "Select",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine the average, best-case, and worst-case reasoning for different searches.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "DM.CM.2†",
+          "standard_statement": "The student will use recursive processes.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Compare and contrast iterative and recursive processes.",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use recursive processes to model growth and decay.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use recursive processes to create fractals.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Use recursive processes to generate the Fibonacci sequence.",
+                "primary_action_verb": "Use",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine if a recursive solution is more efficient than an iterative solution.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "DM.CM.3",
+          "standard_statement": "The student will identify and apply cryptographic methods.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Compare and contrast ciphers and codes.",
+                "primary_action_verb": "Compare",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe the evolution of cipher systems.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Identify the Fundamental Theorem of Arithmetic.",
+                "primary_action_verb": "Identify",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe how the complexity of prime factorization is used in cryptography.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe modular arithmetic in context (e.g., clocks, days of the week, measures of time).",
+                "primary_action_verb": "Describe",
+                "examples": [
+                  "clocks",
+                  "days of the week",
+                  "measures of time"
+                ],
+                "constraints": []
+              },
+              {
+                "objective_text": "Analyze the relationship between divisibility and modulus.",
+                "primary_action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Determine congruence within modular arithmetic.",
+                "primary_action_verb": "Determine",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Perform operations within modular arithmetic.",
+                "primary_action_verb": "Perform",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Apply modular arithmetic to problems in context (e.g., cryptography, International Standard Book Number (ISBN), International Bank Account Number (IBAN)).",
+                "primary_action_verb": "Apply",
+                "examples": [
+                  "cryptography",
+                  "ISBN",
+                  "IBAN"
+                ],
+                "constraints": []
+              }
+            ]
+          }
+        },
+        {
+          "standard_id": "DM.CM.4",
+          "standard_statement": "The student will analyze the limitations of algorithms and their contextual relationships in computing.",
+          "knowledge_and_skills": {
+            "objectives": [
+              {
+                "objective_text": "Describe maximum complexity of an algorithm using Big O notation.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe Turing machines and how they are used to test the limits of computation.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Describe the halting problem and explain how it characterizes the fundamental limitations of computation and undecidability.",
+                "primary_action_verb": "Describe",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Explain the P versus NP problem and defend a justification for equality, inequality, or undecidability.",
+                "primary_action_verb": "Explain",
+                "examples": [],
+                "constraints": []
+              },
+              {
+                "objective_text": "Analyze how the equivalence of P- and NP-class problems might impact society.",
+                "primary_action_verb": "Analyze",
+                "examples": [],
+                "constraints": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "_extraction_metadata": {
+    "source_file": "16-DiscreteMath-2023-Approved-Math-SOL.docx",
+    "model": "gpt-4o-mini",
+    "temperature": 0.1,
+    "tokens_used": 7959,
+    "prompt_tokens": 2618,
+    "completion_tokens": 5341
+  }
+}
